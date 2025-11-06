@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+joblib
+openpyxl
+matplotlib
+fpdf2
+

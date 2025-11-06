@@ -1,0 +1,3609 @@
+date,category,amount,description
+2022-07-06,Shopping,5.5,Ajio Shopping ₹5.5
+2022-07-06,Insurance,2.0,Car Insurance ₹2.0
+2022-07-06,Food,30.1,Cafe Coffee Day ₹30.1
+2022-07-06,Food,17.33,Cafe Coffee Day ₹17.33
+2022-07-06,Dining,5.5,KFC Meal ₹5.5
+2022-07-06,Groceries,11.78,Reliance Fresh ₹11.78
+2022-07-06,Insurance,10.0,Car Insurance ₹10.0
+2022-07-06,Food,1.38,Pizza Hut Bill ₹1.38
+2022-07-06,Travel,10.0,OYO Rooms Booking ₹10.0
+2022-07-06,Insurance,2.73,Car Insurance ₹2.73
+2022-07-06,Investment,1.94,PPF Deposit ₹1.94
+2022-07-06,Investment,5.0,Stock Purchase ₹5.0
+2022-07-06,Bills,6.0,Electricity Bill BSES ₹6.0
+2022-07-06,Education,2.8,Byjus Payment ₹2.8
+2022-07-06,Healthcare,6.6,MedPlus Bill ₹6.6
+2022-07-06,Fitness,7.6,CultFit Subscription ₹7.6
+2022-07-06,Miscellaneous,3.12,Charity ₹3.12
+2022-07-07,Miscellaneous,2.37,Stationery Store ₹2.37
+2022-07-07,Travel,6.0,Air India Flight ₹6.0
+2022-07-07,Travel,12.36,OYO Rooms Booking ₹12.36
+2022-07-08,Entertainment,1.98,Hotstar Renewal ₹1.98
+2022-07-08,Entertainment,5.0,Spotify Payment ₹5.0
+2022-07-08,Dining,2.04,McDonalds Bill ₹2.04
+2022-07-08,Dining,12.0,Subway Sandwich ₹12.0
+2022-07-09,Insurance,5.7,Car Insurance ₹5.7
+2022-07-09,Transport,48.0,Delhi Metro Recharge ₹48.0
+2022-07-09,Fitness,5.0,Gym Membership ₹5.0
+2022-07-10,Miscellaneous,21.0,Charity ₹21.0
+2022-07-10,Insurance,20.0,LIC Premium ₹20.0
+2022-07-10,Food,10.0,Swiggy Payment ₹10.0
+2022-07-11,Groceries,13.62,BigBasket Order ₹13.62
+2022-07-11,Education,10.0,Udemy Course ₹10.0
+2022-07-11,Education,12.76,Coursera Subscription ₹12.76
+2022-07-12,Entertainment,10.0,YouTube Premium ₹10.0
+2022-07-12,Investment,8.2,Mutual Fund SIP ₹8.2
+2022-07-12,Shopping,150.0,Flipkart Order ₹150.0
+2022-07-13,Healthcare,2.0,MedPlus Bill ₹2.0
+2022-07-13,Dining,6.6,Subway Sandwich ₹6.6
+2022-07-13,Travel,1.8,OYO Rooms Booking ₹1.8
+2022-07-14,Miscellaneous,7.6,Petrol Pump ₹7.6
+2022-07-15,Travel,6.0,MakeMyTrip Payment ₹6.0
+2022-07-15,Miscellaneous,6.6,Charity ₹6.6
+2022-07-15,Investment,7.44,Crypto Investment ₹7.44
+2022-07-16,Shopping,16.0,Ajio Shopping ₹16.0
+2022-07-16,Insurance,2.0,Car Insurance ₹2.0
+2022-07-16,Dining,7.6,Subway Sandwich ₹7.6
+2022-07-17,Transport,5.0,Cab Fare ₹5.0
+2022-07-17,Shopping,7.6,Ajio Shopping ₹7.6
+2022-07-17,Dining,7.6,Subway Sandwich ₹7.6
+2022-07-17,Shopping,10.0,Ajio Shopping ₹10.0
+2022-07-17,Education,4.5,Skillshare Membership ₹4.5
+2022-07-18,Transport,15.2,Delhi Metro Recharge ₹15.2
+2022-07-19,Healthcare,15.6,Diagnostic Center Payment ₹15.6
+2022-07-19,Investment,3.0,Mutual Fund SIP ₹3.0
+2022-07-19,Miscellaneous,18.0,Stationery Store ₹18.0
+2022-07-19,Groceries,10.0,More Supermarket ₹10.0
+2022-07-20,Investment,5.5,Mutual Fund SIP ₹5.5
+2022-07-20,Education,4.38,Coursera Subscription ₹4.38
+2022-07-20,Bills,10.0,Electricity Bill BSES ₹10.0
+2022-07-20,Food,7.6,Pizza Hut Bill ₹7.6
+2022-07-20,Education,4.0,Coursera Subscription ₹4.0
+2022-07-21,Investment,8.0,Mutual Fund SIP ₹8.0
+2022-07-27,Groceries,7.6,DMart Purchase ₹7.6
+2022-07-27,Dining,8.0,Barbeque Nation ₹8.0
+2022-07-28,Transport,87.0,Train Ticket ₹87.0
+2022-07-28,Entertainment,135.5,Hotstar Renewal ₹135.5
+2022-07-28,Entertainment,90.0,Hotstar Renewal ₹90.0
+2022-07-28,Bills,8.0,Airtel Postpaid ₹8.0
+2022-07-28,Bills,675.0,Jio Fiber Recharge ₹675.0
+2022-07-28,Groceries,733.25,Reliance Fresh ₹733.25
+2022-07-28,Fitness,80.0,Yoga Class ₹80.0
+2022-07-28,Fitness,15.0,Protein Supplement ₹15.0
+2022-07-28,Shopping,9.0,Myntra Order ₹9.0
+2022-07-29,Bills,7.0,Electricity Bill BSES ₹7.0
+2022-07-29,Education,7.0,Coursera Subscription ₹7.0
+2022-07-29,Healthcare,1.0,MedPlus Bill ₹1.0
+2022-07-29,Healthcare,260.0,Apollo Pharmacy ₹260.0
+2022-07-30,Travel,7.6,IRCTC Train Ticket ₹7.6
+2022-07-30,Dining,28.4,Barbeque Nation ₹28.4
+2022-07-30,Shopping,7.5,Flipkart Order ₹7.5
+2022-07-31,Dining,3.0,Barbeque Nation ₹3.0
+2022-07-31,Healthcare,6.5,Apollo Pharmacy ₹6.5
+2022-08-01,Bills,4.0,Electricity Bill BSES ₹4.0
+2022-08-01,Shopping,2.0,Amazon Purchase ₹2.0
+2022-08-01,Food,5.3,Pizza Hut Bill ₹5.3
+2022-08-01,Shopping,5.0,Ajio Shopping ₹5.0
+2022-08-01,Shopping,14.0,Flipkart Order ₹14.0
+2022-08-02,Food,5.5,Dominos Order ₹5.5
+2022-08-02,Shopping,7.2,Myntra Order ₹7.2
+2022-08-03,Fitness,1.4,Protein Supplement ₹1.4
+2022-08-03,Travel,4.8,Air India Flight ₹4.8
+2022-08-03,Bills,68.3,Airtel Postpaid ₹68.3
+2022-08-03,Insurance,5.0,LIC Premium ₹5.0
+2022-08-03,Transport,7.6,Uber Trip ₹7.6
+2022-08-04,Fitness,4.14,CultFit Subscription ₹4.14
+2022-08-04,Healthcare,4.25,Doctor Visit ₹4.25
+2022-08-04,Transport,5.0,Rapido Ride ₹5.0
+2022-08-05,Food,5.0,Zomato Order ₹5.0
+2022-08-05,Entertainment,1.4,Spotify Payment ₹1.4
+2022-08-05,Healthcare,9.0,Doctor Visit ₹9.0
+2022-08-06,Investment,1.6,Mutual Fund SIP ₹1.6
+2022-08-06,Insurance,7.6,LIC Premium ₹7.6
+2022-08-06,Groceries,0.42,More Supermarket ₹0.42
+2022-08-06,Education,7.0,Unacademy Plan ₹7.0
+2022-08-07,Fitness,0.46,Protein Supplement ₹0.46
+2022-08-07,Dining,24.0,McDonalds Bill ₹24.0
+2022-08-08,Bills,1.4,Airtel Postpaid ₹1.4
+2022-08-08,Shopping,3.5,Ajio Shopping ₹3.5
+2022-08-08,Dining,0.5,KFC Meal ₹0.5
+2022-08-09,Healthcare,4.0,Diagnostic Center Payment ₹4.0
+2022-08-09,Food,1.45,Dominos Order ₹1.45
+2022-08-09,Shopping,1.9,Myntra Order ₹1.9
+2022-08-09,Fitness,6.0,CultFit Subscription ₹6.0
+2022-08-10,Shopping,12.0,Amazon Purchase ₹12.0
+2022-08-10,Healthcare,5.0,Diagnostic Center Payment ₹5.0
+2022-08-10,Bills,7.6,Internet Bill ₹7.6
+2022-08-11,Bills,1.4,Internet Bill ₹1.4
+2022-08-11,Healthcare,4.0,Diagnostic Center Payment ₹4.0
+2022-08-11,Shopping,5.0,Flipkart Order ₹5.0
+2022-08-11,Shopping,5.0,TataCliq Payment ₹5.0
+2022-08-11,Entertainment,7.0,Netflix Subscription ₹7.0
+2022-08-11,Investment,10.8,PPF Deposit ₹10.8
+2022-08-12,Healthcare,1.43,MedPlus Bill ₹1.43
+2022-08-12,Healthcare,1.43,Doctor Visit ₹1.43
+2022-08-12,Miscellaneous,4.5,Stationery Store ₹4.5
+2022-08-12,Groceries,13.3,DMart Purchase ₹13.3
+2022-08-12,Bills,220.0,Electricity Bill BSES ₹220.0
+2022-08-12,Entertainment,8.64,Hotstar Renewal ₹8.64
+2022-08-13,Healthcare,6.0,MedPlus Bill ₹6.0
+2022-08-13,Entertainment,1.0,BookMyShow Ticket ₹1.0
+2022-08-13,Groceries,13.0,BigBasket Order ₹13.0
+2022-08-13,Dining,6.0,Subway Sandwich ₹6.0
+2022-08-13,Insurance,6.0,Health Insurance ₹6.0
+2022-08-13,Healthcare,2.3,Diagnostic Center Payment ₹2.3
+2022-08-13,Travel,5.0,IRCTC Train Ticket ₹5.0
+2022-08-14,Bills,7.6,Jio Fiber Recharge ₹7.6
+2022-08-14,Food,7.5,Swiggy Payment ₹7.5
+2022-08-14,Entertainment,7.6,Hotstar Renewal ₹7.6
+2022-08-14,Groceries,6.3,More Supermarket ₹6.3
+2022-08-14,Education,20.0,Coursera Subscription ₹20.0
+2022-08-15,Entertainment,7.45,Hotstar Renewal ₹7.45
+2022-08-15,Transport,10.0,Train Ticket ₹10.0
+2022-08-15,Education,2.0,Skillshare Membership ₹2.0
+2022-08-16,Groceries,3.1,BigBasket Order ₹3.1
+2022-08-16,Bills,30.0,Internet Bill ₹30.0
+2022-08-16,Healthcare,5.5,Diagnostic Center Payment ₹5.5
+2022-08-16,Food,6.3,Pizza Hut Bill ₹6.3
+2022-08-16,Education,5.0,Unacademy Plan ₹5.0
+2022-08-17,Entertainment,4.0,Netflix Subscription ₹4.0
+2022-08-17,Fitness,1.0,Gym Membership ₹1.0
+2022-08-17,Entertainment,2.8,BookMyShow Ticket ₹2.8
+2022-08-17,Insurance,5.5,Health Insurance ₹5.5
+2022-08-17,Shopping,8.48,Amazon Purchase ₹8.48
+2022-08-18,Groceries,13.0,More Supermarket ₹13.0
+2022-08-18,Food,6.78,Zomato Order ₹6.78
+2022-08-19,Healthcare,11.25,MedPlus Bill ₹11.25
+2022-08-19,Investment,4.0,Mutual Fund SIP ₹4.0
+2022-08-19,Food,12.0,Zomato Order ₹12.0
+2022-08-19,Insurance,10.0,LIC Premium ₹10.0
+2022-08-20,Groceries,37.0,More Supermarket ₹37.0
+2022-08-20,Miscellaneous,2.0,Stationery Store ₹2.0
+2022-08-20,Entertainment,7.6,Spotify Payment ₹7.6
+2022-08-21,Miscellaneous,7.6,Donation ₹7.6
+2022-08-21,Fitness,6.7,CultFit Subscription ₹6.7
+2022-08-21,Travel,1.3,MakeMyTrip Payment ₹1.3
+2022-08-21,Miscellaneous,13.0,Charity ₹13.0
+2022-08-22,Food,6.0,Burger King Payment ₹6.0
+2022-08-22,Transport,5.0,Uber Trip ₹5.0
+2022-08-23,Dining,5.0,McDonalds Bill ₹5.0
+2022-08-24,Food,2.0,Burger King Payment ₹2.0
+2022-08-24,Healthcare,150.0,Doctor Visit ₹150.0
+2022-08-24,Investment,42.53,Mutual Fund SIP ₹42.53
+2022-08-24,Healthcare,7.6,Doctor Visit ₹7.6
+2022-08-24,Food,3.6,Swiggy Payment ₹3.6
+2022-08-25,Miscellaneous,11.1,Gift Shop ₹11.1
+2022-08-25,Shopping,7.6,Flipkart Order ₹7.6
+2022-08-25,Healthcare,6.4,Apollo Pharmacy ₹6.4
+2022-08-25,Food,4.78,Swiggy Payment ₹4.78
+2022-08-26,Transport,7.6,Rapido Ride ₹7.6
+2022-08-26,Groceries,6.5,DMart Purchase ₹6.5
+2022-08-26,Investment,7.6,Stock Purchase ₹7.6
+2022-08-26,Miscellaneous,9.5,Stationery Store ₹9.5
+2022-08-26,Transport,2.0,Ola Ride ₹2.0
+2022-08-27,Miscellaneous,4.0,Petrol Pump ₹4.0
+2022-08-27,Bills,9.0,Water Bill ₹9.0
+2022-08-27,Bills,0.87,Internet Bill ₹0.87
+2022-08-27,Transport,7.6,Train Ticket ₹7.6
+2022-08-27,Fitness,6.7,CultFit Subscription ₹6.7
+2022-08-27,Entertainment,10.0,Spotify Payment ₹10.0
+2022-08-27,Insurance,5.7,LIC Premium ₹5.7
+2022-08-28,Groceries,2.0,BigBasket Order ₹2.0
+2022-08-28,Food,7.6,Pizza Hut Bill ₹7.6
+2022-08-28,Bills,7.6,Water Bill ₹7.6
+2022-08-28,Dining,15.2,KFC Meal ₹15.2
+2022-08-29,Miscellaneous,3.0,Petrol Pump ₹3.0
+2022-08-29,Miscellaneous,14.0,Charity ₹14.0
+2022-08-29,Bills,10.0,Water Bill ₹10.0
+2022-08-29,Dining,1.7,Subway Sandwich ₹1.7
+2022-08-30,Dining,1.6,KFC Meal ₹1.6
+2022-08-30,Education,17.6,Byjus Payment ₹17.6
+2022-08-30,Education,13.71,Coursera Subscription ₹13.71
+2022-08-31,Fitness,16.35,Protein Supplement ₹16.35
+2022-08-31,Insurance,8.0,Car Insurance ₹8.0
+2022-08-31,Dining,6.6,McDonalds Bill ₹6.6
+2022-08-31,Dining,11.4,Barbeque Nation ₹11.4
+2022-08-31,Food,5.0,Cafe Coffee Day ₹5.0
+2022-09-01,Fitness,8.4,Yoga Class ₹8.4
+2022-09-01,Bills,30.0,Water Bill ₹30.0
+2022-09-01,Travel,4.0,OYO Rooms Booking ₹4.0
+2022-09-01,Transport,12.5,Rapido Ride ₹12.5
+2022-09-02,Transport,4.0,Uber Trip ₹4.0
+2022-09-02,Miscellaneous,5.0,Stationery Store ₹5.0
+2022-09-02,Education,7.6,Coursera Subscription ₹7.6
+2022-09-02,Bills,3.9,Jio Fiber Recharge ₹3.9
+2022-09-03,Food,10.0,Pizza Hut Bill ₹10.0
+2022-09-03,Shopping,14.1,Myntra Order ₹14.1
+2022-09-03,Travel,1.12,OYO Rooms Booking ₹1.12
+2022-09-03,Dining,7.6,Barbeque Nation ₹7.6
+2022-09-03,Food,9.62,Zomato Order ₹9.62
+2022-09-04,Food,2.7,Pizza Hut Bill ₹2.7
+2022-09-04,Education,5.7,Byjus Payment ₹5.7
+2022-09-04,Dining,7.6,McDonalds Bill ₹7.6
+2022-09-04,Entertainment,24.0,Hotstar Renewal ₹24.0
+2022-09-04,Bills,6.83,Internet Bill ₹6.83
+2022-09-04,Insurance,9.0,Car Insurance ₹9.0
+2022-09-04,Investment,150.0,Mutual Fund SIP ₹150.0
+2022-09-04,Fitness,12.5,Yoga Class ₹12.5
+2022-09-04,Healthcare,12.5,Apollo Pharmacy ₹12.5
+2022-09-05,Education,11.65,Byjus Payment ₹11.65
+2022-09-05,Groceries,12.5,BigBasket Order ₹12.5
+2022-09-05,Shopping,4.5,TataCliq Payment ₹4.5
+2022-09-05,Dining,7.19,Barbeque Nation ₹7.19
+2022-09-06,Groceries,6.5,Reliance Fresh ₹6.5
+2022-09-06,Entertainment,200.0,BookMyShow Ticket ₹200.0
+2022-09-06,Education,7.0,Unacademy Plan ₹7.0
+2022-09-06,Investment,1.0,Stock Purchase ₹1.0
+2022-09-07,Entertainment,13.0,Hotstar Renewal ₹13.0
+2022-09-07,Investment,4.5,Mutual Fund SIP ₹4.5
+2022-09-08,Groceries,4.5,More Supermarket ₹4.5
+2022-09-08,Miscellaneous,7.6,Stationery Store ₹7.6
+2022-09-09,Investment,9.0,PPF Deposit ₹9.0
+2022-09-09,Travel,7.6,IRCTC Train Ticket ₹7.6
+2022-09-10,Education,25.0,Unacademy Plan ₹25.0
+2022-09-10,Investment,4.0,PPF Deposit ₹4.0
+2022-09-10,Dining,7.6,Subway Sandwich ₹7.6
+2022-09-10,Miscellaneous,7.6,Charity ₹7.6
+2022-09-10,Fitness,6.5,Yoga Class ₹6.5
+2022-09-10,Groceries,6.7,Reliance Fresh ₹6.7
+2022-09-10,Healthcare,18.0,Doctor Visit ₹18.0
+2022-09-10,Education,6.5,Udemy Course ₹6.5
+2022-09-10,Bills,4.0,Jio Fiber Recharge ₹4.0
+2022-09-11,Shopping,7.0,Flipkart Order ₹7.0
+2022-09-11,Miscellaneous,3.0,Petrol Pump ₹3.0
+2022-09-11,Fitness,6.7,Yoga Class ₹6.7
+2022-09-11,Transport,7.6,Rapido Ride ₹7.6
+2022-09-11,Insurance,6.5,Car Insurance ₹6.5
+2022-09-11,Miscellaneous,1.15,Charity ₹1.15
+2022-09-12,Food,5.0,Pizza Hut Bill ₹5.0
+2022-09-12,Investment,3.5,Mutual Fund SIP ₹3.5
+2022-09-12,Insurance,1.0,Health Insurance ₹1.0
+2022-09-12,Food,7.6,Pizza Hut Bill ₹7.6
+2022-09-12,Entertainment,2.6,BookMyShow Ticket ₹2.6
+2022-09-13,Miscellaneous,7.34,Petrol Pump ₹7.34
+2022-09-13,Groceries,2.0,More Supermarket ₹2.0
+2022-09-13,Insurance,4.5,Health Insurance ₹4.5
+2022-09-13,Bills,9.5,Airtel Postpaid ₹9.5
+2022-09-14,Miscellaneous,6.65,Stationery Store ₹6.65
+2022-09-14,Education,8.5,Skillshare Membership ₹8.5
+2022-09-15,Investment,8.4,Stock Purchase ₹8.4
+2022-09-15,Education,14.2,Udemy Course ₹14.2
+2022-09-16,Groceries,0.9,Reliance Fresh ₹0.9
+2022-09-16,Education,6.0,Byjus Payment ₹6.0
+2022-09-16,Fitness,50.0,Yoga Class ₹50.0
+2022-09-16,Investment,7.6,Crypto Investment ₹7.6
+2022-09-16,Miscellaneous,8.0,Gift Shop ₹8.0
+2022-09-16,Miscellaneous,0.6,Charity ₹0.6
+2022-09-16,Miscellaneous,5.6,Gift Shop ₹5.6
+2022-09-17,Bills,6.5,Electricity Bill BSES ₹6.5
+2022-09-17,Entertainment,12.0,BookMyShow Ticket ₹12.0
+2022-09-17,Insurance,6.5,Health Insurance ₹6.5
+2022-09-17,Shopping,3.0,Amazon Purchase ₹3.0
+2022-09-17,Healthcare,5.0,Doctor Visit ₹5.0
+2022-09-17,Groceries,7.6,BigBasket Order ₹7.6
+2022-09-17,Groceries,6.5,More Supermarket ₹6.5
+2022-09-17,Fitness,2.6,CultFit Subscription ₹2.6
+2022-09-17,Entertainment,3.0,Spotify Payment ₹3.0
+2022-09-19,Food,8.4,Swiggy Payment ₹8.4
+2022-09-19,Groceries,7.6,Reliance Fresh ₹7.6
+2022-09-19,Transport,13.0,Delhi Metro Recharge ₹13.0
+2022-09-20,Bills,8.4,Water Bill ₹8.4
+2022-09-20,Travel,7.6,Air India Flight ₹7.6
+2022-09-20,Travel,6.5,IRCTC Train Ticket ₹6.5
+2022-09-21,Groceries,1.8,Reliance Fresh ₹1.8
+2022-09-21,Dining,8.4,McDonalds Bill ₹8.4
+2022-09-21,Healthcare,9.0,Diagnostic Center Payment ₹9.0
+2022-09-21,Fitness,1.7,CultFit Subscription ₹1.7
+2022-09-22,Insurance,7.6,Car Insurance ₹7.6
+2022-09-22,Transport,2.0,Delhi Metro Recharge ₹2.0
+2022-09-22,Dining,1.2,Subway Sandwich ₹1.2
+2022-09-23,Miscellaneous,6.5,Donation ₹6.5
+2022-09-23,Healthcare,25.0,Doctor Visit ₹25.0
+2022-09-23,Groceries,6.7,BigBasket Order ₹6.7
+2022-09-23,Dining,4.7,Barbeque Nation ₹4.7
+2022-09-24,Travel,4.0,Air India Flight ₹4.0
+2022-09-24,Dining,25.0,KFC Meal ₹25.0
+2022-09-24,Education,3.0,Byjus Payment ₹3.0
+2022-09-24,Shopping,16.0,Amazon Purchase ₹16.0
+2022-09-24,Investment,1.4,Crypto Investment ₹1.4
+2022-09-24,Dining,2.5,KFC Meal ₹2.5
+2022-09-24,Shopping,4.0,Ajio Shopping ₹4.0
+2022-09-25,Education,7.6,Skillshare Membership ₹7.6
+2022-09-25,Dining,3.0,McDonalds Bill ₹3.0
+2022-09-25,Fitness,11.6,Gym Membership ₹11.6
+2022-09-25,Dining,15.0,Barbeque Nation ₹15.0
+2022-09-25,Dining,3.0,McDonalds Bill ₹3.0
+2022-09-25,Fitness,10.5,Gym Membership ₹10.5
+2022-09-26,Dining,1.0,KFC Meal ₹1.0
+2022-09-26,Miscellaneous,9.0,Gift Shop ₹9.0
+2022-09-26,Investment,1.83,Mutual Fund SIP ₹1.83
+2022-09-26,Shopping,7.6,Ajio Shopping ₹7.6
+2022-09-26,Groceries,2.55,DMart Purchase ₹2.55
+2022-09-27,Food,4.0,Pizza Hut Bill ₹4.0
+2022-09-27,Travel,7.6,OYO Rooms Booking ₹7.6
+2022-09-27,Insurance,9.0,Car Insurance ₹9.0
+2022-09-28,Travel,8.3,Air India Flight ₹8.3
+2022-09-28,Dining,4.0,Barbeque Nation ₹4.0
+2022-09-28,Travel,19.0,OYO Rooms Booking ₹19.0
+2022-09-28,Dining,4.0,Subway Sandwich ₹4.0
+2022-09-29,Food,8.5,Burger King Payment ₹8.5
+2022-09-29,Investment,2.55,Stock Purchase ₹2.55
+2022-09-30,Dining,4.0,Barbeque Nation ₹4.0
+2022-09-30,Fitness,0.9,Gym Membership ₹0.9
+2022-09-30,Healthcare,12.0,MedPlus Bill ₹12.0
+2022-09-30,Healthcare,14.0,Diagnostic Center Payment ₹14.0
+2022-09-30,Investment,6.7,PPF Deposit ₹6.7
+2022-09-30,Transport,4.0,Delhi Metro Recharge ₹4.0
+2022-10-01,Groceries,5.7,DMart Purchase ₹5.7
+2022-10-01,Miscellaneous,38.5,Petrol Pump ₹38.5
+2022-10-01,Entertainment,11.0,BookMyShow Ticket ₹11.0
+2022-10-01,Investment,5.7,Crypto Investment ₹5.7
+2022-10-01,Miscellaneous,15.6,Gift Shop ₹15.6
+2022-10-01,Groceries,45.0,More Supermarket ₹45.0
+2022-10-01,Entertainment,153.0,BookMyShow Ticket ₹153.0
+2022-10-01,Travel,50.0,OYO Rooms Booking ₹50.0
+2022-10-01,Transport,4.55,Rapido Ride ₹4.55
+2022-10-02,Food,4.0,Cafe Coffee Day ₹4.0
+2022-10-02,Travel,11.4,OYO Rooms Booking ₹11.4
+2022-10-02,Education,14.0,Udemy Course ₹14.0
+2022-10-02,Healthcare,7.0,Diagnostic Center Payment ₹7.0
+2022-10-02,Dining,9.5,Barbeque Nation ₹9.5
+2022-10-02,Groceries,3.0,DMart Purchase ₹3.0
+2022-10-02,Dining,2.0,KFC Meal ₹2.0
+2022-10-03,Groceries,1.0,BigBasket Order ₹1.0
+2022-10-03,Groceries,9.0,More Supermarket ₹9.0
+2022-10-03,Shopping,10.0,TataCliq Payment ₹10.0
+2022-10-03,Entertainment,3.3,Hotstar Renewal ₹3.3
+2022-10-04,Groceries,4.1,BigBasket Order ₹4.1
+2022-10-04,Miscellaneous,3.0,Petrol Pump ₹3.0
+2022-10-04,Healthcare,10.0,Apollo Pharmacy ₹10.0
+2022-10-04,Education,10.0,Udemy Course ₹10.0
+2022-10-05,Entertainment,1.9,YouTube Premium ₹1.9
+2022-10-05,Healthcare,5.0,Apollo Pharmacy ₹5.0
+2022-10-05,Miscellaneous,7.6,Donation ₹7.6
+2022-10-05,Travel,7.0,Air India Flight ₹7.0
+2022-10-06,Groceries,1.0,BigBasket Order ₹1.0
+2022-10-06,Transport,60.2,Rapido Ride ₹60.2
+2022-10-06,Insurance,5.7,Car Insurance ₹5.7
+2022-10-06,Food,5.7,Dominos Order ₹5.7
+2022-10-06,Dining,11.0,KFC Meal ₹11.0
+2022-10-06,Fitness,0.9,Yoga Class ₹0.9
+2022-10-06,Shopping,3.0,TataCliq Payment ₹3.0
+2022-10-07,Insurance,2.2,LIC Premium ₹2.2
+2022-10-07,Transport,10.0,Uber Trip ₹10.0
+2022-10-07,Dining,7.0,Subway Sandwich ₹7.0
+2022-10-07,Travel,2.0,Air India Flight ₹2.0
+2022-10-08,Insurance,45.0,LIC Premium ₹45.0
+2022-10-08,Bills,5.0,Airtel Postpaid ₹5.0
+2022-10-08,Entertainment,3.0,YouTube Premium ₹3.0
+2022-10-08,Shopping,13.0,Myntra Order ₹13.0
+2022-10-08,Food,6.7,Cafe Coffee Day ₹6.7
+2022-10-08,Insurance,6.7,Health Insurance ₹6.7
+2022-10-08,Transport,30.0,Uber Trip ₹30.0
+2022-10-09,Miscellaneous,7.0,Gift Shop ₹7.0
+2022-10-09,Food,10.0,Swiggy Payment ₹10.0
+2022-10-09,Dining,19.0,Barbeque Nation ₹19.0
+2022-10-09,Healthcare,6.7,MedPlus Bill ₹6.7
+2022-10-09,Fitness,12.0,Protein Supplement ₹12.0
+2022-10-09,Bills,6.7,Jio Fiber Recharge ₹6.7
+2022-10-09,Food,6.0,Burger King Payment ₹6.0
+2022-10-09,Healthcare,2.8,Apollo Pharmacy ₹2.8
+2022-10-10,Education,5.7,Coursera Subscription ₹5.7
+2022-10-10,Entertainment,6.7,Netflix Subscription ₹6.7
+2022-10-10,Food,6.6,Pizza Hut Bill ₹6.6
+2022-10-10,Healthcare,1.6,Doctor Visit ₹1.6
+2022-10-10,Investment,16.0,Crypto Investment ₹16.0
+2022-10-10,Miscellaneous,16.0,Donation ₹16.0
+2022-10-11,Food,1.0,Swiggy Payment ₹1.0
+2022-10-11,Fitness,9.0,CultFit Subscription ₹9.0
+2022-10-11,Healthcare,7.0,MedPlus Bill ₹7.0
+2022-10-11,Education,6.7,Byjus Payment ₹6.7
+2022-10-11,Education,6.7,Skillshare Membership ₹6.7
+2022-10-11,Groceries,6.7,Reliance Fresh ₹6.7
+2022-10-11,Fitness,1.0,Yoga Class ₹1.0
+2022-10-11,Entertainment,1.2,Hotstar Renewal ₹1.2
+2022-10-12,Shopping,1.0,Ajio Shopping ₹1.0
+2022-10-12,Bills,14.0,Jio Fiber Recharge ₹14.0
+2022-10-12,Dining,5.0,Subway Sandwich ₹5.0
+2022-10-12,Insurance,5.7,LIC Premium ₹5.7
+2022-10-12,Shopping,5.7,Flipkart Order ₹5.7
+2022-10-13,Miscellaneous,20.0,Gift Shop ₹20.0
+2022-10-13,Food,3.7,Cafe Coffee Day ₹3.7
+2022-10-13,Bills,9.0,Airtel Postpaid ₹9.0
+2022-10-13,Travel,14.0,IRCTC Train Ticket ₹14.0
+2022-10-13,Fitness,0.6,Gym Membership ₹0.6
+2022-10-13,Insurance,7.0,Car Insurance ₹7.0
+2022-10-13,Education,5.7,Udemy Course ₹5.7
+2022-10-13,Investment,5.49,Mutual Fund SIP ₹5.49
+2022-10-14,Miscellaneous,1.5,Stationery Store ₹1.5
+2022-10-14,Fitness,11.0,Gym Membership ₹11.0
+2022-10-14,Entertainment,5.7,YouTube Premium ₹5.7
+2022-10-14,Bills,6.77,Water Bill ₹6.77
+2022-10-15,Dining,5.0,Barbeque Nation ₹5.0
+2022-10-15,Dining,5.7,McDonalds Bill ₹5.7
+2022-10-15,Transport,11.2,Uber Trip ₹11.2
+2022-10-15,Food,100.0,Dominos Order ₹100.0
+2022-10-15,Entertainment,5.7,BookMyShow Ticket ₹5.7
+2022-10-15,Bills,5.4,Airtel Postpaid ₹5.4
+2022-10-15,Fitness,1.0,Protein Supplement ₹1.0
+2022-10-15,Education,0.7,Udemy Course ₹0.7
+2022-10-16,Transport,11.0,Rapido Ride ₹11.0
+2022-10-16,Groceries,2.0,BigBasket Order ₹2.0
+2022-10-16,Shopping,6.5,Flipkart Order ₹6.5
+2022-10-16,Entertainment,2.0,BookMyShow Ticket ₹2.0
+2022-10-16,Travel,9.0,IRCTC Train Ticket ₹9.0
+2022-10-17,Transport,150.0,Train Ticket ₹150.0
+2022-10-17,Travel,10.0,MakeMyTrip Payment ₹10.0
+2022-10-18,Bills,1.8,Jio Fiber Recharge ₹1.8
+2022-10-18,Insurance,4.0,Car Insurance ₹4.0
+2022-10-18,Miscellaneous,0.6,Stationery Store ₹0.6
+2022-10-18,Shopping,2.0,Amazon Purchase ₹2.0
+2022-10-18,Entertainment,18.0,Hotstar Renewal ₹18.0
+2022-10-19,Groceries,21.0,DMart Purchase ₹21.0
+2022-10-19,Food,11.4,Dominos Order ₹11.4
+2022-10-19,Education,5.2,Skillshare Membership ₹5.2
+2022-10-19,Miscellaneous,6.7,Donation ₹6.7
+2022-10-19,Miscellaneous,5.7,Petrol Pump ₹5.7
+2022-10-19,Education,12.0,Coursera Subscription ₹12.0
+2022-10-19,Healthcare,2.46,Diagnostic Center Payment ₹2.46
+2022-10-20,Bills,13.0,Airtel Postpaid ₹13.0
+2022-10-20,Education,1.0,Skillshare Membership ₹1.0
+2022-10-20,Transport,5.7,Train Ticket ₹5.7
+2022-10-20,Fitness,6.0,Protein Supplement ₹6.0
+2022-10-20,Bills,7.0,Water Bill ₹7.0
+2022-10-20,Groceries,6.0,BigBasket Order ₹6.0
+2022-10-20,Fitness,1.6,Protein Supplement ₹1.6
+2022-10-21,Shopping,11.5,Myntra Order ₹11.5
+2022-10-21,Education,13.2,Skillshare Membership ₹13.2
+2022-10-22,Healthcare,135.0,Doctor Visit ₹135.0
+2022-10-22,Miscellaneous,14.0,Charity ₹14.0
+2022-10-22,Miscellaneous,5.7,Charity ₹5.7
+2022-10-22,Dining,4.43,Subway Sandwich ₹4.43
+2022-10-23,Bills,10.5,Airtel Postpaid ₹10.5
+2022-10-23,Miscellaneous,4.0,Donation ₹4.0
+2022-10-23,Investment,5.7,Stock Purchase ₹5.7
+2022-10-23,Insurance,5.0,LIC Premium ₹5.0
+2022-10-23,Food,11.7,Zomato Order ₹11.7
+2022-10-23,Fitness,6.0,Gym Membership ₹6.0
+2022-10-24,Entertainment,1.0,Hotstar Renewal ₹1.0
+2022-10-24,Fitness,43.0,Protein Supplement ₹43.0
+2022-10-24,Fitness,7.0,CultFit Subscription ₹7.0
+2022-10-24,Transport,0.6,Delhi Metro Recharge ₹0.6
+2022-10-24,Dining,7.7,Subway Sandwich ₹7.7
+2022-10-24,Fitness,5.7,Yoga Class ₹5.7
+2022-10-25,Healthcare,5.0,Diagnostic Center Payment ₹5.0
+2022-10-25,Groceries,5.0,BigBasket Order ₹5.0
+2022-10-25,Shopping,6.0,Ajio Shopping ₹6.0
+2022-10-25,Miscellaneous,12.0,Gift Shop ₹12.0
+2022-10-25,Education,4.0,Unacademy Plan ₹4.0
+2022-10-26,Investment,4.5,Mutual Fund SIP ₹4.5
+2022-10-26,Entertainment,7.7,YouTube Premium ₹7.7
+2022-10-26,Miscellaneous,11.52,Charity ₹11.52
+2022-10-27,Insurance,41.0,Health Insurance ₹41.0
+2022-10-27,Miscellaneous,0.6,Stationery Store ₹0.6
+2022-10-28,Entertainment,1.9,YouTube Premium ₹1.9
+2022-10-28,Insurance,10.0,Health Insurance ₹10.0
+2022-10-28,Groceries,10.4,BigBasket Order ₹10.4
+2022-10-29,Investment,13.0,Crypto Investment ₹13.0
+2022-10-29,Miscellaneous,39.0,Gift Shop ₹39.0
+2022-10-29,Groceries,5.7,BigBasket Order ₹5.7
+2022-10-29,Groceries,10.0,BigBasket Order ₹10.0
+2022-10-29,Groceries,1.2,BigBasket Order ₹1.2
+2022-10-29,Healthcare,1.5,Diagnostic Center Payment ₹1.5
+2022-10-30,Travel,5.0,IRCTC Train Ticket ₹5.0
+2022-10-30,Insurance,6.7,Car Insurance ₹6.7
+2022-10-30,Insurance,3.0,LIC Premium ₹3.0
+2022-10-30,Transport,20.0,Ola Ride ₹20.0
+2022-10-30,Groceries,23.0,DMart Purchase ₹23.0
+2022-10-30,Food,5.7,Swiggy Payment ₹5.7
+2022-10-31,Education,1.0,Udemy Course ₹1.0
+2022-10-31,Bills,20.0,Airtel Postpaid ₹20.0
+2022-10-31,Transport,9.0,Cab Fare ₹9.0
+2022-10-31,Education,2.7,Skillshare Membership ₹2.7
+2022-10-31,Food,7.0,Pizza Hut Bill ₹7.0
+2022-10-31,Transport,6.0,Delhi Metro Recharge ₹6.0
+2022-11-01,Shopping,1.9,Flipkart Order ₹1.9
+2022-11-01,Travel,9.0,Air India Flight ₹9.0
+2022-11-01,Dining,4.0,Subway Sandwich ₹4.0
+2022-11-02,Entertainment,1.5,Netflix Subscription ₹1.5
+2022-11-02,Travel,10.0,MakeMyTrip Payment ₹10.0
+2022-11-02,Dining,3.14,McDonalds Bill ₹3.14
+2022-11-02,Food,5.5,Burger King Payment ₹5.5
+2022-11-02,Healthcare,8.0,Diagnostic Center Payment ₹8.0
+2022-11-03,Fitness,1.92,Gym Membership ₹1.92
+2022-11-03,Entertainment,6.0,YouTube Premium ₹6.0
+2022-11-03,Dining,6.7,Subway Sandwich ₹6.7
+2022-11-04,Fitness,6.3,Gym Membership ₹6.3
+2022-11-04,Groceries,6.0,BigBasket Order ₹6.0
+2022-11-04,Entertainment,6.58,Hotstar Renewal ₹6.58
+2022-11-04,Dining,0.6,KFC Meal ₹0.6
+2022-11-04,Fitness,7.0,Yoga Class ₹7.0
+2022-11-04,Dining,39.0,McDonalds Bill ₹39.0
+2022-11-05,Miscellaneous,2.22,Gift Shop ₹2.22
+2022-11-05,Groceries,1.32,More Supermarket ₹1.32
+2022-11-05,Fitness,10.0,CultFit Subscription ₹10.0
+2022-11-05,Healthcare,5.7,Apollo Pharmacy ₹5.7
+2022-11-05,Groceries,5.7,BigBasket Order ₹5.7
+2022-11-05,Investment,7.2,Stock Purchase ₹7.2
+2022-11-06,Dining,0.7,Subway Sandwich ₹0.7
+2022-11-06,Insurance,15.7,LIC Premium ₹15.7
+2022-11-06,Shopping,12.6,Ajio Shopping ₹12.6
+2022-11-06,Food,8.7,Cafe Coffee Day ₹8.7
+2022-11-07,Bills,4.2,Internet Bill ₹4.2
+2022-11-07,Insurance,6.1,Car Insurance ₹6.1
+2022-11-07,Groceries,9.45,DMart Purchase ₹9.45
+2022-11-08,Miscellaneous,10.3,Donation ₹10.3
+2022-11-08,Bills,6.5,Internet Bill ₹6.5
+2022-11-08,Investment,6.1,Crypto Investment ₹6.1
+2022-11-08,Food,23.77,Zomato Order ₹23.77
+2022-11-09,Shopping,6.1,Flipkart Order ₹6.1
+2022-11-09,Shopping,6.1,Myntra Order ₹6.1
+2022-11-09,Travel,3.0,Air India Flight ₹3.0
+2022-11-09,Travel,5.4,OYO Rooms Booking ₹5.4
+2022-11-10,Miscellaneous,6.1,Charity ₹6.1
+2022-11-10,Food,7.1,Swiggy Payment ₹7.1
+2022-11-10,Healthcare,6.7,Doctor Visit ₹6.7
+2022-11-10,Groceries,6.1,Reliance Fresh ₹6.1
+2022-11-11,Food,7.0,Zomato Order ₹7.0
+2022-11-11,Education,6.0,Udemy Course ₹6.0
+2022-11-11,Fitness,12.0,CultFit Subscription ₹12.0
+2022-11-11,Investment,3.0,Mutual Fund SIP ₹3.0
+2022-11-11,Transport,6.0,Cab Fare ₹6.0
+2022-11-11,Travel,5.0,IRCTC Train Ticket ₹5.0
+2022-11-11,Healthcare,7.1,Doctor Visit ₹7.1
+2022-11-11,Entertainment,0.6,YouTube Premium ₹0.6
+2022-11-11,Insurance,7.0,Car Insurance ₹7.0
+2022-11-11,Insurance,1.5,Car Insurance ₹1.5
+2022-11-11,Fitness,7.67,CultFit Subscription ₹7.67
+2022-11-12,Transport,17.6,Uber Trip ₹17.6
+2022-11-12,Healthcare,6.1,MedPlus Bill ₹6.1
+2022-11-12,Bills,8.52,Jio Fiber Recharge ₹8.52
+2022-11-13,Food,6.1,Pizza Hut Bill ₹6.1
+2022-11-13,Healthcare,13.0,Apollo Pharmacy ₹13.0
+2022-11-14,Fitness,4.32,Gym Membership ₹4.32
+2022-11-14,Fitness,8.0,Yoga Class ₹8.0
+2022-11-14,Groceries,5.0,DMart Purchase ₹5.0
+2022-11-14,Healthcare,6.1,Doctor Visit ₹6.1
+2022-11-14,Bills,6.1,Internet Bill ₹6.1
+2022-11-14,Travel,6.5,IRCTC Train Ticket ₹6.5
+2022-11-14,Miscellaneous,2.9,Stationery Store ₹2.9
+2022-11-15,Transport,1.94,Ola Ride ₹1.94
+2022-11-15,Groceries,0.65,BigBasket Order ₹0.65
+2022-11-15,Food,15.0,Dominos Order ₹15.0
+2022-11-15,Groceries,7.0,DMart Purchase ₹7.0
+2022-11-16,Entertainment,10.0,BookMyShow Ticket ₹10.0
+2022-11-16,Travel,1.4,MakeMyTrip Payment ₹1.4
+2022-11-16,Fitness,6.0,Protein Supplement ₹6.0
+2022-11-16,Travel,6.1,MakeMyTrip Payment ₹6.1
+2022-11-16,Bills,6.1,Internet Bill ₹6.1
+2022-11-17,Food,8.0,Dominos Order ₹8.0
+2022-11-17,Healthcare,2.0,Diagnostic Center Payment ₹2.0
+2022-11-17,Transport,5.63,Ola Ride ₹5.63
+2022-11-18,Healthcare,1.37,Doctor Visit ₹1.37
+2022-11-18,Food,6.0,Zomato Order ₹6.0
+2022-11-18,Investment,0.72,PPF Deposit ₹0.72
+2022-11-18,Education,6.1,Coursera Subscription ₹6.1
+2022-11-18,Groceries,15.0,BigBasket Order ₹15.0
+2022-11-18,Food,8.0,Zomato Order ₹8.0
+2022-11-19,Transport,6.9,Uber Trip ₹6.9
+2022-11-19,Entertainment,6.7,BookMyShow Ticket ₹6.7
+2022-11-19,Travel,6.0,OYO Rooms Booking ₹6.0
+2022-11-19,Miscellaneous,2.1,Charity ₹2.1
+2022-11-20,Investment,20.1,Crypto Investment ₹20.1
+2022-11-20,Miscellaneous,19.0,Gift Shop ₹19.0
+2022-11-20,Education,6.7,Skillshare Membership ₹6.7
+2022-11-20,Transport,50.0,Rapido Ride ₹50.0
+2022-11-21,Shopping,6.7,Myntra Order ₹6.7
+2022-11-21,Insurance,10.0,Health Insurance ₹10.0
+2022-11-21,Groceries,7.0,More Supermarket ₹7.0
+2022-11-21,Entertainment,7.5,Netflix Subscription ₹7.5
+2022-11-22,Transport,10.0,Delhi Metro Recharge ₹10.0
+2022-11-22,Shopping,2.0,TataCliq Payment ₹2.0
+2022-11-22,Transport,17.0,Train Ticket ₹17.0
+2022-11-22,Insurance,3.0,Car Insurance ₹3.0
+2022-11-22,Travel,7.0,MakeMyTrip Payment ₹7.0
+2022-11-22,Entertainment,0.7,YouTube Premium ₹0.7
+2022-11-22,Insurance,1.45,LIC Premium ₹1.45
+2022-11-22,Travel,6.7,IRCTC Train Ticket ₹6.7
+2022-11-22,Groceries,18.0,Reliance Fresh ₹18.0
+2022-11-23,Insurance,1.6,Health Insurance ₹1.6
+2022-11-23,Travel,7.0,Air India Flight ₹7.0
+2022-11-23,Investment,0.72,Crypto Investment ₹0.72
+2022-11-23,Shopping,6.7,Ajio Shopping ₹6.7
+2022-11-23,Dining,6.7,KFC Meal ₹6.7
+2022-11-24,Dining,1.9,Barbeque Nation ₹1.9
+2022-11-24,Miscellaneous,5.0,Charity ₹5.0
+2022-11-24,Travel,7.0,OYO Rooms Booking ₹7.0
+2022-11-24,Groceries,1.5,BigBasket Order ₹1.5
+2022-11-24,Shopping,7.5,Flipkart Order ₹7.5
+2022-11-24,Healthcare,6.7,Apollo Pharmacy ₹6.7
+2022-11-24,Travel,6.71,MakeMyTrip Payment ₹6.71
+2022-11-25,Miscellaneous,1.72,Gift Shop ₹1.72
+2022-11-25,Dining,9.0,Subway Sandwich ₹9.0
+2022-11-25,Transport,14.0,Train Ticket ₹14.0
+2022-11-25,Groceries,8.0,More Supermarket ₹8.0
+2022-11-25,Insurance,6.2,LIC Premium ₹6.2
+2022-11-25,Groceries,5.0,Reliance Fresh ₹5.0
+2022-11-25,Food,5.88,Cafe Coffee Day ₹5.88
+2022-11-26,Education,6.7,Unacademy Plan ₹6.7
+2022-11-26,Miscellaneous,7.1,Gift Shop ₹7.1
+2022-11-26,Food,6.7,Swiggy Payment ₹6.7
+2022-11-26,Dining,6.7,Subway Sandwich ₹6.7
+2022-11-26,Fitness,6.6,Protein Supplement ₹6.6
+2022-11-26,Shopping,5.7,Flipkart Order ₹5.7
+2022-11-27,Education,6.7,Skillshare Membership ₹6.7
+2022-11-27,Dining,6.7,Subway Sandwich ₹6.7
+2022-11-27,Dining,4.0,McDonalds Bill ₹4.0
+2022-11-28,Entertainment,1.17,Spotify Payment ₹1.17
+2022-11-28,Shopping,14.0,Flipkart Order ₹14.0
+2022-11-28,Food,7.0,Cafe Coffee Day ₹7.0
+2022-11-28,Fitness,1.0,Gym Membership ₹1.0
+2022-11-29,Insurance,2.0,Health Insurance ₹2.0
+2022-11-29,Shopping,2.0,Amazon Purchase ₹2.0
+2022-11-29,Investment,3.62,Stock Purchase ₹3.62
+2022-11-29,Transport,5.0,Delhi Metro Recharge ₹5.0
+2022-11-29,Miscellaneous,3.62,Donation ₹3.62
+2022-11-30,Bills,1.4,Internet Bill ₹1.4
+2022-11-30,Food,8.0,Dominos Order ₹8.0
+2022-11-30,Transport,7.1,Delhi Metro Recharge ₹7.1
+2022-11-30,Bills,4.0,Jio Fiber Recharge ₹4.0
+2022-11-30,Insurance,11.5,LIC Premium ₹11.5
+2022-12-01,Healthcare,2.7,Apollo Pharmacy ₹2.7
+2022-12-01,Groceries,7.0,More Supermarket ₹7.0
+2022-12-01,Food,6.7,Dominos Order ₹6.7
+2022-12-01,Fitness,6.0,Yoga Class ₹6.0
+2022-12-02,Groceries,9.5,Reliance Fresh ₹9.5
+2022-12-02,Education,0.88,Coursera Subscription ₹0.88
+2022-12-02,Transport,57.0,Rapido Ride ₹57.0
+2022-12-02,Insurance,10.0,Health Insurance ₹10.0
+2022-12-02,Insurance,6.7,Car Insurance ₹6.7
+2022-12-02,Transport,7.7,Cab Fare ₹7.7
+2022-12-03,Healthcare,6.7,MedPlus Bill ₹6.7
+2022-12-03,Dining,6.7,Subway Sandwich ₹6.7
+2022-12-03,Insurance,6.7,LIC Premium ₹6.7
+2022-12-03,Education,6.7,Udemy Course ₹6.7
+2022-12-03,Entertainment,19.0,BookMyShow Ticket ₹19.0
+2022-12-03,Travel,10.0,MakeMyTrip Payment ₹10.0
+2022-12-04,Travel,6.9,IRCTC Train Ticket ₹6.9
+2022-12-04,Investment,6.5,Mutual Fund SIP ₹6.5
+2022-12-04,Bills,5.2,Jio Fiber Recharge ₹5.2
+2022-12-04,Transport,6.7,Ola Ride ₹6.7
+2022-12-04,Insurance,6.7,LIC Premium ₹6.7
+2022-12-04,Healthcare,7.0,Diagnostic Center Payment ₹7.0
+2022-12-04,Food,6.1,Pizza Hut Bill ₹6.1
+2022-12-05,Healthcare,20.0,Diagnostic Center Payment ₹20.0
+2022-12-05,Groceries,55.0,DMart Purchase ₹55.0
+2022-12-05,Miscellaneous,10.0,Charity ₹10.0
+2022-12-05,Groceries,7.6,More Supermarket ₹7.6
+2022-12-05,Travel,7.6,IRCTC Train Ticket ₹7.6
+2022-12-05,Healthcare,11.7,Diagnostic Center Payment ₹11.7
+2022-12-06,Bills,7.0,Jio Fiber Recharge ₹7.0
+2022-12-06,Transport,6.7,Delhi Metro Recharge ₹6.7
+2022-12-06,Fitness,8.0,Gym Membership ₹8.0
+2022-12-07,Fitness,3.23,Gym Membership ₹3.23
+2022-12-07,Fitness,20.0,Gym Membership ₹20.0
+2022-12-07,Fitness,7.0,Yoga Class ₹7.0
+2022-12-08,Investment,5.2,PPF Deposit ₹5.2
+2022-12-08,Food,6.7,Burger King Payment ₹6.7
+2022-12-08,Food,6.7,Burger King Payment ₹6.7
+2022-12-08,Entertainment,6.7,BookMyShow Ticket ₹6.7
+2022-12-08,Investment,7.0,Stock Purchase ₹7.0
+2022-12-09,Miscellaneous,7.6,Charity ₹7.6
+2022-12-09,Food,6.9,Cafe Coffee Day ₹6.9
+2022-12-09,Bills,13.6,Jio Fiber Recharge ₹13.6
+2022-12-09,Healthcare,6.7,Diagnostic Center Payment ₹6.7
+2022-12-09,Shopping,9.75,Ajio Shopping ₹9.75
+2022-12-10,Food,6.7,Dominos Order ₹6.7
+2022-12-10,Bills,6.7,Water Bill ₹6.7
+2022-12-10,Travel,6.8,MakeMyTrip Payment ₹6.8
+2022-12-11,Dining,13.2,KFC Meal ₹13.2
+2022-12-11,Miscellaneous,10.0,Charity ₹10.0
+2022-12-11,Transport,6.7,Rapido Ride ₹6.7
+2022-12-12,Groceries,9.23,DMart Purchase ₹9.23
+2022-12-12,Healthcare,7.0,Doctor Visit ₹7.0
+2022-12-12,Miscellaneous,12.5,Petrol Pump ₹12.5
+2022-12-12,Bills,6.7,Jio Fiber Recharge ₹6.7
+2022-12-12,Groceries,13.0,Reliance Fresh ₹13.0
+2022-12-12,Dining,36.0,McDonalds Bill ₹36.0
+2022-12-13,Healthcare,18.0,Apollo Pharmacy ₹18.0
+2022-12-13,Investment,170.0,Crypto Investment ₹170.0
+2022-12-13,Investment,7.0,Mutual Fund SIP ₹7.0
+2022-12-13,Fitness,6.7,Gym Membership ₹6.7
+2022-12-13,Shopping,6.22,Ajio Shopping ₹6.22
+2022-12-14,Bills,4.23,Internet Bill ₹4.23
+2022-12-14,Travel,200.0,OYO Rooms Booking ₹200.0
+2022-12-14,Healthcare,7.0,Diagnostic Center Payment ₹7.0
+2022-12-14,Insurance,6.7,LIC Premium ₹6.7
+2022-12-14,Fitness,6.7,Protein Supplement ₹6.7
+2022-12-15,Fitness,6.4,Gym Membership ₹6.4
+2022-12-15,Investment,10.0,Mutual Fund SIP ₹10.0
+2022-12-15,Miscellaneous,6.7,Charity ₹6.7
+2022-12-15,Bills,6.7,Airtel Postpaid ₹6.7
+2022-12-16,Education,6.0,Udemy Course ₹6.0
+2022-12-16,Bills,10.0,Jio Fiber Recharge ₹10.0
+2022-12-16,Bills,7.0,Electricity Bill BSES ₹7.0
+2022-12-16,Groceries,1.7,Reliance Fresh ₹1.7
+2022-12-16,Investment,5.0,Mutual Fund SIP ₹5.0
+2022-12-16,Dining,9.2,KFC Meal ₹9.2
+2022-12-18,Healthcare,10.0,Apollo Pharmacy ₹10.0
+2022-12-18,Healthcare,6.7,Apollo Pharmacy ₹6.7
+2022-12-18,Transport,12.3,Train Ticket ₹12.3
+2022-12-19,Groceries,1.4,DMart Purchase ₹1.4
+2022-12-19,Food,5.0,Cafe Coffee Day ₹5.0
+2022-12-19,Miscellaneous,6.7,Gift Shop ₹6.7
+2022-12-20,Education,3.51,Byjus Payment ₹3.51
+2022-12-20,Miscellaneous,1.21,Charity ₹1.21
+2022-12-20,Transport,10.0,Uber Trip ₹10.0
+2022-12-20,Dining,0.5,Barbeque Nation ₹0.5
+2022-12-20,Groceries,6.7,Reliance Fresh ₹6.7
+2022-12-21,Healthcare,7.0,Diagnostic Center Payment ₹7.0
+2022-12-21,Travel,6.7,MakeMyTrip Payment ₹6.7
+2022-12-21,Groceries,6.7,More Supermarket ₹6.7
+2022-12-21,Shopping,6.7,Ajio Shopping ₹6.7
+2022-12-22,Food,3.0,Pizza Hut Bill ₹3.0
+2022-12-22,Insurance,7.0,LIC Premium ₹7.0
+2022-12-22,Education,6.7,Unacademy Plan ₹6.7
+2022-12-23,Bills,1.22,Electricity Bill BSES ₹1.22
+2022-12-23,Entertainment,6.0,Netflix Subscription ₹6.0
+2022-12-23,Bills,6.7,Electricity Bill BSES ₹6.7
+2022-12-23,Food,6.7,Swiggy Payment ₹6.7
+2022-12-24,Travel,6.7,MakeMyTrip Payment ₹6.7
+2022-12-24,Investment,20.0,PPF Deposit ₹20.0
+2022-12-24,Entertainment,6.7,Hotstar Renewal ₹6.7
+2022-12-24,Fitness,6.7,Yoga Class ₹6.7
+2022-12-24,Shopping,24.0,Ajio Shopping ₹24.0
+2022-12-24,Miscellaneous,1.44,Stationery Store ₹1.44
+2022-12-25,Fitness,5.2,Yoga Class ₹5.2
+2022-12-25,Food,6.7,Swiggy Payment ₹6.7
+2022-12-25,Transport,6.7,Train Ticket ₹6.7
+2022-12-25,Miscellaneous,13.6,Charity ₹13.6
+2022-12-25,Education,6.7,Udemy Course ₹6.7
+2022-12-25,Fitness,15.0,Yoga Class ₹15.0
+2022-12-26,Investment,2.0,PPF Deposit ₹2.0
+2022-12-26,Healthcare,4.0,MedPlus Bill ₹4.0
+2022-12-26,Entertainment,3.0,BookMyShow Ticket ₹3.0
+2022-12-26,Shopping,15.0,Ajio Shopping ₹15.0
+2022-12-26,Transport,6.0,Delhi Metro Recharge ₹6.0
+2022-12-26,Healthcare,6.7,Diagnostic Center Payment ₹6.7
+2022-12-26,Insurance,3.0,LIC Premium ₹3.0
+2022-12-26,Investment,2.23,Stock Purchase ₹2.23
+2022-12-27,Dining,1.15,Subway Sandwich ₹1.15
+2022-12-27,Education,6.7,Unacademy Plan ₹6.7
+2022-12-27,Insurance,3.0,LIC Premium ₹3.0
+2022-12-27,Education,6.7,Byjus Payment ₹6.7
+2022-12-27,Entertainment,13.5,Spotify Payment ₹13.5
+2022-12-27,Travel,4.0,MakeMyTrip Payment ₹4.0
+2022-12-28,Education,10.0,Coursera Subscription ₹10.0
+2022-12-28,Travel,15.0,OYO Rooms Booking ₹15.0
+2022-12-28,Education,20.0,Unacademy Plan ₹20.0
+2022-12-28,Travel,16.0,MakeMyTrip Payment ₹16.0
+2022-12-28,Healthcare,1.0,Diagnostic Center Payment ₹1.0
+2022-12-28,Groceries,6.7,DMart Purchase ₹6.7
+2022-12-28,Groceries,10.0,BigBasket Order ₹10.0
+2022-12-28,Food,3.8,Zomato Order ₹3.8
+2022-12-29,Travel,2.4,MakeMyTrip Payment ₹2.4
+2022-12-29,Food,3.63,Pizza Hut Bill ₹3.63
+2022-12-29,Groceries,10.7,Reliance Fresh ₹10.7
+2022-12-29,Insurance,6.7,LIC Premium ₹6.7
+2022-12-29,Entertainment,4.0,YouTube Premium ₹4.0
+2022-12-29,Bills,2.0,Water Bill ₹2.0
+2022-12-29,Insurance,5.0,Car Insurance ₹5.0
+2022-12-30,Shopping,1.8,TataCliq Payment ₹1.8
+2022-12-30,Insurance,6.0,LIC Premium ₹6.0
+2022-12-30,Food,6.7,Dominos Order ₹6.7
+2022-12-30,Investment,6.7,Mutual Fund SIP ₹6.7
+2022-12-30,Investment,34.0,PPF Deposit ₹34.0
+2022-12-31,Miscellaneous,17.0,Charity ₹17.0
+2023-01-01,Insurance,52.0,LIC Premium ₹52.0
+2023-01-01,Investment,20.0,Stock Purchase ₹20.0
+2023-01-01,Insurance,6.7,Car Insurance ₹6.7
+2023-01-01,Food,6.7,Burger King Payment ₹6.7
+2023-01-02,Shopping,0.8,Flipkart Order ₹0.8
+2023-01-02,Bills,13.9,Water Bill ₹13.9
+2023-01-02,Bills,6.7,Jio Fiber Recharge ₹6.7
+2023-01-02,Groceries,6.7,More Supermarket ₹6.7
+2023-01-02,Fitness,6.7,Protein Supplement ₹6.7
+2023-01-02,Education,7.0,Coursera Subscription ₹7.0
+2023-01-02,Dining,6.9,Barbeque Nation ₹6.9
+2023-01-02,Insurance,23.0,LIC Premium ₹23.0
+2023-01-03,Education,6.7,Byjus Payment ₹6.7
+2023-01-03,Fitness,6.7,Yoga Class ₹6.7
+2023-01-03,Entertainment,6.7,Hotstar Renewal ₹6.7
+2023-01-03,Groceries,3.7,Reliance Fresh ₹3.7
+2023-01-04,Fitness,6.7,Gym Membership ₹6.7
+2023-01-04,Education,6.7,Skillshare Membership ₹6.7
+2023-01-04,Food,14.0,Swiggy Payment ₹14.0
+2023-01-04,Healthcare,43.2,Apollo Pharmacy ₹43.2
+2023-01-04,Dining,7.47,Barbeque Nation ₹7.47
+2023-01-05,Entertainment,2.11,YouTube Premium ₹2.11
+2023-01-05,Insurance,6.0,LIC Premium ₹6.0
+2023-01-05,Shopping,68.0,Ajio Shopping ₹68.0
+2023-01-05,Travel,2.14,Air India Flight ₹2.14
+2023-01-05,Investment,6.7,Crypto Investment ₹6.7
+2023-01-05,Miscellaneous,1.44,Gift Shop ₹1.44
+2023-01-06,Dining,17.0,KFC Meal ₹17.0
+2023-01-06,Investment,4.4,Crypto Investment ₹4.4
+2023-01-06,Transport,6.7,Train Ticket ₹6.7
+2023-01-06,Education,6.7,Byjus Payment ₹6.7
+2023-01-07,Groceries,6.7,BigBasket Order ₹6.7
+2023-01-07,Entertainment,0.9,Spotify Payment ₹0.9
+2023-01-07,Groceries,7.6,Reliance Fresh ₹7.6
+2023-01-07,Food,5.0,Cafe Coffee Day ₹5.0
+2023-01-07,Dining,5.4,McDonalds Bill ₹5.4
+2023-01-08,Entertainment,6.7,Hotstar Renewal ₹6.7
+2023-01-08,Food,6.7,Burger King Payment ₹6.7
+2023-01-08,Miscellaneous,6.7,Petrol Pump ₹6.7
+2023-01-08,Groceries,6.7,BigBasket Order ₹6.7
+2023-01-09,Education,7.0,Unacademy Plan ₹7.0
+2023-01-09,Shopping,2.0,Amazon Purchase ₹2.0
+2023-01-09,Shopping,0.88,Flipkart Order ₹0.88
+2023-01-10,Shopping,55.0,Ajio Shopping ₹55.0
+2023-01-10,Entertainment,2.5,Netflix Subscription ₹2.5
+2023-01-10,Investment,6.0,Mutual Fund SIP ₹6.0
+2023-01-10,Bills,5.0,Water Bill ₹5.0
+2023-01-10,Food,14.0,Pizza Hut Bill ₹14.0
+2023-01-10,Transport,1.88,Delhi Metro Recharge ₹1.88
+2023-01-10,Entertainment,2.0,YouTube Premium ₹2.0
+2023-01-10,Travel,1.0,IRCTC Train Ticket ₹1.0
+2023-01-11,Insurance,11.2,Car Insurance ₹11.2
+2023-01-11,Groceries,0.5,BigBasket Order ₹0.5
+2023-01-11,Food,6.4,Swiggy Payment ₹6.4
+2023-01-11,Fitness,6.7,CultFit Subscription ₹6.7
+2023-01-11,Fitness,4.0,Gym Membership ₹4.0
+2023-01-13,Insurance,6.7,Health Insurance ₹6.7
+2023-01-13,Transport,6.7,Cab Fare ₹6.7
+2023-01-13,Fitness,9.0,Gym Membership ₹9.0
+2023-01-13,Healthcare,16.0,MedPlus Bill ₹16.0
+2023-01-13,Education,6.3,Udemy Course ₹6.3
+2023-01-14,Groceries,13.6,More Supermarket ₹13.6
+2023-01-14,Bills,6.7,Internet Bill ₹6.7
+2023-01-14,Miscellaneous,6.7,Stationery Store ₹6.7
+2023-01-14,Groceries,5.0,BigBasket Order ₹5.0
+2023-01-14,Investment,20.0,Mutual Fund SIP ₹20.0
+2023-01-15,Shopping,2.1,Flipkart Order ₹2.1
+2023-01-15,Dining,0.7,McDonalds Bill ₹0.7
+2023-01-15,Bills,5.3,Water Bill ₹5.3
+2023-01-15,Dining,6.7,McDonalds Bill ₹6.7
+2023-01-15,Transport,6.7,Train Ticket ₹6.7
+2023-01-15,Travel,6.7,OYO Rooms Booking ₹6.7
+2023-01-15,Insurance,3.0,LIC Premium ₹3.0
+2023-01-15,Education,1.7,Byjus Payment ₹1.7
+2023-01-15,Miscellaneous,6.0,Donation ₹6.0
+2023-01-15,Entertainment,1.5,YouTube Premium ₹1.5
+2023-01-16,Food,2.55,Swiggy Payment ₹2.55
+2023-01-16,Transport,0.7,Uber Trip ₹0.7
+2023-01-16,Dining,9.0,KFC Meal ₹9.0
+2023-01-16,Groceries,2.0,DMart Purchase ₹2.0
+2023-01-16,Entertainment,1.4,Netflix Subscription ₹1.4
+2023-01-17,Transport,2.45,Train Ticket ₹2.45
+2023-01-17,Healthcare,11.0,Apollo Pharmacy ₹11.0
+2023-01-17,Food,174.0,Cafe Coffee Day ₹174.0
+2023-01-17,Insurance,2.13,LIC Premium ₹2.13
+2023-01-17,Insurance,6.7,Car Insurance ₹6.7
+2023-01-17,Healthcare,7.2,Doctor Visit ₹7.2
+2023-01-18,Healthcare,1.75,Doctor Visit ₹1.75
+2023-01-18,Travel,10.0,OYO Rooms Booking ₹10.0
+2023-01-18,Food,1.74,Zomato Order ₹1.74
+2023-01-18,Travel,7.9,OYO Rooms Booking ₹7.9
+2023-01-18,Shopping,4.18,Amazon Purchase ₹4.18
+2023-01-18,Groceries,36.0,BigBasket Order ₹36.0
+2023-01-19,Fitness,9.0,Yoga Class ₹9.0
+2023-01-19,Food,0.52,Zomato Order ₹0.52
+2023-01-19,Food,6.7,Pizza Hut Bill ₹6.7
+2023-01-20,Transport,1.7,Rapido Ride ₹1.7
+2023-01-20,Dining,0.5,McDonalds Bill ₹0.5
+2023-01-20,Dining,13.9,McDonalds Bill ₹13.9
+2023-01-20,Education,6.7,Byjus Payment ₹6.7
+2023-01-20,Healthcare,6.7,Doctor Visit ₹6.7
+2023-01-20,Education,5.0,Coursera Subscription ₹5.0
+2023-01-20,Healthcare,1.0,Apollo Pharmacy ₹1.0
+2023-01-20,Investment,5.8,Mutual Fund SIP ₹5.8
+2023-01-20,Education,18.0,Byjus Payment ₹18.0
+2023-01-21,Insurance,13.9,Car Insurance ₹13.9
+2023-01-21,Fitness,6.7,Protein Supplement ₹6.7
+2023-01-21,Entertainment,6.7,YouTube Premium ₹6.7
+2023-01-21,Fitness,13.0,Yoga Class ₹13.0
+2023-01-21,Transport,5.0,Delhi Metro Recharge ₹5.0
+2023-01-22,Education,1.6,Unacademy Plan ₹1.6
+2023-01-22,Travel,13.9,IRCTC Train Ticket ₹13.9
+2023-01-22,Education,6.7,Byjus Payment ₹6.7
+2023-01-22,Healthcare,11.0,Diagnostic Center Payment ₹11.0
+2023-01-22,Food,1.6,Pizza Hut Bill ₹1.6
+2023-01-22,Investment,1.0,Crypto Investment ₹1.0
+2023-01-22,Shopping,3.8,Amazon Purchase ₹3.8
+2023-01-23,Education,3.8,Coursera Subscription ₹3.8
+2023-01-23,Entertainment,8.4,Spotify Payment ₹8.4
+2023-01-23,Shopping,1.9,Amazon Purchase ₹1.9
+2023-01-23,Investment,3.0,Crypto Investment ₹3.0
+2023-01-23,Education,6.7,Udemy Course ₹6.7
+2023-01-24,Healthcare,8.0,Apollo Pharmacy ₹8.0
+2023-01-24,Fitness,3.0,Gym Membership ₹3.0
+2023-01-24,Food,35.0,Zomato Order ₹35.0
+2023-01-24,Education,13.9,Coursera Subscription ₹13.9
+2023-01-25,Entertainment,3.0,Netflix Subscription ₹3.0
+2023-01-25,Healthcare,1.28,MedPlus Bill ₹1.28
+2023-01-25,Bills,2.7,Electricity Bill BSES ₹2.7
+2023-01-25,Insurance,1.28,Health Insurance ₹1.28
+2023-01-25,Insurance,1.14,Car Insurance ₹1.14
+2023-01-25,Miscellaneous,6.7,Stationery Store ₹6.7
+2023-01-25,Healthcare,6.7,MedPlus Bill ₹6.7
+2023-01-25,Insurance,1.28,Health Insurance ₹1.28
+2023-01-25,Dining,10.0,McDonalds Bill ₹10.0
+2023-01-26,Shopping,20.0,Ajio Shopping ₹20.0
+2023-01-26,Shopping,441.0,Flipkart Order ₹441.0
+2023-01-26,Education,5.3,Udemy Course ₹5.3
+2023-01-26,Shopping,6.7,Myntra Order ₹6.7
+2023-01-26,Transport,6.7,Cab Fare ₹6.7
+2023-01-26,Transport,16.0,Rapido Ride ₹16.0
+2023-01-26,Dining,24.33,Barbeque Nation ₹24.33
+2023-01-27,Fitness,6.7,Protein Supplement ₹6.7
+2023-01-27,Groceries,6.7,Reliance Fresh ₹6.7
+2023-01-27,Groceries,6.7,More Supermarket ₹6.7
+2023-01-27,Miscellaneous,6.9,Stationery Store ₹6.9
+2023-01-27,Shopping,5.0,Amazon Purchase ₹5.0
+2023-01-27,Entertainment,4.0,Spotify Payment ₹4.0
+2023-01-28,Education,0.72,Udemy Course ₹0.72
+2023-01-28,Insurance,7.2,LIC Premium ₹7.2
+2023-01-28,Education,6.7,Coursera Subscription ₹6.7
+2023-01-28,Insurance,6.7,LIC Premium ₹6.7
+2023-01-28,Entertainment,6.7,Spotify Payment ₹6.7
+2023-01-28,Fitness,6.7,Gym Membership ₹6.7
+2023-01-28,Bills,36.0,Water Bill ₹36.0
+2023-01-28,Food,11.64,Pizza Hut Bill ₹11.64
+2023-01-29,Fitness,6.7,Yoga Class ₹6.7
+2023-01-29,Bills,13.9,Water Bill ₹13.9
+2023-01-29,Investment,5.3,Mutual Fund SIP ₹5.3
+2023-01-29,Insurance,2.78,Health Insurance ₹2.78
+2023-01-29,Fitness,1.0,Protein Supplement ₹1.0
+2023-01-29,Travel,1.0,OYO Rooms Booking ₹1.0
+2023-01-29,Miscellaneous,110.0,Stationery Store ₹110.0
+2023-01-29,Healthcare,5.0,Doctor Visit ₹5.0
+2023-01-30,Shopping,12.0,Myntra Order ₹12.0
+2023-01-30,Transport,5.0,Rapido Ride ₹5.0
+2023-01-30,Healthcare,5.0,MedPlus Bill ₹5.0
+2023-01-30,Miscellaneous,2.0,Donation ₹2.0
+2023-01-30,Fitness,6.7,CultFit Subscription ₹6.7
+2023-01-30,Bills,5.3,Water Bill ₹5.3
+2023-01-30,Transport,25.0,Delhi Metro Recharge ₹25.0
+2023-01-30,Food,6.7,Pizza Hut Bill ₹6.7
+2023-01-30,Education,11.0,Unacademy Plan ₹11.0
+2023-01-30,Groceries,1.4,More Supermarket ₹1.4
+2023-01-31,Transport,5.0,Rapido Ride ₹5.0
+2023-01-31,Miscellaneous,6.7,Petrol Pump ₹6.7
+2023-01-31,Groceries,8.2,BigBasket Order ₹8.2
+2023-01-31,Investment,6.7,Crypto Investment ₹6.7
+2023-01-31,Dining,5.5,Subway Sandwich ₹5.5
+2023-01-31,Dining,5.5,Subway Sandwich ₹5.5
+2023-01-31,Entertainment,5.8,YouTube Premium ₹5.8
+2023-02-01,Insurance,2.0,Health Insurance ₹2.0
+2023-02-01,Transport,6.9,Train Ticket ₹6.9
+2023-02-01,Entertainment,6.7,Hotstar Renewal ₹6.7
+2023-02-01,Investment,8.2,PPF Deposit ₹8.2
+2023-02-01,Groceries,6.7,More Supermarket ₹6.7
+2023-02-02,Education,5.0,Coursera Subscription ₹5.0
+2023-02-02,Investment,0.6,Stock Purchase ₹0.6
+2023-02-02,Groceries,13.0,Reliance Fresh ₹13.0
+2023-02-03,Entertainment,5.0,YouTube Premium ₹5.0
+2023-02-03,Groceries,8.78,DMart Purchase ₹8.78
+2023-02-03,Travel,6.0,Air India Flight ₹6.0
+2023-02-03,Travel,0.8,MakeMyTrip Payment ₹0.8
+2023-02-03,Investment,5.5,Stock Purchase ₹5.5
+2023-02-03,Miscellaneous,13.0,Gift Shop ₹13.0
+2023-02-03,Insurance,12.0,Car Insurance ₹12.0
+2023-02-03,Miscellaneous,4.0,Stationery Store ₹4.0
+2023-02-04,Investment,68.0,PPF Deposit ₹68.0
+2023-02-04,Groceries,6.0,Reliance Fresh ₹6.0
+2023-02-04,Entertainment,20.0,YouTube Premium ₹20.0
+2023-02-04,Shopping,3.0,Myntra Order ₹3.0
+2023-02-04,Healthcare,11.0,MedPlus Bill ₹11.0
+2023-02-04,Fitness,58.6,Protein Supplement ₹58.6
+2023-02-04,Healthcare,3.5,Doctor Visit ₹3.5
+2023-02-05,Insurance,13.0,Car Insurance ₹13.0
+2023-02-05,Bills,3.0,Electricity Bill BSES ₹3.0
+2023-02-05,Insurance,5.5,Car Insurance ₹5.5
+2023-02-05,Shopping,5.5,TataCliq Payment ₹5.5
+2023-02-04,Fitness,3.5,CultFit Subscription ₹3.5
+2023-02-04,Entertainment,51.0,BookMyShow Ticket ₹51.0
+2023-02-04,Investment,11.15,Crypto Investment ₹11.15
+2023-02-06,Entertainment,1.5,Hotstar Renewal ₹1.5
+2023-02-06,Food,6.7,Pizza Hut Bill ₹6.7
+2023-02-06,Investment,5.5,Stock Purchase ₹5.5
+2023-02-06,Investment,5.3,PPF Deposit ₹5.3
+2023-02-07,Transport,0.6,Train Ticket ₹0.6
+2023-02-07,Travel,14.0,IRCTC Train Ticket ₹14.0
+2023-02-07,Shopping,3.12,Ajio Shopping ₹3.12
+2023-02-07,Fitness,20.5,Gym Membership ₹20.5
+2023-02-07,Insurance,3.8,Health Insurance ₹3.8
+2023-02-08,Groceries,0.8,BigBasket Order ₹0.8
+2023-02-08,Food,10.0,Dominos Order ₹10.0
+2023-02-08,Fitness,5.0,Gym Membership ₹5.0
+2023-02-08,Miscellaneous,7.17,Donation ₹7.17
+2023-02-08,Shopping,4.72,Ajio Shopping ₹4.72
+2023-02-08,Transport,18.0,Rapido Ride ₹18.0
+2023-02-09,Investment,1.0,Mutual Fund SIP ₹1.0
+2023-02-09,Groceries,8.4,DMart Purchase ₹8.4
+2023-02-09,Transport,40.0,Ola Ride ₹40.0
+2023-02-09,Insurance,3.12,LIC Premium ₹3.12
+2023-02-09,Healthcare,4.44,Apollo Pharmacy ₹4.44
+2023-02-10,Groceries,0.6,More Supermarket ₹0.6
+2023-02-10,Dining,10.0,McDonalds Bill ₹10.0
+2023-02-10,Entertainment,1.0,Netflix Subscription ₹1.0
+2023-02-10,Fitness,3.12,Yoga Class ₹3.12
+2023-02-10,Food,17.0,Swiggy Payment ₹17.0
+2023-02-10,Miscellaneous,10.5,Stationery Store ₹10.5
+2023-02-10,Food,1.0,Pizza Hut Bill ₹1.0
+2023-02-11,Transport,5.5,Uber Trip ₹5.5
+2023-02-11,Dining,5.3,McDonalds Bill ₹5.3
+2023-02-12,Fitness,120.0,Gym Membership ₹120.0
+2023-02-13,Healthcare,8.4,MedPlus Bill ₹8.4
+2023-02-13,Investment,30.0,PPF Deposit ₹30.0
+2023-02-13,Dining,0.5,Barbeque Nation ₹0.5
+2023-02-13,Healthcare,0.44,Doctor Visit ₹0.44
+2023-02-13,Healthcare,181.0,Apollo Pharmacy ₹181.0
+2023-02-14,Bills,3.0,Electricity Bill BSES ₹3.0
+2023-02-14,Insurance,10.0,Car Insurance ₹10.0
+2023-02-14,Investment,7.3,Mutual Fund SIP ₹7.3
+2023-02-15,Shopping,10.0,Myntra Order ₹10.0
+2023-02-15,Dining,1.3,Subway Sandwich ₹1.3
+2023-02-15,Education,1.0,Byjus Payment ₹1.0
+2023-02-15,Entertainment,4.25,Spotify Payment ₹4.25
+2023-02-16,Miscellaneous,0.7,Petrol Pump ₹0.7
+2023-02-16,Food,10.0,Dominos Order ₹10.0
+2023-02-16,Transport,4.47,Uber Trip ₹4.47
+2023-02-17,Insurance,15.0,Health Insurance ₹15.0
+2023-02-17,Fitness,10.0,CultFit Subscription ₹10.0
+2023-02-17,Education,50.0,Unacademy Plan ₹50.0
+2023-02-17,Entertainment,3.12,YouTube Premium ₹3.12
+2023-02-17,Transport,13.6,Uber Trip ₹13.6
+2023-02-18,Shopping,5.0,Amazon Purchase ₹5.0
+2023-02-18,Transport,5.3,Delhi Metro Recharge ₹5.3
+2023-02-18,Shopping,6.7,Flipkart Order ₹6.7
+2023-02-18,Travel,6.7,MakeMyTrip Payment ₹6.7
+2023-02-18,Healthcare,6.7,Apollo Pharmacy ₹6.7
+2023-02-17,Miscellaneous,22.0,Stationery Store ₹22.0
+2023-02-17,Groceries,5.0,Reliance Fresh ₹5.0
+2023-02-19,Shopping,2.15,Amazon Purchase ₹2.15
+2023-02-19,Transport,6.7,Ola Ride ₹6.7
+2023-02-19,Investment,18.2,PPF Deposit ₹18.2
+2023-02-19,Dining,0.52,Barbeque Nation ₹0.52
+2023-02-19,Food,0.52,Burger King Payment ₹0.52
+2023-02-19,Groceries,6.9,DMart Purchase ₹6.9
+2023-02-19,Shopping,1.35,Amazon Purchase ₹1.35
+2023-02-19,Bills,31.0,Electricity Bill BSES ₹31.0
+2023-02-20,Bills,2.0,Jio Fiber Recharge ₹2.0
+2023-02-20,Transport,10.0,Uber Trip ₹10.0
+2023-02-20,Miscellaneous,7.0,Petrol Pump ₹7.0
+2023-02-21,Dining,2.22,Subway Sandwich ₹2.22
+2023-02-21,Travel,1.0,MakeMyTrip Payment ₹1.0
+2023-02-21,Healthcare,10.53,MedPlus Bill ₹10.53
+2023-02-22,Groceries,1.4,BigBasket Order ₹1.4
+2023-02-22,Fitness,11.0,Gym Membership ₹11.0
+2023-02-22,Fitness,0.6,Yoga Class ₹0.6
+2023-02-22,Food,5.0,Pizza Hut Bill ₹5.0
+2023-02-22,Groceries,2.2,Reliance Fresh ₹2.2
+2023-02-23,Dining,1.25,Barbeque Nation ₹1.25
+2023-02-23,Healthcare,10.0,Doctor Visit ₹10.0
+2023-02-23,Travel,1.3,OYO Rooms Booking ₹1.3
+2023-02-23,Bills,35.0,Jio Fiber Recharge ₹35.0
+2023-02-24,Investment,1.2,PPF Deposit ₹1.2
+2023-02-24,Shopping,10.0,Flipkart Order ₹10.0
+2023-02-24,Food,25.0,Burger King Payment ₹25.0
+2023-02-25,Fitness,6.7,CultFit Subscription ₹6.7
+2023-02-25,Groceries,5.3,DMart Purchase ₹5.3
+2023-02-25,Healthcare,6.7,Doctor Visit ₹6.7
+2023-02-25,Fitness,8.5,Gym Membership ₹8.5
+2023-02-25,Groceries,5.0,BigBasket Order ₹5.0
+2023-02-25,Bills,3.0,Water Bill ₹3.0
+2023-02-25,Dining,3.0,KFC Meal ₹3.0
+2023-02-26,Miscellaneous,15.0,Charity ₹15.0
+2023-02-26,Transport,6.7,Delhi Metro Recharge ₹6.7
+2023-02-26,Investment,10.44,Stock Purchase ₹10.44
+2023-02-26,Travel,5.3,Air India Flight ₹5.3
+2023-02-26,Shopping,11.3,Myntra Order ₹11.3
+2023-02-26,Entertainment,5.9,Hotstar Renewal ₹5.9
+2023-02-27,Groceries,1.3,Reliance Fresh ₹1.3
+2023-02-27,Groceries,10.0,DMart Purchase ₹10.0
+2023-02-27,Dining,3.0,Subway Sandwich ₹3.0
+2023-02-27,Fitness,68.0,CultFit Subscription ₹68.0
+2023-02-27,Bills,3.54,Internet Bill ₹3.54
+2023-02-27,Education,9.57,Coursera Subscription ₹9.57
+2023-02-28,Education,7.15,Udemy Course ₹7.15
+2023-02-28,Bills,10.0,Internet Bill ₹10.0
+2023-02-28,Miscellaneous,5.3,Charity ₹5.3
+2023-03-01,Miscellaneous,10.0,Donation ₹10.0
+2023-03-01,Fitness,10.0,Protein Supplement ₹10.0
+2023-03-01,Travel,210.0,Air India Flight ₹210.0
+2023-03-01,Entertainment,56.0,Hotstar Renewal ₹56.0
+2023-03-01,Miscellaneous,10.0,Donation ₹10.0
+2023-03-01,Fitness,2.3,Yoga Class ₹2.3
+2023-03-01,Transport,7.0,Cab Fare ₹7.0
+2023-03-01,Food,3.0,Dominos Order ₹3.0
+2023-03-01,Shopping,5.0,Myntra Order ₹5.0
+2023-03-02,Travel,10.53,OYO Rooms Booking ₹10.53
+2023-03-02,Dining,20.0,Barbeque Nation ₹20.0
+2023-03-02,Groceries,9.44,DMart Purchase ₹9.44
+2023-03-02,Transport,11.13,Delhi Metro Recharge ₹11.13
+2023-03-03,Shopping,0.75,TataCliq Payment ₹0.75
+2023-03-03,Shopping,10.0,Myntra Order ₹10.0
+2023-03-03,Healthcare,77.1,Doctor Visit ₹77.1
+2023-03-03,Insurance,12.0,Car Insurance ₹12.0
+2023-03-04,Bills,9.0,Water Bill ₹9.0
+2023-03-04,Transport,200.0,Delhi Metro Recharge ₹200.0
+2023-03-04,Entertainment,52.0,Spotify Payment ₹52.0
+2023-03-04,Education,6.7,Udemy Course ₹6.7
+2023-03-04,Miscellaneous,6.7,Stationery Store ₹6.7
+2023-03-04,Insurance,3.6,Health Insurance ₹3.6
+2023-03-05,Transport,6.7,Delhi Metro Recharge ₹6.7
+2023-03-05,Fitness,14.2,Protein Supplement ₹14.2
+2023-03-05,Shopping,1.0,TataCliq Payment ₹1.0
+2023-03-05,Groceries,5.4,DMart Purchase ₹5.4
+2023-03-05,Healthcare,25.0,Doctor Visit ₹25.0
+2023-03-06,Food,0.9,Dominos Order ₹0.9
+2023-03-06,Investment,68.0,Stock Purchase ₹68.0
+2023-03-06,Investment,5.4,Mutual Fund SIP ₹5.4
+2023-03-06,Healthcare,2.05,MedPlus Bill ₹2.05
+2023-03-07,Entertainment,13.0,YouTube Premium ₹13.0
+2023-03-07,Food,60.0,Pizza Hut Bill ₹60.0
+2023-03-07,Dining,1.34,KFC Meal ₹1.34
+2023-03-07,Investment,5.4,Crypto Investment ₹5.4
+2023-03-07,Food,5.0,Dominos Order ₹5.0
+2023-03-08,Dining,3.0,Subway Sandwich ₹3.0
+2023-03-08,Education,10.8,Udemy Course ₹10.8
+2023-03-08,Travel,7.1,MakeMyTrip Payment ₹7.1
+2023-03-08,Shopping,5.4,Amazon Purchase ₹5.4
+2023-03-08,Groceries,3.25,DMart Purchase ₹3.25
+2023-03-08,Investment,0.9,Mutual Fund SIP ₹0.9
+2023-03-09,Miscellaneous,1.0,Donation ₹1.0
+2023-03-09,Dining,13.12,Barbeque Nation ₹13.12
+2023-03-09,Fitness,5.0,CultFit Subscription ₹5.0
+2023-03-09,Groceries,3.12,DMart Purchase ₹3.12
+2023-03-09,Groceries,6.46,BigBasket Order ₹6.46
+2023-03-11,Insurance,19.0,Health Insurance ₹19.0
+2023-03-11,Entertainment,150.0,Netflix Subscription ₹150.0
+2023-03-11,Shopping,16.0,Ajio Shopping ₹16.0
+2023-03-11,Healthcare,7.0,Diagnostic Center Payment ₹7.0
+2023-03-11,Groceries,36.0,More Supermarket ₹36.0
+2023-03-12,Food,39.0,Swiggy Payment ₹39.0
+2023-03-12,Travel,7.1,OYO Rooms Booking ₹7.1
+2023-03-12,Fitness,7.1,CultFit Subscription ₹7.1
+2023-03-12,Education,9.0,Unacademy Plan ₹9.0
+2023-03-11,Investment,5.0,Mutual Fund SIP ₹5.0
+2023-03-11,Fitness,10.0,CultFit Subscription ₹10.0
+2023-03-13,Travel,10.0,IRCTC Train Ticket ₹10.0
+2023-03-13,Shopping,7.1,Flipkart Order ₹7.1
+2023-03-13,Shopping,3.12,Myntra Order ₹3.12
+2023-03-13,Food,5.0,Zomato Order ₹5.0
+2023-03-13,Bills,13.51,Airtel Postpaid ₹13.51
+2023-03-14,Education,10.0,Unacademy Plan ₹10.0
+2023-03-14,Travel,7.1,MakeMyTrip Payment ₹7.1
+2023-03-14,Groceries,5.4,Reliance Fresh ₹5.4
+2023-03-14,Entertainment,9.24,Hotstar Renewal ₹9.24
+2023-03-15,Entertainment,9.0,Spotify Payment ₹9.0
+2023-03-15,Insurance,0.7,Health Insurance ₹0.7
+2023-03-15,Dining,7.3,Subway Sandwich ₹7.3
+2023-03-15,Fitness,7.1,Gym Membership ₹7.1
+2023-03-14,Food,7.52,Pizza Hut Bill ₹7.52
+2023-03-14,Travel,5.4,MakeMyTrip Payment ₹5.4
+2023-03-16,Entertainment,8.4,Hotstar Renewal ₹8.4
+2023-03-16,Healthcare,7.1,Doctor Visit ₹7.1
+2023-03-16,Shopping,9.0,Myntra Order ₹9.0
+2023-03-16,Investment,8.5,Stock Purchase ₹8.5
+2023-03-16,Healthcare,6.08,Apollo Pharmacy ₹6.08
+2023-03-17,Bills,30.0,Electricity Bill BSES ₹30.0
+2023-03-17,Groceries,1.0,DMart Purchase ₹1.0
+2023-03-17,Entertainment,7.1,BookMyShow Ticket ₹7.1
+2023-03-17,Investment,7.1,Stock Purchase ₹7.1
+2023-03-17,Healthcare,8.9,Apollo Pharmacy ₹8.9
+2023-03-17,Investment,8.55,Stock Purchase ₹8.55
+2023-03-18,Bills,70.0,Internet Bill ₹70.0
+2023-03-18,Food,7.1,Zomato Order ₹7.1
+2023-03-18,Transport,7.1,Uber Trip ₹7.1
+2023-03-18,Shopping,7.5,Amazon Purchase ₹7.5
+2023-03-18,Transport,100.0,Rapido Ride ₹100.0
+2023-03-18,Shopping,1.0,TataCliq Payment ₹1.0
+2023-03-18,Investment,7.1,Crypto Investment ₹7.1
+2023-03-18,Miscellaneous,7.0,Petrol Pump ₹7.0
+2023-03-19,Shopping,3.0,Amazon Purchase ₹3.0
+2023-03-19,Shopping,7.1,Myntra Order ₹7.1
+2023-03-19,Entertainment,7.1,Spotify Payment ₹7.1
+2023-03-19,Groceries,1.6,Reliance Fresh ₹1.6
+2023-03-19,Dining,7.1,KFC Meal ₹7.1
+2023-03-19,Travel,7.1,IRCTC Train Ticket ₹7.1
+2023-03-20,Entertainment,7.1,BookMyShow Ticket ₹7.1
+2023-03-20,Insurance,7.1,Health Insurance ₹7.1
+2023-03-20,Bills,2.3,Jio Fiber Recharge ₹2.3
+2023-03-20,Entertainment,7.1,Netflix Subscription ₹7.1
+2023-03-20,Entertainment,8.9,YouTube Premium ₹8.9
+2023-03-20,Food,19.0,Cafe Coffee Day ₹19.0
+2023-03-20,Food,4.62,Swiggy Payment ₹4.62
+2023-03-20,Travel,1.65,IRCTC Train Ticket ₹1.65
+2023-03-21,Travel,7.1,MakeMyTrip Payment ₹7.1
+2023-03-21,Miscellaneous,7.1,Charity ₹7.1
+2023-03-21,Education,1.4,Coursera Subscription ₹1.4
+2023-03-21,Food,7.1,Zomato Order ₹7.1
+2023-03-21,Entertainment,5.0,BookMyShow Ticket ₹5.0
+2023-03-21,Transport,17.0,Rapido Ride ₹17.0
+2023-03-22,Insurance,7.1,Health Insurance ₹7.1
+2023-03-22,Bills,9.0,Airtel Postpaid ₹9.0
+2023-03-22,Transport,1.0,Rapido Ride ₹1.0
+2023-03-21,Healthcare,13.0,Doctor Visit ₹13.0
+2023-03-21,Entertainment,17.5,BookMyShow Ticket ₹17.5
+2023-03-23,Bills,7.3,Airtel Postpaid ₹7.3
+2023-03-23,Shopping,9.5,Amazon Purchase ₹9.5
+2023-03-24,Investment,16.0,Crypto Investment ₹16.0
+2023-03-24,Miscellaneous,7.1,Petrol Pump ₹7.1
+2023-03-23,Transport,10.0,Uber Trip ₹10.0
+2023-03-25,Healthcare,12.0,Doctor Visit ₹12.0
+2023-03-25,Healthcare,26.0,MedPlus Bill ₹26.0
+2023-03-25,Investment,8.0,Crypto Investment ₹8.0
+2023-03-24,Food,4.34,Swiggy Payment ₹4.34
+2023-03-26,Shopping,16.0,TataCliq Payment ₹16.0
+2023-03-26,Miscellaneous,1.5,Donation ₹1.5
+2023-03-26,Miscellaneous,7.1,Gift Shop ₹7.1
+2023-03-25,Bills,3.6,Jio Fiber Recharge ₹3.6
+2023-03-27,Healthcare,26.0,Doctor Visit ₹26.0
+2023-03-26,Bills,12.0,Internet Bill ₹12.0
+2023-03-27,Entertainment,10.41,Hotstar Renewal ₹10.41
+2023-03-28,Travel,5.0,Air India Flight ₹5.0
+2023-03-28,Healthcare,10.17,Doctor Visit ₹10.17
+2023-03-29,Food,20.0,Dominos Order ₹20.0
+2023-03-29,Education,6.5,Udemy Course ₹6.5
+2023-03-29,Insurance,5.0,LIC Premium ₹5.0
+2023-03-30,Miscellaneous,1.61,Charity ₹1.61
+2023-03-30,Travel,19.5,OYO Rooms Booking ₹19.5
+2023-03-31,Groceries,20.0,DMart Purchase ₹20.0
+2023-03-31,Groceries,8.9,BigBasket Order ₹8.9
+2023-03-31,Fitness,28.0,Yoga Class ₹28.0
+2023-03-31,Shopping,34.0,Ajio Shopping ₹34.0
+2023-04-01,Groceries,14.3,Reliance Fresh ₹14.3
+2023-04-01,Miscellaneous,5.0,Petrol Pump ₹5.0
+2023-03-31,Miscellaneous,20.0,Donation ₹20.0
+2023-04-02,Bills,24.0,Jio Fiber Recharge ₹24.0
+2023-04-02,Dining,10.0,McDonalds Bill ₹10.0
+2023-04-01,Insurance,34.0,Car Insurance ₹34.0
+2023-04-03,Insurance,1.81,LIC Premium ₹1.81
+2023-04-03,Healthcare,36.0,Apollo Pharmacy ₹36.0
+2023-04-03,Dining,25.0,McDonalds Bill ₹25.0
+2023-04-04,Insurance,16.0,Car Insurance ₹16.0
+2023-04-04,Entertainment,7.1,YouTube Premium ₹7.1
+2023-04-05,Investment,68.0,PPF Deposit ₹68.0
+2023-04-05,Dining,16.0,Subway Sandwich ₹16.0
+2023-04-05,Bills,7.1,Electricity Bill BSES ₹7.1
+2023-04-05,Dining,37.0,KFC Meal ₹37.0
+2023-04-06,Dining,16.0,McDonalds Bill ₹16.0
+2023-04-06,Bills,7.1,Electricity Bill BSES ₹7.1
+2023-04-05,Entertainment,11.0,YouTube Premium ₹11.0
+2023-04-07,Travel,16.0,OYO Rooms Booking ₹16.0
+2023-04-06,Healthcare,85.0,Apollo Pharmacy ₹85.0
+2023-04-08,Entertainment,16.0,YouTube Premium ₹16.0
+2023-04-08,Food,8.13,Dominos Order ₹8.13
+2023-04-08,Insurance,5.0,LIC Premium ₹5.0
+2023-04-07,Bills,15.83,Jio Fiber Recharge ₹15.83
+2023-04-09,Healthcare,10.0,Doctor Visit ₹10.0
+2023-04-09,Shopping,16.0,TataCliq Payment ₹16.0
+2023-04-09,Investment,7.9,PPF Deposit ₹7.9
+2023-04-08,Education,32.0,Udemy Course ₹32.0
+2023-04-10,Investment,7.2,PPF Deposit ₹7.2
+2023-04-10,Insurance,223.0,LIC Premium ₹223.0
+2023-04-09,Dining,4.23,McDonalds Bill ₹4.23
+2023-04-11,Transport,39.2,Delhi Metro Recharge ₹39.2
+2023-04-11,Education,14.6,Coursera Subscription ₹14.6
+2023-04-11,Travel,7.1,Air India Flight ₹7.1
+2023-04-10,Groceries,18.32,DMart Purchase ₹18.32
+2023-04-12,Education,150.0,Udemy Course ₹150.0
+2023-04-12,Transport,16.0,Ola Ride ₹16.0
+2023-04-12,Healthcare,25.0,MedPlus Bill ₹25.0
+2023-04-11,Investment,8.67,Stock Purchase ₹8.67
+2023-04-13,Dining,25.2,Subway Sandwich ₹25.2
+2023-04-14,Food,33.0,Burger King Payment ₹33.0
+2023-04-14,Healthcare,16.0,Apollo Pharmacy ₹16.0
+2023-04-14,Bills,7.1,Jio Fiber Recharge ₹7.1
+2023-04-13,Insurance,8.17,Car Insurance ₹8.17
+2023-04-15,Dining,3.0,Barbeque Nation ₹3.0
+2023-04-15,Food,2.3,Burger King Payment ₹2.3
+2023-04-15,Investment,8.0,Crypto Investment ₹8.0
+2023-04-15,Fitness,47.0,Protein Supplement ₹47.0
+2023-04-15,Entertainment,7.1,Netflix Subscription ₹7.1
+2023-04-15,Dining,5.0,McDonalds Bill ₹5.0
+2023-04-16,Miscellaneous,7.1,Gift Shop ₹7.1
+2023-04-15,Transport,30.0,Ola Ride ₹30.0
+2023-04-16,Dining,7.1,Barbeque Nation ₹7.1
+2023-04-17,Transport,7.1,Delhi Metro Recharge ₹7.1
+2023-04-17,Entertainment,24.0,YouTube Premium ₹24.0
+2023-04-18,Investment,78.0,PPF Deposit ₹78.0
+2023-04-18,Transport,16.0,Uber Trip ₹16.0
+2023-04-18,Transport,7.1,Cab Fare ₹7.1
+2023-04-19,Dining,2.0,KFC Meal ₹2.0
+2023-04-19,Food,17.0,Pizza Hut Bill ₹17.0
+2023-04-19,Transport,17.0,Cab Fare ₹17.0
+2023-04-19,Education,12.0,Coursera Subscription ₹12.0
+2023-04-20,Shopping,1.5,Amazon Purchase ₹1.5
+2023-04-20,Food,35.0,Burger King Payment ₹35.0
+2023-04-19,Shopping,5.8,Amazon Purchase ₹5.8
+2023-04-21,Investment,53.0,Stock Purchase ₹53.0
+2023-04-21,Groceries,7.3,DMart Purchase ₹7.3
+2023-04-21,Healthcare,12.0,Doctor Visit ₹12.0
+2023-04-21,Transport,300.0,Rapido Ride ₹300.0
+2023-04-21,Food,5.3,Zomato Order ₹5.3
+2023-04-22,Food,20.0,Swiggy Payment ₹20.0
+2023-04-22,Fitness,1.41,CultFit Subscription ₹1.41
+2023-04-23,Insurance,50.0,Car Insurance ₹50.0
+2023-04-23,Travel,0.3,Air India Flight ₹0.3
+2023-04-23,Investment,8.0,Stock Purchase ₹8.0
+2023-04-23,Investment,2.0,Crypto Investment ₹2.0
+2023-04-23,Miscellaneous,7.5,Petrol Pump ₹7.5
+2023-04-24,Education,1.2,Byjus Payment ₹1.2
+2023-04-24,Dining,21.0,KFC Meal ₹21.0
+2023-04-24,Entertainment,10.0,BookMyShow Ticket ₹10.0
+2023-04-24,Insurance,33.0,LIC Premium ₹33.0
+2023-04-24,Insurance,14.0,LIC Premium ₹14.0
+2023-04-24,Education,7.3,Skillshare Membership ₹7.3
+2023-04-24,Healthcare,12.0,Doctor Visit ₹12.0
+2023-04-24,Miscellaneous,5.0,Charity ₹5.0
+2023-04-24,Shopping,2.4,Flipkart Order ₹2.4
+2023-04-25,Entertainment,1.0,YouTube Premium ₹1.0
+2023-04-26,Insurance,0.9,Car Insurance ₹0.9
+2023-04-26,Bills,2.13,Jio Fiber Recharge ₹2.13
+2023-04-26,Food,5.86,Zomato Order ₹5.86
+2023-04-26,Miscellaneous,16.0,Charity ₹16.0
+2023-04-27,Shopping,13.0,Myntra Order ₹13.0
+2023-04-28,Healthcare,0.9,Diagnostic Center Payment ₹0.9
+2023-04-27,Healthcare,20.38,Apollo Pharmacy ₹20.38
+2023-04-28,Food,10.0,Burger King Payment ₹10.0
+2023-04-28,Shopping,14.3,Ajio Shopping ₹14.3
+2023-04-28,Shopping,5.0,TataCliq Payment ₹5.0
+2023-04-27,Education,6.54,Skillshare Membership ₹6.54
+2023-04-29,Food,1.0,Burger King Payment ₹1.0
+2023-04-30,Dining,13.0,Subway Sandwich ₹13.0
+2023-04-30,Transport,10.0,Train Ticket ₹10.0
+2023-04-30,Dining,20.0,McDonalds Bill ₹20.0
+2023-04-30,Investment,9.2,Stock Purchase ₹9.2
+2023-04-30,Shopping,7.3,Myntra Order ₹7.3
+2023-04-30,Bills,6.5,Electricity Bill BSES ₹6.5
+2023-05-01,Insurance,490.0,Car Insurance ₹490.0
+2023-05-01,Miscellaneous,10.0,Charity ₹10.0
+2023-05-01,Travel,16.0,Air India Flight ₹16.0
+2023-05-01,Bills,10.0,Airtel Postpaid ₹10.0
+2023-05-02,Travel,1.0,Air India Flight ₹1.0
+2023-05-02,Transport,13.0,Cab Fare ₹13.0
+2023-05-02,Education,12.6,Unacademy Plan ₹12.6
+2023-05-02,Miscellaneous,17.0,Donation ₹17.0
+2023-05-03,Investment,13.0,Crypto Investment ₹13.0
+2023-05-03,Healthcare,20.0,Doctor Visit ₹20.0
+2023-05-03,Insurance,5.0,Health Insurance ₹5.0
+2023-05-03,Entertainment,9.32,YouTube Premium ₹9.32
+2023-05-03,Entertainment,45.0,YouTube Premium ₹45.0
+2023-05-05,Healthcare,63.0,Apollo Pharmacy ₹63.0
+2023-05-05,Insurance,2.23,Car Insurance ₹2.23
+2023-05-06,Food,0.7,Zomato Order ₹0.7
+2023-05-06,Entertainment,20.0,Netflix Subscription ₹20.0
+2023-05-06,Travel,7.0,Air India Flight ₹7.0
+2023-05-06,Food,20.0,Cafe Coffee Day ₹20.0
+2023-05-06,Bills,8.9,Water Bill ₹8.9
+2023-05-06,Shopping,7.1,TataCliq Payment ₹7.1
+2023-05-07,Groceries,12.0,DMart Purchase ₹12.0
+2023-05-07,Insurance,7.1,LIC Premium ₹7.1
+2023-05-07,Shopping,20.0,Flipkart Order ₹20.0
+2023-05-07,Shopping,9.0,Flipkart Order ₹9.0
+2023-05-07,Shopping,8.0,Ajio Shopping ₹8.0
+2023-05-07,Bills,14.3,Internet Bill ₹14.3
+2023-05-08,Healthcare,30.0,Apollo Pharmacy ₹30.0
+2023-05-08,Travel,0.9,IRCTC Train Ticket ₹0.9
+2023-05-08,Bills,9.32,Jio Fiber Recharge ₹9.32
+2023-05-08,Transport,16.0,Uber Trip ₹16.0
+2023-05-08,Insurance,31.0,Health Insurance ₹31.0
+2023-05-08,Shopping,4.0,Myntra Order ₹4.0
+2023-05-09,Transport,14.6,Uber Trip ₹14.6
+2023-05-09,Travel,1.0,Air India Flight ₹1.0
+2023-05-09,Bills,12.0,Water Bill ₹12.0
+2023-05-09,Education,3.0,Byjus Payment ₹3.0
+2023-05-09,Transport,2.51,Uber Trip ₹2.51
+2023-05-09,Entertainment,5.49,Spotify Payment ₹5.49
+2023-05-09,Bills,43.0,Jio Fiber Recharge ₹43.0
+2023-05-10,Dining,6.0,Subway Sandwich ₹6.0
+2023-05-10,Dining,16.0,Barbeque Nation ₹16.0
+2023-05-10,Education,59.0,Byjus Payment ₹59.0
+2023-05-10,Investment,16.0,Crypto Investment ₹16.0
+2023-05-10,Fitness,26.0,Protein Supplement ₹26.0
+2023-05-10,Dining,5.0,Subway Sandwich ₹5.0
+2023-05-10,Groceries,10.35,BigBasket Order ₹10.35
+2023-05-11,Miscellaneous,1.8,Donation ₹1.8
+2023-05-11,Miscellaneous,92.0,Donation ₹92.0
+2023-05-11,Transport,5.0,Rapido Ride ₹5.0
+2023-05-11,Entertainment,17.0,Netflix Subscription ₹17.0
+2023-05-11,Insurance,11.0,LIC Premium ₹11.0
+2023-05-12,Miscellaneous,150.0,Stationery Store ₹150.0
+2023-05-12,Investment,12.0,Crypto Investment ₹12.0
+2023-05-12,Bills,71.0,Airtel Postpaid ₹71.0
+2023-05-12,Travel,8.0,Air India Flight ₹8.0
+2023-05-13,Fitness,15.0,Yoga Class ₹15.0
+2023-05-13,Investment,7.9,Stock Purchase ₹7.9
+2023-05-13,Insurance,35.0,Health Insurance ₹35.0
+2023-05-13,Groceries,13.0,DMart Purchase ₹13.0
+2023-05-13,Shopping,7.1,Ajio Shopping ₹7.1
+2023-05-13,Education,9.0,Byjus Payment ₹9.0
+2023-05-13,Education,4.0,Unacademy Plan ₹4.0
+2023-05-14,Insurance,16.0,Car Insurance ₹16.0
+2023-05-14,Insurance,14.4,Health Insurance ₹14.4
+2023-05-14,Dining,1.1,KFC Meal ₹1.1
+2023-05-14,Education,9.0,Skillshare Membership ₹9.0
+2023-05-14,Food,4.0,Pizza Hut Bill ₹4.0
+2023-05-14,Miscellaneous,10.0,Gift Shop ₹10.0
+2023-05-14,Shopping,8.9,Amazon Purchase ₹8.9
+2023-05-14,Shopping,4.29,Ajio Shopping ₹4.29
+2023-05-15,Education,1.0,Coursera Subscription ₹1.0
+2023-05-15,Healthcare,6.0,Apollo Pharmacy ₹6.0
+2023-05-15,Fitness,6.0,Gym Membership ₹6.0
+2023-05-15,Dining,7.9,Subway Sandwich ₹7.9
+2023-05-15,Shopping,23.0,Amazon Purchase ₹23.0
+2023-05-16,Education,8.5,Skillshare Membership ₹8.5
+2023-05-16,Groceries,4.0,Reliance Fresh ₹4.0
+2023-05-16,Healthcare,100.0,Diagnostic Center Payment ₹100.0
+2023-05-16,Investment,2.0,Mutual Fund SIP ₹2.0
+2023-05-17,Groceries,1.6,More Supermarket ₹1.6
+2023-05-17,Travel,12.0,Air India Flight ₹12.0
+2023-05-17,Education,4.0,Unacademy Plan ₹4.0
+2023-05-17,Shopping,7.1,Myntra Order ₹7.1
+2023-05-17,Investment,7.1,Stock Purchase ₹7.1
+2023-05-17,Fitness,8.0,Gym Membership ₹8.0
+2023-05-18,Travel,2.0,MakeMyTrip Payment ₹2.0
+2023-05-18,Education,1.0,Udemy Course ₹1.0
+2023-05-18,Investment,7.1,Stock Purchase ₹7.1
+2023-05-18,Entertainment,5.0,YouTube Premium ₹5.0
+2023-05-18,Food,8.0,Cafe Coffee Day ₹8.0
+2023-05-19,Shopping,11.0,Ajio Shopping ₹11.0
+2023-05-19,Transport,1.4,Delhi Metro Recharge ₹1.4
+2023-05-19,Investment,7.1,Crypto Investment ₹7.1
+2023-05-19,Dining,12.45,Barbeque Nation ₹12.45
+2023-05-20,Bills,1.5,Electricity Bill BSES ₹1.5
+2023-05-20,Education,7.0,Byjus Payment ₹7.0
+2023-05-20,Transport,15.0,Delhi Metro Recharge ₹15.0
+2023-05-20,Shopping,8.0,Ajio Shopping ₹8.0
+2023-05-20,Food,114.0,Swiggy Payment ₹114.0
+2023-05-20,Travel,5.0,OYO Rooms Booking ₹5.0
+2023-05-21,Travel,7.1,MakeMyTrip Payment ₹7.1
+2023-05-21,Entertainment,3.0,YouTube Premium ₹3.0
+2023-05-21,Education,3.0,Unacademy Plan ₹3.0
+2023-05-21,Travel,9.0,Air India Flight ₹9.0
+2023-05-21,Dining,22.0,Subway Sandwich ₹22.0
+2023-05-21,Transport,17.0,Cab Fare ₹17.0
+2023-05-21,Education,10.0,Coursera Subscription ₹10.0
+2023-05-22,Investment,0.85,Crypto Investment ₹0.85
+2023-05-22,Miscellaneous,3.0,Donation ₹3.0
+2023-05-22,Education,0.05,Unacademy Plan ₹0.05
+2023-05-22,Transport,8.5,Ola Ride ₹8.5
+2023-05-22,Fitness,7.1,Yoga Class ₹7.1
+2023-05-22,Groceries,7.1,Reliance Fresh ₹7.1
+2023-05-22,Fitness,29.0,CultFit Subscription ₹29.0
+2023-05-23,Bills,4.1,Water Bill ₹4.1
+2023-05-23,Fitness,55.0,Protein Supplement ₹55.0
+2023-05-23,Food,8.0,Burger King Payment ₹8.0
+2023-05-23,Food,7.1,Swiggy Payment ₹7.1
+2023-05-24,Groceries,3.4,BigBasket Order ₹3.4
+2023-05-24,Groceries,5.0,More Supermarket ₹5.0
+2023-05-24,Entertainment,6.0,Hotstar Renewal ₹6.0
+2023-05-24,Food,24.0,Swiggy Payment ₹24.0
+2023-05-24,Entertainment,5.0,YouTube Premium ₹5.0
+2023-05-25,Groceries,5.81,More Supermarket ₹5.81
+2023-05-25,Miscellaneous,1.7,Charity ₹1.7
+2023-05-25,Miscellaneous,1.45,Gift Shop ₹1.45
+2023-05-25,Dining,2.0,Subway Sandwich ₹2.0
+2023-05-25,Entertainment,7.1,YouTube Premium ₹7.1
+2023-05-26,Miscellaneous,5.0,Stationery Store ₹5.0
+2023-05-26,Travel,11.0,Air India Flight ₹11.0
+2023-05-26,Miscellaneous,3.0,Gift Shop ₹3.0
+2023-05-26,Insurance,2.0,Health Insurance ₹2.0
+2023-05-26,Investment,20.27,Crypto Investment ₹20.27
+2023-05-27,Groceries,8.1,BigBasket Order ₹8.1
+2023-05-27,Investment,8.1,Crypto Investment ₹8.1
+2023-05-27,Food,9.0,Cafe Coffee Day ₹9.0
+2023-05-27,Transport,1.8,Ola Ride ₹1.8
+2023-05-27,Groceries,12.0,BigBasket Order ₹12.0
+2023-05-27,Fitness,8.9,Yoga Class ₹8.9
+2023-05-27,Miscellaneous,5.4,Gift Shop ₹5.4
+2023-05-28,Travel,7.3,Air India Flight ₹7.3
+2023-05-28,Food,0.85,Dominos Order ₹0.85
+2023-05-28,Investment,7.3,Stock Purchase ₹7.3
+2023-05-28,Travel,1.6,IRCTC Train Ticket ₹1.6
+2023-05-28,Bills,8.1,Jio Fiber Recharge ₹8.1
+2023-05-28,Investment,13.68,Stock Purchase ₹13.68
+2023-05-29,Insurance,1.55,LIC Premium ₹1.55
+2023-05-29,Dining,7.1,KFC Meal ₹7.1
+2023-05-29,Investment,9.0,Mutual Fund SIP ₹9.0
+2023-05-29,Miscellaneous,9.2,Petrol Pump ₹9.2
+2023-05-29,Travel,14.6,MakeMyTrip Payment ₹14.6
+2023-05-30,Travel,3.0,OYO Rooms Booking ₹3.0
+2023-05-30,Healthcare,9.34,MedPlus Bill ₹9.34
+2023-05-30,Fitness,5.0,Gym Membership ₹5.0
+2023-05-30,Entertainment,6.0,BookMyShow Ticket ₹6.0
+2023-05-31,Shopping,1.65,Ajio Shopping ₹1.65
+2023-05-31,Fitness,3.36,Protein Supplement ₹3.36
+2023-05-31,Shopping,1.7,Ajio Shopping ₹1.7
+2023-05-31,Miscellaneous,30.0,Donation ₹30.0
+2023-06-01,Healthcare,50.0,Doctor Visit ₹50.0
+2023-06-01,Insurance,1.65,Health Insurance ₹1.65
+2023-06-01,Fitness,6.0,Protein Supplement ₹6.0
+2023-06-01,Miscellaneous,7.1,Donation ₹7.1
+2023-06-01,Insurance,6.0,Health Insurance ₹6.0
+2023-06-01,Education,5.0,Unacademy Plan ₹5.0
+2023-06-02,Groceries,8.53,BigBasket Order ₹8.53
+2023-06-02,Fitness,10.0,Gym Membership ₹10.0
+2023-06-02,Insurance,1.45,Health Insurance ₹1.45
+2023-06-02,Food,20.0,Swiggy Payment ₹20.0
+2023-06-02,Education,8.0,Byjus Payment ₹8.0
+2023-06-02,Bills,8.1,Water Bill ₹8.1
+2023-06-02,Shopping,1.0,Flipkart Order ₹1.0
+2023-06-02,Transport,7.58,Delhi Metro Recharge ₹7.58
+2023-06-03,Education,1.56,Unacademy Plan ₹1.56
+2023-06-03,Transport,7.1,Ola Ride ₹7.1
+2023-06-03,Fitness,16.8,Protein Supplement ₹16.8
+2023-06-03,Groceries,8.1,BigBasket Order ₹8.1
+2023-06-03,Fitness,7.0,Yoga Class ₹7.0
+2023-06-03,Investment,8.21,Crypto Investment ₹8.21
+2023-06-03,Dining,10.0,Barbeque Nation ₹10.0
+2023-06-03,Groceries,100.0,DMart Purchase ₹100.0
+2023-06-04,Shopping,1.9,TataCliq Payment ₹1.9
+2023-06-04,Miscellaneous,6.0,Petrol Pump ₹6.0
+2023-06-04,Food,7.3,Pizza Hut Bill ₹7.3
+2023-06-04,Fitness,16.0,Gym Membership ₹16.0
+2023-06-04,Healthcare,1.85,MedPlus Bill ₹1.85
+2023-06-04,Dining,4.0,McDonalds Bill ₹4.0
+2023-06-04,Education,1.85,Coursera Subscription ₹1.85
+2023-06-04,Dining,3.0,Barbeque Nation ₹3.0
+2023-06-04,Food,50.0,Dominos Order ₹50.0
+2023-06-04,Transport,1.6,Delhi Metro Recharge ₹1.6
+2023-06-05,Transport,2.63,Delhi Metro Recharge ₹2.63
+2023-06-05,Transport,3.4,Uber Trip ₹3.4
+2023-06-05,Food,14.0,Dominos Order ₹14.0
+2023-06-05,Transport,0.5,Ola Ride ₹0.5
+2023-06-05,Travel,1.0,IRCTC Train Ticket ₹1.0
+2023-06-06,Shopping,5.38,Myntra Order ₹5.38
+2023-06-06,Education,1.88,Skillshare Membership ₹1.88
+2023-06-06,Transport,5.33,Rapido Ride ₹5.33
+2023-06-07,Healthcare,2.0,MedPlus Bill ₹2.0
+2023-06-07,Transport,4.38,Delhi Metro Recharge ₹4.38
+2023-06-07,Bills,7.34,Internet Bill ₹7.34
+2023-06-08,Food,7.1,Zomato Order ₹7.1
+2023-06-08,Entertainment,1.45,Hotstar Renewal ₹1.45
+2023-06-09,Shopping,3.33,Flipkart Order ₹3.33
+2023-06-09,Dining,1.0,Barbeque Nation ₹1.0
+2023-06-09,Transport,13.0,Uber Trip ₹13.0
+2023-06-09,Food,7.1,Pizza Hut Bill ₹7.1
+2023-06-09,Healthcare,1.45,Diagnostic Center Payment ₹1.45
+2023-06-10,Groceries,3.0,BigBasket Order ₹3.0
+2023-06-10,Healthcare,16.0,Apollo Pharmacy ₹16.0
+2023-06-10,Transport,7.1,Train Ticket ₹7.1
+2023-06-10,Food,7.9,Dominos Order ₹7.9
+2023-06-10,Miscellaneous,1.85,Charity ₹1.85
+2023-06-10,Food,8.1,Pizza Hut Bill ₹8.1
+2023-06-10,Transport,20.84,Cab Fare ₹20.84
+2023-06-11,Transport,5.0,Train Ticket ₹5.0
+2023-06-11,Dining,17.0,KFC Meal ₹17.0
+2023-06-11,Shopping,8.1,Myntra Order ₹8.1
+2023-06-11,Healthcare,1.45,Apollo Pharmacy ₹1.45
+2023-06-12,Shopping,4.0,TataCliq Payment ₹4.0
+2023-06-12,Education,8.0,Skillshare Membership ₹8.0
+2023-06-12,Fitness,1.0,Gym Membership ₹1.0
+2023-06-12,Travel,7.1,Air India Flight ₹7.1
+2023-06-12,Shopping,5.9,TataCliq Payment ₹5.9
+2023-06-13,Bills,1.0,Electricity Bill BSES ₹1.0
+2023-06-13,Entertainment,8.35,Spotify Payment ₹8.35
+2023-06-13,Healthcare,7.0,Doctor Visit ₹7.0
+2023-06-13,Groceries,3.72,BigBasket Order ₹3.72
+2023-06-13,Shopping,10.0,TataCliq Payment ₹10.0
+2023-06-14,Education,10.0,Byjus Payment ₹10.0
+2023-06-14,Education,2.56,Skillshare Membership ₹2.56
+2023-06-14,Investment,3.0,Mutual Fund SIP ₹3.0
+2023-06-14,Dining,6.1,McDonalds Bill ₹6.1
+2023-06-15,Insurance,200.0,Health Insurance ₹200.0
+2023-06-15,Shopping,7.1,Flipkart Order ₹7.1
+2023-06-15,Food,13.0,Pizza Hut Bill ₹13.0
+2023-06-15,Miscellaneous,1.85,Gift Shop ₹1.85
+2023-06-15,Education,10.5,Skillshare Membership ₹10.5
+2023-06-16,Food,4.0,Cafe Coffee Day ₹4.0
+2023-06-16,Dining,3.36,KFC Meal ₹3.36
+2023-06-16,Healthcare,1.0,Apollo Pharmacy ₹1.0
+2023-06-17,Transport,7.1,Rapido Ride ₹7.1
+2023-06-17,Food,16.0,Burger King Payment ₹16.0
+2023-06-17,Fitness,10.1,Yoga Class ₹10.1
+2023-06-17,Education,10.0,Udemy Course ₹10.0
+2023-06-17,Shopping,1.75,Amazon Purchase ₹1.75
+2023-06-17,Healthcare,10.0,Diagnostic Center Payment ₹10.0
+2023-06-17,Bills,5.42,Electricity Bill BSES ₹5.42
+2023-06-17,Education,106.0,Unacademy Plan ₹106.0
+2023-06-17,Fitness,6.6,CultFit Subscription ₹6.6
+2023-06-18,Groceries,5.0,Reliance Fresh ₹5.0
+2023-06-18,Travel,7.1,IRCTC Train Ticket ₹7.1
+2023-06-18,Entertainment,16.0,YouTube Premium ₹16.0
+2023-06-18,Healthcare,7.1,MedPlus Bill ₹7.1
+2023-06-18,Investment,0.75,Stock Purchase ₹0.75
+2023-06-18,Fitness,10.86,Protein Supplement ₹10.86
+2023-06-19,Fitness,4.5,Protein Supplement ₹4.5
+2023-06-19,Insurance,4.55,LIC Premium ₹4.55
+2023-06-19,Entertainment,8.1,Netflix Subscription ₹8.1
+2023-06-19,Travel,18.0,MakeMyTrip Payment ₹18.0
+2023-06-19,Shopping,82.0,Amazon Purchase ₹82.0
+2023-06-20,Fitness,7.72,Gym Membership ₹7.72
+2023-06-20,Travel,16.0,MakeMyTrip Payment ₹16.0
+2023-06-20,Education,25.0,Byjus Payment ₹25.0
+2023-06-21,Education,5.7,Udemy Course ₹5.7
+2023-06-21,Groceries,12.0,Reliance Fresh ₹12.0
+2023-06-21,Insurance,6.8,LIC Premium ₹6.8
+2023-06-21,Food,14.0,Zomato Order ₹14.0
+2023-06-22,Healthcare,4.66,Doctor Visit ₹4.66
+2023-06-22,Travel,1.3,MakeMyTrip Payment ₹1.3
+2023-06-22,Food,8.1,Pizza Hut Bill ₹8.1
+2023-06-22,Healthcare,12.0,Diagnostic Center Payment ₹12.0
+2023-06-23,Fitness,2.9,Gym Membership ₹2.9
+2023-06-23,Bills,2.0,Electricity Bill BSES ₹2.0
+2023-06-23,Fitness,5.0,Yoga Class ₹5.0
+2023-06-23,Healthcare,15.0,Apollo Pharmacy ₹15.0
+2023-06-23,Travel,1.0,MakeMyTrip Payment ₹1.0
+2023-06-24,Education,1.3,Skillshare Membership ₹1.3
+2023-06-24,Healthcare,2.0,Doctor Visit ₹2.0
+2023-06-24,Healthcare,17.0,Apollo Pharmacy ₹17.0
+2023-06-24,Entertainment,51.0,BookMyShow Ticket ₹51.0
+2023-06-24,Food,12.0,Dominos Order ₹12.0
+2023-06-24,Transport,10.0,Delhi Metro Recharge ₹10.0
+2023-06-25,Bills,0.9,Water Bill ₹0.9
+2023-06-25,Travel,5.32,Air India Flight ₹5.32
+2023-06-25,Dining,5.0,Barbeque Nation ₹5.0
+2023-06-25,Miscellaneous,28.0,Gift Shop ₹28.0
+2023-06-24,Food,45.0,Cafe Coffee Day ₹45.0
+2023-06-24,Bills,4.41,Jio Fiber Recharge ₹4.41
+2023-06-26,Food,18.0,Swiggy Payment ₹18.0
+2023-06-26,Bills,6.5,Water Bill ₹6.5
+2023-06-26,Entertainment,7.1,Spotify Payment ₹7.1
+2023-06-26,Insurance,50.0,Car Insurance ₹50.0
+2023-06-26,Fitness,10.0,Protein Supplement ₹10.0
+2023-06-26,Groceries,1.75,More Supermarket ₹1.75
+2023-06-26,Shopping,18.39,Flipkart Order ₹18.39
+2023-06-27,Bills,2.71,Jio Fiber Recharge ₹2.71
+2023-06-27,Transport,7.1,Delhi Metro Recharge ₹7.1
+2023-06-27,Groceries,8.9,DMart Purchase ₹8.9
+2023-06-27,Insurance,7.1,Car Insurance ₹7.1
+2023-06-27,Food,1.0,Pizza Hut Bill ₹1.0
+2023-06-27,Groceries,2.51,Reliance Fresh ₹2.51
+2023-06-28,Bills,3.73,Electricity Bill BSES ₹3.73
+2023-06-28,Education,8.1,Coursera Subscription ₹8.1
+2023-06-28,Bills,1.7,Electricity Bill BSES ₹1.7
+2023-06-28,Insurance,73.0,Health Insurance ₹73.0
+2023-06-28,Entertainment,13.0,Spotify Payment ₹13.0
+2023-06-28,Bills,3.8,Airtel Postpaid ₹3.8
+2023-06-28,Groceries,1.0,BigBasket Order ₹1.0
+2023-06-29,Dining,10.0,Subway Sandwich ₹10.0
+2023-06-29,Entertainment,7.1,YouTube Premium ₹7.1
+2023-06-29,Transport,1.0,Train Ticket ₹1.0
+2023-06-29,Dining,72.0,KFC Meal ₹72.0
+2023-06-29,Fitness,3.2,Protein Supplement ₹3.2
+2023-06-30,Travel,4.02,OYO Rooms Booking ₹4.02
+2023-06-30,Education,1.65,Udemy Course ₹1.65
+2023-06-30,Entertainment,7.1,Spotify Payment ₹7.1
+2023-06-30,Healthcare,9.0,Doctor Visit ₹9.0
+2023-06-30,Fitness,1.5,Yoga Class ₹1.5
+2023-06-30,Food,4.0,Burger King Payment ₹4.0
+2023-06-30,Transport,9.7,Delhi Metro Recharge ₹9.7
+2023-06-30,Education,3.73,Coursera Subscription ₹3.73
+2023-06-30,Insurance,8.1,Health Insurance ₹8.1
+2023-07-01,Healthcare,1.0,Apollo Pharmacy ₹1.0
+2023-07-01,Insurance,34.0,Health Insurance ₹34.0
+2023-07-02,Bills,4.0,Internet Bill ₹4.0
+2023-07-02,Transport,2.6,Cab Fare ₹2.6
+2023-07-02,Miscellaneous,7.1,Charity ₹7.1
+2023-07-02,Dining,9.0,KFC Meal ₹9.0
+2023-07-02,Transport,4.0,Uber Trip ₹4.0
+2023-07-02,Bills,30.0,Water Bill ₹30.0
+2023-07-02,Travel,20.0,IRCTC Train Ticket ₹20.0
+2023-07-02,Fitness,194.0,Gym Membership ₹194.0
+2023-07-02,Miscellaneous,16.0,Charity ₹16.0
+2023-07-02,Food,5.0,Burger King Payment ₹5.0
+2023-07-02,Fitness,7.0,Yoga Class ₹7.0
+2023-07-03,Bills,3.36,Internet Bill ₹3.36
+2023-07-03,Insurance,5.0,Health Insurance ₹5.0
+2023-07-03,Travel,12.0,MakeMyTrip Payment ₹12.0
+2023-07-03,Food,3.0,Zomato Order ₹3.0
+2023-07-04,Insurance,2.0,LIC Premium ₹2.0
+2023-07-04,Shopping,6.0,TataCliq Payment ₹6.0
+2023-07-04,Transport,70.0,Uber Trip ₹70.0
+2023-07-04,Travel,10.0,Air India Flight ₹10.0
+2023-07-05,Healthcare,0.9,MedPlus Bill ₹0.9
+2023-07-05,Insurance,4.75,Car Insurance ₹4.75
+2023-07-05,Dining,24.0,Subway Sandwich ₹24.0
+2023-07-05,Insurance,15.0,Health Insurance ₹15.0
+2023-07-06,Transport,8.0,Ola Ride ₹8.0
+2023-07-06,Dining,3.8,KFC Meal ₹3.8
+2023-07-06,Miscellaneous,5.83,Stationery Store ₹5.83
+2023-07-07,Investment,11.0,Crypto Investment ₹11.0
+2023-07-07,Transport,1.77,Train Ticket ₹1.77
+2023-07-08,Transport,7.4,Uber Trip ₹7.4
+2023-07-08,Entertainment,1.85,YouTube Premium ₹1.85
+2023-07-09,Bills,16.0,Electricity Bill BSES ₹16.0
+2023-07-09,Entertainment,8.1,BookMyShow Ticket ₹8.1
+2023-07-09,Education,0.85,Coursera Subscription ₹0.85
+2023-07-09,Insurance,10.8,Health Insurance ₹10.8
+2023-07-09,Bills,13.0,Internet Bill ₹13.0
+2023-07-10,Fitness,2.25,CultFit Subscription ₹2.25
+2023-07-10,Travel,7.0,IRCTC Train Ticket ₹7.0
+2023-07-10,Food,1.5,Cafe Coffee Day ₹1.5
+2023-07-10,Miscellaneous,4.86,Donation ₹4.86
+2023-07-11,Transport,2.33,Cab Fare ₹2.33
+2023-07-11,Entertainment,3.57,BookMyShow Ticket ₹3.57
+2023-07-11,Dining,39.0,Barbeque Nation ₹39.0
+2023-07-12,Miscellaneous,0.6,Petrol Pump ₹0.6
+2023-07-12,Transport,13.0,Delhi Metro Recharge ₹13.0
+2023-07-12,Investment,6.33,Mutual Fund SIP ₹6.33
+2023-07-12,Healthcare,10.0,Doctor Visit ₹10.0
+2023-07-12,Bills,9.5,Jio Fiber Recharge ₹9.5
+2023-07-13,Transport,170.0,Rapido Ride ₹170.0
+2023-07-13,Groceries,3.4,BigBasket Order ₹3.4
+2023-07-13,Bills,4.7,Jio Fiber Recharge ₹4.7
+2023-07-13,Transport,10.0,Uber Trip ₹10.0
+2023-07-13,Dining,16.0,Barbeque Nation ₹16.0
+2023-07-13,Investment,7.1,PPF Deposit ₹7.1
+2023-07-14,Travel,1.0,MakeMyTrip Payment ₹1.0
+2023-07-14,Bills,7.5,Electricity Bill BSES ₹7.5
+2023-07-14,Fitness,1.0,Gym Membership ₹1.0
+2023-07-14,Groceries,10.0,DMart Purchase ₹10.0
+2023-07-14,Groceries,13.0,More Supermarket ₹13.0
+2023-07-15,Travel,5.0,Air India Flight ₹5.0
+2023-07-15,Miscellaneous,16.0,Petrol Pump ₹16.0
+2023-07-15,Entertainment,39.0,YouTube Premium ₹39.0
+2023-07-15,Food,100.0,Dominos Order ₹100.0
+2023-07-15,Dining,25.0,KFC Meal ₹25.0
+2023-07-16,Investment,7.1,Mutual Fund SIP ₹7.1
+2023-07-16,Miscellaneous,16.0,Charity ₹16.0
+2023-07-16,Education,7.1,Unacademy Plan ₹7.1
+2023-07-16,Food,0.5,Zomato Order ₹0.5
+2023-07-16,Insurance,8.5,LIC Premium ₹8.5
+2023-07-16,Dining,7.3,Barbeque Nation ₹7.3
+2023-07-16,Healthcare,7.27,Diagnostic Center Payment ₹7.27
+2023-07-17,Shopping,3.0,TataCliq Payment ₹3.0
+2023-07-17,Dining,3.75,Barbeque Nation ₹3.75
+2023-07-17,Transport,2.0,Ola Ride ₹2.0
+2023-07-17,Fitness,127.0,CultFit Subscription ₹127.0
+2023-07-17,Bills,5.0,Internet Bill ₹5.0
+2023-07-17,Miscellaneous,8.4,Charity ₹8.4
+2023-07-17,Miscellaneous,7.1,Donation ₹7.1
+2023-07-18,Education,1.5,Skillshare Membership ₹1.5
+2023-07-18,Transport,3.8,Cab Fare ₹3.8
+2023-07-18,Groceries,8.4,DMart Purchase ₹8.4
+2023-07-18,Food,7.4,Burger King Payment ₹7.4
+2023-07-19,Investment,3.75,Crypto Investment ₹3.75
+2023-07-19,Miscellaneous,3.0,Gift Shop ₹3.0
+2023-07-19,Insurance,8.4,Car Insurance ₹8.4
+2023-07-19,Shopping,8.9,Myntra Order ₹8.9
+2023-07-19,Healthcare,2.1,MedPlus Bill ₹2.1
+2023-07-20,Investment,4.0,Mutual Fund SIP ₹4.0
+2023-07-20,Entertainment,2.0,YouTube Premium ₹2.0
+2023-07-20,Fitness,7.1,Yoga Class ₹7.1
+2023-07-20,Healthcare,7.1,Doctor Visit ₹7.1
+2023-07-20,Transport,7.1,Rapido Ride ₹7.1
+2023-07-20,Groceries,3.0,Reliance Fresh ₹3.0
+2023-07-20,Education,12.0,Unacademy Plan ₹12.0
+2023-07-20,Fitness,4.0,Yoga Class ₹4.0
+2023-07-21,Bills,15.0,Jio Fiber Recharge ₹15.0
+2023-07-26,Groceries,10.0,Reliance Fresh ₹10.0
+2023-07-26,Dining,51.0,McDonalds Bill ₹51.0
+2023-07-26,Dining,20.0,Subway Sandwich ₹20.0
+2023-07-26,Entertainment,708.0,YouTube Premium ₹708.0
+2023-07-26,Food,110.0,Swiggy Payment ₹110.0
+2023-07-26,Entertainment,2500.0,Netflix Subscription ₹2500.0
+2023-07-26,Healthcare,3.0,Apollo Pharmacy ₹3.0
+2023-07-28,Shopping,36.0,Flipkart Order ₹36.0
+2023-07-28,Shopping,55.0,TataCliq Payment ₹55.0
+2023-07-28,Education,19.0,Coursera Subscription ₹19.0
+2023-07-28,Bills,29.0,Airtel Postpaid ₹29.0
+2023-07-28,Insurance,20.0,Health Insurance ₹20.0
+2023-07-28,Healthcare,10.0,Doctor Visit ₹10.0
+2023-07-28,Investment,14.0,Crypto Investment ₹14.0
+2023-07-28,Groceries,158.0,DMart Purchase ₹158.0
+2023-07-30,Dining,8.1,KFC Meal ₹8.1
+2023-07-30,Education,10.9,Byjus Payment ₹10.9
+2023-07-30,Transport,5.4,Delhi Metro Recharge ₹5.4
+2023-08-02,Food,16.0,Cafe Coffee Day ₹16.0
+2023-08-02,Insurance,5.0,LIC Premium ₹5.0
+2023-08-03,Shopping,5.0,Ajio Shopping ₹5.0
+2023-08-03,Dining,3.0,KFC Meal ₹3.0
+2023-08-03,Education,45.0,Unacademy Plan ₹45.0
+2023-08-04,Transport,10.0,Rapido Ride ₹10.0
+2023-08-04,Groceries,7.2,Reliance Fresh ₹7.2
+2023-08-04,Healthcare,1.5,Diagnostic Center Payment ₹1.5
+2023-08-04,Transport,9.0,Ola Ride ₹9.0
+2023-08-04,Food,15.0,Pizza Hut Bill ₹15.0
+2023-08-05,Education,11.0,Udemy Course ₹11.0
+2023-08-05,Transport,8.1,Ola Ride ₹8.1
+2023-08-05,Insurance,6.0,LIC Premium ₹6.0
+2023-08-05,Shopping,20.0,Ajio Shopping ₹20.0
+2023-08-05,Bills,7.1,Airtel Postpaid ₹7.1
+2023-08-06,Insurance,7.1,LIC Premium ₹7.1
+2023-08-06,Entertainment,9.0,Netflix Subscription ₹9.0
+2023-08-06,Investment,7.1,Stock Purchase ₹7.1
+2023-08-06,Entertainment,5.0,YouTube Premium ₹5.0
+2023-08-07,Entertainment,3.5,Hotstar Renewal ₹3.5
+2023-08-07,Dining,5.7,McDonalds Bill ₹5.7
+2023-08-07,Transport,8.1,Ola Ride ₹8.1
+2023-08-07,Entertainment,11.5,Netflix Subscription ₹11.5
+2023-08-07,Entertainment,5.0,Netflix Subscription ₹5.0
+2023-08-08,Insurance,2.34,LIC Premium ₹2.34
+2023-08-08,Shopping,11.0,TataCliq Payment ₹11.0
+2023-08-08,Travel,7.1,OYO Rooms Booking ₹7.1
+2023-08-08,Fitness,14.0,Yoga Class ₹14.0
+2023-08-09,Dining,8.0,McDonalds Bill ₹8.0
+2023-08-10,Bills,5.18,Water Bill ₹5.18
+2023-08-10,Entertainment,1.0,Spotify Payment ₹1.0
+2023-08-11,Transport,1.8,Train Ticket ₹1.8
+2023-08-11,Groceries,6.75,Reliance Fresh ₹6.75
+2023-08-11,Food,11.61,Swiggy Payment ₹11.61
+2023-08-11,Insurance,16.0,Car Insurance ₹16.0
+2023-08-11,Healthcare,2.0,Apollo Pharmacy ₹2.0
+2023-08-11,Investment,150.0,Stock Purchase ₹150.0
+2023-08-12,Groceries,7.1,DMart Purchase ₹7.1
+2023-08-12,Bills,5.2,Airtel Postpaid ₹5.2
+2023-08-12,Education,40.0,Skillshare Membership ₹40.0
+2023-08-12,Fitness,10.0,CultFit Subscription ₹10.0
+2023-08-13,Dining,11.0,Barbeque Nation ₹11.0
+2023-08-14,Investment,1.49,Stock Purchase ₹1.49
+2023-08-14,Healthcare,7.0,MedPlus Bill ₹7.0
+2023-08-14,Food,16.35,Burger King Payment ₹16.35
+2023-08-15,Investment,3.75,Mutual Fund SIP ₹3.75
+2023-08-15,Healthcare,6.1,Doctor Visit ₹6.1
+2023-08-15,Dining,8.1,KFC Meal ₹8.1
+2023-08-15,Entertainment,17.32,Hotstar Renewal ₹17.32
+2023-08-16,Miscellaneous,1.75,Stationery Store ₹1.75
+2023-08-16,Dining,4.0,McDonalds Bill ₹4.0
+2023-08-16,Miscellaneous,6.1,Petrol Pump ₹6.1
+2023-08-16,Investment,8.1,PPF Deposit ₹8.1
+2023-08-16,Bills,2.76,Internet Bill ₹2.76
+2023-08-17,Dining,10.0,Subway Sandwich ₹10.0
+2023-08-17,Transport,7.1,Ola Ride ₹7.1
+2023-08-17,Bills,10.0,Water Bill ₹10.0
+2023-08-18,Travel,4.48,OYO Rooms Booking ₹4.48
+2023-08-18,Food,2.0,Cafe Coffee Day ₹2.0
+2023-08-18,Healthcare,1.55,Doctor Visit ₹1.55
+2023-08-18,Fitness,45.0,CultFit Subscription ₹45.0
+2023-08-18,Dining,6.1,Barbeque Nation ₹6.1
+2023-08-18,Education,6.1,Skillshare Membership ₹6.1
+2023-08-18,Food,2.5,Burger King Payment ₹2.5
+2023-08-19,Miscellaneous,14.2,Stationery Store ₹14.2
+2023-08-19,Bills,2.5,Electricity Bill BSES ₹2.5
+2023-08-19,Fitness,5.0,Yoga Class ₹5.0
+2023-08-19,Education,18.0,Udemy Course ₹18.0
+2023-08-20,Fitness,5.8,Yoga Class ₹5.8
+2023-08-20,Fitness,1.4,CultFit Subscription ₹1.4
+2023-08-20,Dining,0.6,McDonalds Bill ₹0.6
+2023-08-21,Groceries,42.0,More Supermarket ₹42.0
+2023-08-21,Insurance,1.82,LIC Premium ₹1.82
+2023-08-21,Groceries,10.0,Reliance Fresh ₹10.0
+2023-08-21,Investment,16.2,Mutual Fund SIP ₹16.2
+2023-08-22,Food,6.39,Burger King Payment ₹6.39
+2023-08-22,Fitness,12.0,Gym Membership ₹12.0
+2023-08-22,Groceries,7.1,Reliance Fresh ₹7.1
+2023-08-23,Miscellaneous,6.27,Stationery Store ₹6.27
+2023-08-23,Dining,2.42,Barbeque Nation ₹2.42
+2023-08-23,Shopping,10.0,Myntra Order ₹10.0
+2023-08-23,Bills,3.5,Internet Bill ₹3.5
+2023-08-23,Bills,8.1,Electricity Bill BSES ₹8.1
+2023-08-24,Healthcare,3.0,MedPlus Bill ₹3.0
+2023-08-24,Healthcare,6.1,Diagnostic Center Payment ₹6.1
+2023-08-25,Entertainment,5.41,Netflix Subscription ₹5.41
+2023-08-25,Education,10.0,Byjus Payment ₹10.0
+2023-08-25,Healthcare,3.0,Diagnostic Center Payment ₹3.0
+2023-08-26,Fitness,11.0,Gym Membership ₹11.0
+2023-08-26,Groceries,16.0,Reliance Fresh ₹16.0
+2023-08-26,Travel,11.8,IRCTC Train Ticket ₹11.8
+2023-08-26,Insurance,10.0,LIC Premium ₹10.0
+2023-08-26,Investment,14.2,Stock Purchase ₹14.2
+2023-08-27,Shopping,17.0,Flipkart Order ₹17.0
+2023-08-27,Miscellaneous,11.0,Charity ₹11.0
+2023-08-28,Entertainment,2.5,BookMyShow Ticket ₹2.5
+2023-08-28,Healthcare,5.0,Apollo Pharmacy ₹5.0
+2023-08-28,Travel,7.73,MakeMyTrip Payment ₹7.73
+2023-08-29,Shopping,3.0,TataCliq Payment ₹3.0
+2023-08-29,Dining,11.0,Barbeque Nation ₹11.0
+2023-08-29,Shopping,5.0,Ajio Shopping ₹5.0
+2023-08-29,Miscellaneous,3.0,Donation ₹3.0
+2023-08-29,Healthcare,4.0,Apollo Pharmacy ₹4.0
+2023-08-29,Transport,26.0,Cab Fare ₹26.0
+2023-08-29,Entertainment,8.1,Spotify Payment ₹8.1
+2023-08-30,Groceries,2.0,Reliance Fresh ₹2.0
+2023-08-30,Insurance,1.75,Health Insurance ₹1.75
+2023-08-30,Shopping,7.1,TataCliq Payment ₹7.1
+2023-08-30,Insurance,7.4,LIC Premium ₹7.4
+2023-08-31,Insurance,13.62,LIC Premium ₹13.62
+2023-08-31,Shopping,6.1,Ajio Shopping ₹6.1
+2023-09-01,Insurance,22.43,Car Insurance ₹22.43
+2023-09-01,Travel,7.4,MakeMyTrip Payment ₹7.4
+2023-09-01,Food,7.1,Burger King Payment ₹7.1
+2023-09-02,Entertainment,5.0,Netflix Subscription ₹5.0
+2023-09-04,Education,2.0,Coursera Subscription ₹2.0
+2023-09-04,Groceries,20.0,BigBasket Order ₹20.0
+2023-09-04,Food,3.0,Zomato Order ₹3.0
+2023-09-04,Insurance,66.0,LIC Premium ₹66.0
+2023-09-04,Bills,3.0,Water Bill ₹3.0
+2023-09-05,Shopping,13.0,Flipkart Order ₹13.0
+2023-09-05,Investment,10.0,Stock Purchase ₹10.0
+2023-09-05,Bills,7.4,Internet Bill ₹7.4
+2023-09-06,Healthcare,22.0,MedPlus Bill ₹22.0
+2023-09-06,Groceries,7.5,Reliance Fresh ₹7.5
+2023-09-06,Education,5.0,Unacademy Plan ₹5.0
+2023-09-06,Miscellaneous,1.0,Charity ₹1.0
+2023-09-06,Insurance,30.0,LIC Premium ₹30.0
+2023-09-07,Insurance,24.0,Car Insurance ₹24.0
+2023-09-07,Dining,1.0,Subway Sandwich ₹1.0
+2023-09-07,Fitness,10.0,Protein Supplement ₹10.0
+2023-09-07,Dining,12.0,McDonalds Bill ₹12.0
+2023-09-08,Dining,13.0,Subway Sandwich ₹13.0
+2023-09-08,Travel,17.0,MakeMyTrip Payment ₹17.0
+2023-09-09,Travel,8.0,Air India Flight ₹8.0
+2023-09-09,Insurance,10.0,LIC Premium ₹10.0
+2023-09-09,Bills,11.0,Water Bill ₹11.0
+2023-09-10,Fitness,39.0,Gym Membership ₹39.0
+2023-09-10,Education,7.1,Byjus Payment ₹7.1
+2023-09-10,Insurance,6.0,Car Insurance ₹6.0
+2023-09-10,Entertainment,10.0,Hotstar Renewal ₹10.0
+2023-09-10,Travel,168.0,OYO Rooms Booking ₹168.0
+2023-09-11,Food,6.0,Swiggy Payment ₹6.0
+2023-09-11,Miscellaneous,8.0,Gift Shop ₹8.0
+2023-09-11,Entertainment,7.4,Netflix Subscription ₹7.4
+2023-09-11,Shopping,10.0,Ajio Shopping ₹10.0
+2023-09-12,Travel,5.65,IRCTC Train Ticket ₹5.65
+2023-09-12,Travel,20.0,MakeMyTrip Payment ₹20.0
+2023-09-12,Groceries,8.1,BigBasket Order ₹8.1
+2023-09-12,Travel,10.0,Air India Flight ₹10.0
+2023-09-13,Food,5.65,Zomato Order ₹5.65
+2023-09-13,Dining,90.0,Subway Sandwich ₹90.0
+2023-09-13,Food,20.0,Cafe Coffee Day ₹20.0
+2023-09-13,Food,7.1,Dominos Order ₹7.1
+2023-09-14,Investment,12.0,Stock Purchase ₹12.0
+2023-09-14,Entertainment,10.0,Netflix Subscription ₹10.0
+2023-09-14,Transport,12.0,Delhi Metro Recharge ₹12.0
+2023-09-14,Miscellaneous,6.1,Gift Shop ₹6.1
+2023-09-15,Fitness,3.0,Protein Supplement ₹3.0
+2023-09-15,Dining,6.1,McDonalds Bill ₹6.1
+2023-09-15,Bills,5.0,Water Bill ₹5.0
+2023-09-16,Fitness,7.1,CultFit Subscription ₹7.1
+2023-09-16,Insurance,8.1,LIC Premium ₹8.1
+2023-09-16,Dining,73.0,McDonalds Bill ₹73.0
+2023-09-16,Investment,11.41,PPF Deposit ₹11.41
+2023-09-17,Shopping,7.1,Myntra Order ₹7.1
+2023-09-17,Dining,2.5,Subway Sandwich ₹2.5
+2023-09-17,Groceries,16.0,BigBasket Order ₹16.0
+2023-09-17,Entertainment,8.0,Netflix Subscription ₹8.0
+2023-09-17,Travel,61.6,IRCTC Train Ticket ₹61.6
+2023-09-18,Healthcare,11.0,MedPlus Bill ₹11.0
+2023-09-18,Food,15.0,Dominos Order ₹15.0
+2023-09-18,Food,10.0,Dominos Order ₹10.0
+2023-09-18,Bills,6.6,Water Bill ₹6.6
+2023-09-18,Shopping,5.0,Ajio Shopping ₹5.0
+2023-09-18,Transport,28.0,Rapido Ride ₹28.0
+2023-09-19,Shopping,7.1,TataCliq Payment ₹7.1
+2023-09-19,Healthcare,6.0,Diagnostic Center Payment ₹6.0
+2023-09-19,Healthcare,16.0,Apollo Pharmacy ₹16.0
+2023-09-20,Shopping,12.0,TataCliq Payment ₹12.0
+2023-09-20,Travel,7.1,Air India Flight ₹7.1
+2023-09-20,Transport,8.33,Ola Ride ₹8.33
+2023-09-21,Insurance,9.0,Health Insurance ₹9.0
+2023-09-21,Healthcare,7.0,Diagnostic Center Payment ₹7.0
+2023-09-21,Healthcare,7.61,Apollo Pharmacy ₹7.61
+2023-09-21,Dining,25.0,KFC Meal ₹25.0
+2023-09-21,Bills,7.1,Jio Fiber Recharge ₹7.1
+2023-09-22,Groceries,6.0,More Supermarket ₹6.0
+2023-09-22,Entertainment,15.5,Hotstar Renewal ₹15.5
+2023-09-22,Insurance,8.1,LIC Premium ₹8.1
+2023-09-23,Groceries,7.1,More Supermarket ₹7.1
+2023-09-23,Bills,90.0,Internet Bill ₹90.0
+2023-09-23,Fitness,70.0,CultFit Subscription ₹70.0
+2023-09-23,Fitness,7.1,Yoga Class ₹7.1
+2023-09-24,Miscellaneous,1.0,Gift Shop ₹1.0
+2023-09-24,Dining,6.57,McDonalds Bill ₹6.57
+2023-09-24,Dining,4.35,McDonalds Bill ₹4.35
+2023-09-24,Insurance,20.0,Car Insurance ₹20.0
+2023-09-25,Healthcare,11.0,Diagnostic Center Payment ₹11.0
+2023-09-25,Entertainment,30.0,BookMyShow Ticket ₹30.0
+2023-09-25,Shopping,7.1,Myntra Order ₹7.1
+2023-09-25,Fitness,5.0,Protein Supplement ₹5.0
+2023-09-25,Shopping,5.35,Ajio Shopping ₹5.35
+2023-09-26,Healthcare,3.0,Diagnostic Center Payment ₹3.0
+2023-09-26,Insurance,16.0,LIC Premium ₹16.0
+2023-09-26,Dining,9.0,Subway Sandwich ₹9.0
+2023-09-26,Fitness,1.0,Protein Supplement ₹1.0
+2023-09-27,Insurance,6.0,LIC Premium ₹6.0
+2023-09-27,Dining,16.0,Barbeque Nation ₹16.0
+2023-09-27,Fitness,4.6,Yoga Class ₹4.6
+2023-09-28,Education,16.0,Byjus Payment ₹16.0
+2023-09-28,Insurance,6.0,LIC Premium ₹6.0
+2023-09-29,Miscellaneous,7.0,Charity ₹7.0
+2023-09-29,Miscellaneous,17.0,Stationery Store ₹17.0
+2023-09-30,Groceries,22.0,Reliance Fresh ₹22.0
+2023-09-30,Food,1.0,Dominos Order ₹1.0
+2023-09-30,Bills,5.0,Electricity Bill BSES ₹5.0
+2023-09-30,Travel,3.5,OYO Rooms Booking ₹3.5
+2023-10-01,Fitness,7.3,Gym Membership ₹7.3
+2023-10-01,Entertainment,20.0,Spotify Payment ₹20.0
+2023-10-01,Travel,20.0,OYO Rooms Booking ₹20.0
+2023-10-01,Shopping,10.0,Myntra Order ₹10.0
+2023-10-01,Education,29.0,Byjus Payment ₹29.0
+2023-10-02,Transport,6.0,Uber Trip ₹6.0
+2023-10-02,Transport,8.0,Uber Trip ₹8.0
+2023-10-03,Groceries,6.0,BigBasket Order ₹6.0
+2023-10-03,Healthcare,16.0,Doctor Visit ₹16.0
+2023-10-04,Transport,2.0,Train Ticket ₹2.0
+2023-10-04,Education,6.8,Udemy Course ₹6.8
+2023-10-04,Groceries,1.5,More Supermarket ₹1.5
+2023-10-05,Dining,6.8,KFC Meal ₹6.8
+2023-10-05,Groceries,16.0,BigBasket Order ₹16.0
+2023-10-05,Fitness,5.0,Gym Membership ₹5.0
+2023-10-06,Fitness,4.58,Gym Membership ₹4.58
+2023-10-06,Miscellaneous,3.0,Gift Shop ₹3.0
+2023-10-06,Fitness,6.0,Gym Membership ₹6.0
+2023-10-06,Food,7.1,Cafe Coffee Day ₹7.1
+2023-10-06,Dining,9.27,Subway Sandwich ₹9.27
+2023-10-06,Miscellaneous,7.5,Charity ₹7.5
+2023-10-07,Bills,7.1,Electricity Bill BSES ₹7.1
+2023-10-07,Miscellaneous,8.4,Donation ₹8.4
+2023-10-07,Fitness,32.0,Protein Supplement ₹32.0
+2023-10-08,Investment,8.4,Crypto Investment ₹8.4
+2023-10-08,Travel,23.0,MakeMyTrip Payment ₹23.0
+2023-10-08,Travel,3.0,IRCTC Train Ticket ₹3.0
+2023-10-08,Bills,0.5,Jio Fiber Recharge ₹0.5
+2023-10-08,Dining,5.4,KFC Meal ₹5.4
+2023-10-08,Miscellaneous,8.4,Petrol Pump ₹8.4
+2023-10-08,Fitness,6.81,Yoga Class ₹6.81
+2023-10-09,Transport,6.8,Train Ticket ₹6.8
+2023-10-09,Insurance,3.0,LIC Premium ₹3.0
+2023-10-09,Dining,25.0,McDonalds Bill ₹25.0
+2023-10-09,Bills,16.0,Internet Bill ₹16.0
+2023-10-09,Insurance,10.17,LIC Premium ₹10.17
+2023-10-10,Investment,350.0,Mutual Fund SIP ₹350.0
+2023-10-10,Insurance,3.0,Health Insurance ₹3.0
+2023-10-10,Travel,16.0,OYO Rooms Booking ₹16.0
+2023-10-11,Travel,16.0,MakeMyTrip Payment ₹16.0
+2023-10-11,Travel,100.0,OYO Rooms Booking ₹100.0
+2023-10-11,Investment,6.8,Crypto Investment ₹6.8
+2023-10-11,Miscellaneous,14.1,Petrol Pump ₹14.1
+2023-10-12,Miscellaneous,19.0,Charity ₹19.0
+2023-10-12,Miscellaneous,5.0,Stationery Store ₹5.0
+2023-10-13,Bills,6.8,Internet Bill ₹6.8
+2023-10-13,Entertainment,4.0,Netflix Subscription ₹4.0
+2023-10-13,Transport,45.0,Delhi Metro Recharge ₹45.0
+2023-10-13,Food,16.0,Cafe Coffee Day ₹16.0
+2023-10-14,Shopping,4.23,Myntra Order ₹4.23
+2023-10-15,Entertainment,17.0,Netflix Subscription ₹17.0
+2023-10-15,Education,9.0,Skillshare Membership ₹9.0
+2023-10-15,Groceries,11.0,Reliance Fresh ₹11.0
+2023-10-16,Food,5.22,Cafe Coffee Day ₹5.22
+2023-10-16,Investment,4.0,Crypto Investment ₹4.0
+2023-10-16,Groceries,2.5,Reliance Fresh ₹2.5
+2023-10-15,Fitness,31.0,Yoga Class ₹31.0
+2023-10-17,Fitness,4.0,CultFit Subscription ₹4.0
+2023-10-17,Education,3.13,Udemy Course ₹3.13
+2023-10-17,Travel,7.1,MakeMyTrip Payment ₹7.1
+2023-10-17,Fitness,9.0,Protein Supplement ₹9.0
+2023-10-18,Investment,4.0,Mutual Fund SIP ₹4.0
+2023-10-18,Education,8.0,Byjus Payment ₹8.0
+2023-10-18,Food,7.1,Dominos Order ₹7.1
+2023-10-18,Groceries,3.0,DMart Purchase ₹3.0
+2023-10-19,Bills,6.8,Water Bill ₹6.8
+2023-10-19,Groceries,10.0,Reliance Fresh ₹10.0
+2023-10-19,Groceries,7.1,DMart Purchase ₹7.1
+2023-10-19,Food,10.0,Burger King Payment ₹10.0
+2023-10-19,Dining,5.0,Subway Sandwich ₹5.0
+2023-10-20,Transport,3.0,Delhi Metro Recharge ₹3.0
+2023-10-20,Shopping,7.0,Amazon Purchase ₹7.0
+2023-10-20,Dining,3.0,Barbeque Nation ₹3.0
+2023-10-20,Investment,5.0,Mutual Fund SIP ₹5.0
+2023-10-20,Miscellaneous,100.0,Stationery Store ₹100.0
+2023-10-21,Education,7.1,Udemy Course ₹7.1
+2023-10-21,Education,7.1,Coursera Subscription ₹7.1
+2023-10-21,Fitness,6.0,Gym Membership ₹6.0
+2023-10-21,Insurance,40.0,Car Insurance ₹40.0
+2023-10-22,Insurance,10.0,Car Insurance ₹10.0
+2023-10-22,Transport,5.0,Uber Trip ₹5.0
+2023-10-22,Investment,13.0,Mutual Fund SIP ₹13.0
+2023-10-22,Investment,4.0,Stock Purchase ₹4.0
+2023-10-22,Insurance,4.0,LIC Premium ₹4.0
+2023-10-22,Miscellaneous,7.1,Donation ₹7.1
+2023-10-22,Investment,8.0,PPF Deposit ₹8.0
+2023-10-23,Fitness,5.0,CultFit Subscription ₹5.0
+2023-10-23,Groceries,29.0,Reliance Fresh ₹29.0
+2023-10-23,Shopping,17.0,Amazon Purchase ₹17.0
+2023-10-23,Bills,1.4,Jio Fiber Recharge ₹1.4
+2023-10-23,Bills,2.4,Internet Bill ₹2.4
+2023-10-24,Shopping,4.16,Myntra Order ₹4.16
+2023-10-24,Bills,4.0,Jio Fiber Recharge ₹4.0
+2023-10-24,Food,6.7,Swiggy Payment ₹6.7
+2023-10-24,Education,3.0,Coursera Subscription ₹3.0
+2023-10-24,Travel,7.1,OYO Rooms Booking ₹7.1
+2023-10-25,Groceries,6.8,DMart Purchase ₹6.8
+2023-10-25,Education,5.3,Unacademy Plan ₹5.3
+2023-10-25,Insurance,6.3,Car Insurance ₹6.3
+2023-10-25,Education,7.1,Coursera Subscription ₹7.1
+2023-10-25,Healthcare,5.0,Apollo Pharmacy ₹5.0
+2023-10-26,Travel,6.7,IRCTC Train Ticket ₹6.7
+2023-10-26,Travel,9.0,OYO Rooms Booking ₹9.0
+2023-10-26,Dining,17.0,Barbeque Nation ₹17.0
+2023-10-26,Education,3.73,Udemy Course ₹3.73
+2023-10-27,Investment,7.2,Stock Purchase ₹7.2
+2023-10-27,Transport,7.1,Cab Fare ₹7.1
+2023-10-27,Transport,10.8,Train Ticket ₹10.8
+2023-10-27,Fitness,8.14,Gym Membership ₹8.14
+2023-10-28,Healthcare,7.1,Apollo Pharmacy ₹7.1
+2023-10-28,Education,78.0,Udemy Course ₹78.0
+2023-10-29,Groceries,5.0,Reliance Fresh ₹5.0
+2023-10-29,Miscellaneous,6.0,Gift Shop ₹6.0
+2023-10-29,Healthcare,16.0,MedPlus Bill ₹16.0
+2023-10-30,Investment,5.62,Stock Purchase ₹5.62
+2023-10-30,Investment,10.0,Mutual Fund SIP ₹10.0
+2023-10-30,Travel,7.1,OYO Rooms Booking ₹7.1
+2023-10-30,Travel,5.0,IRCTC Train Ticket ₹5.0
+2023-10-31,Healthcare,4.1,MedPlus Bill ₹4.1
+2023-10-31,Insurance,7.1,LIC Premium ₹7.1
+2023-10-31,Bills,6.3,Jio Fiber Recharge ₹6.3
+2023-10-31,Miscellaneous,30.0,Stationery Store ₹30.0
+2023-11-01,Transport,5.36,Train Ticket ₹5.36
+2023-11-01,Transport,10.0,Train Ticket ₹10.0
+2023-11-01,Food,7.1,Pizza Hut Bill ₹7.1
+2023-11-01,Food,4.54,Zomato Order ₹4.54
+2023-11-02,Food,10.0,Pizza Hut Bill ₹10.0
+2023-11-02,Shopping,20.0,Amazon Purchase ₹20.0
+2023-11-02,Fitness,10.0,CultFit Subscription ₹10.0
+2023-11-02,Dining,7.1,KFC Meal ₹7.1
+2023-11-02,Travel,17.0,IRCTC Train Ticket ₹17.0
+2023-11-03,Shopping,7.0,TataCliq Payment ₹7.0
+2023-11-03,Fitness,15.0,Gym Membership ₹15.0
+2023-11-03,Dining,7.9,McDonalds Bill ₹7.9
+2023-11-03,Entertainment,10.0,YouTube Premium ₹10.0
+2023-11-04,Groceries,5.13,DMart Purchase ₹5.13
+2023-11-04,Education,15.0,Unacademy Plan ₹15.0
+2023-11-04,Healthcare,18.0,MedPlus Bill ₹18.0
+2023-11-05,Miscellaneous,17.0,Stationery Store ₹17.0
+2023-11-05,Travel,3.0,OYO Rooms Booking ₹3.0
+2023-11-05,Groceries,2.5,Reliance Fresh ₹2.5
+2023-11-05,Investment,100.0,PPF Deposit ₹100.0
+2023-11-05,Investment,14.0,Mutual Fund SIP ₹14.0
+2023-11-06,Insurance,5.5,Health Insurance ₹5.5
+2023-11-06,Miscellaneous,2.73,Donation ₹2.73
+2023-11-06,Healthcare,5.0,Diagnostic Center Payment ₹5.0
+2023-11-06,Insurance,23.0,Car Insurance ₹23.0
+2023-11-06,Transport,1.73,Cab Fare ₹1.73
+2023-11-07,Investment,10.0,Mutual Fund SIP ₹10.0
+2023-11-07,Entertainment,17.0,Netflix Subscription ₹17.0
+2023-11-08,Healthcare,7.4,Apollo Pharmacy ₹7.4
+2023-11-08,Investment,7.9,Crypto Investment ₹7.9
+2023-11-08,Insurance,21.37,Health Insurance ₹21.37
+2023-11-08,Transport,3.0,Ola Ride ₹3.0
+2023-11-08,Travel,2.29,IRCTC Train Ticket ₹2.29
+2023-11-09,Education,6.6,Udemy Course ₹6.6
+2023-11-10,Investment,0.5,Mutual Fund SIP ₹0.5
+2023-11-10,Travel,2.5,Air India Flight ₹2.5
+2023-11-10,Groceries,10.0,BigBasket Order ₹10.0
+2023-11-10,Fitness,6.9,Gym Membership ₹6.9
+2023-11-10,Education,4.0,Udemy Course ₹4.0
+2023-11-11,Shopping,5.5,Ajio Shopping ₹5.5
+2023-11-11,Food,9.5,Pizza Hut Bill ₹9.5
+2023-11-11,Bills,5.0,Airtel Postpaid ₹5.0
+2023-11-11,Education,9.5,Udemy Course ₹9.5
+2023-11-11,Dining,9.4,Barbeque Nation ₹9.4
+2023-11-12,Transport,9.5,Cab Fare ₹9.5
+2023-11-12,Shopping,5.5,Myntra Order ₹5.5
+2023-11-12,Groceries,9.5,More Supermarket ₹9.5
+2023-11-13,Fitness,0.9,Yoga Class ₹0.9
+2023-11-13,Investment,22.95,Stock Purchase ₹22.95
+2023-11-13,Shopping,10.0,Ajio Shopping ₹10.0
+2023-11-13,Entertainment,9.5,Hotstar Renewal ₹9.5
+2023-11-13,Healthcare,5.0,Apollo Pharmacy ₹5.0
+2023-11-14,Transport,2.15,Uber Trip ₹2.15
+2023-11-14,Dining,10.0,KFC Meal ₹10.0
+2023-11-14,Food,9.39,Pizza Hut Bill ₹9.39
+2023-11-14,Food,7.4,Cafe Coffee Day ₹7.4
+2023-11-15,Food,4.1,Swiggy Payment ₹4.1
+2023-11-15,Education,10.0,Coursera Subscription ₹10.0
+2023-11-15,Insurance,1.0,Health Insurance ₹1.0
+2023-11-16,Transport,4.8,Uber Trip ₹4.8
+2023-11-16,Food,7.0,Swiggy Payment ₹7.0
+2023-11-16,Education,1.0,Skillshare Membership ₹1.0
+2023-11-16,Dining,70.0,Barbeque Nation ₹70.0
+2023-11-16,Insurance,1.6,LIC Premium ₹1.6
+2023-11-16,Groceries,10.0,More Supermarket ₹10.0
+2023-11-17,Investment,5.4,PPF Deposit ₹5.4
+2023-11-17,Education,2.0,Byjus Payment ₹2.0
+2023-11-17,Food,10.0,Swiggy Payment ₹10.0
+2023-11-18,Shopping,8.0,Myntra Order ₹8.0
+2023-11-18,Groceries,65.0,DMart Purchase ₹65.0
+2023-11-18,Groceries,11.0,More Supermarket ₹11.0
+2023-11-18,Fitness,10.0,Yoga Class ₹10.0
+2023-11-18,Transport,10.6,Ola Ride ₹10.6
+2023-11-18,Transport,25.0,Uber Trip ₹25.0
+2023-11-19,Healthcare,8.7,Diagnostic Center Payment ₹8.7
+2023-11-19,Insurance,20.0,Car Insurance ₹20.0
+2023-11-19,Healthcare,5.0,MedPlus Bill ₹5.0
+2023-11-19,Dining,7.0,Subway Sandwich ₹7.0
+2023-11-19,Investment,9.5,Crypto Investment ₹9.5
+2023-11-20,Shopping,2.0,TataCliq Payment ₹2.0
+2023-11-20,Healthcare,10.0,Doctor Visit ₹10.0
+2023-11-20,Travel,6.5,OYO Rooms Booking ₹6.5
+2023-11-20,Travel,6.5,IRCTC Train Ticket ₹6.5
+2023-11-20,Shopping,12.0,Amazon Purchase ₹12.0
+2023-11-21,Dining,150.0,McDonalds Bill ₹150.0
+2023-11-21,Healthcare,7.6,MedPlus Bill ₹7.6
+2023-11-21,Miscellaneous,9.5,Petrol Pump ₹9.5
+2023-11-21,Bills,12.0,Jio Fiber Recharge ₹12.0
+2023-11-22,Shopping,5.0,Myntra Order ₹5.0
+2023-11-22,Healthcare,9.5,Doctor Visit ₹9.5
+2023-11-22,Insurance,5.5,Car Insurance ₹5.5
+2023-11-23,Dining,5.7,Subway Sandwich ₹5.7
+2023-11-23,Transport,5.0,Uber Trip ₹5.0
+2023-11-23,Food,9.0,Swiggy Payment ₹9.0
+2023-11-23,Insurance,5.0,Health Insurance ₹5.0
+2023-11-24,Education,12.25,Udemy Course ₹12.25
+2023-11-24,Miscellaneous,0.75,Petrol Pump ₹0.75
+2023-11-24,Food,20.0,Pizza Hut Bill ₹20.0
+2023-11-25,Education,9.5,Byjus Payment ₹9.5
+2023-11-25,Miscellaneous,10.0,Donation ₹10.0
+2023-11-25,Education,13.0,Byjus Payment ₹13.0
+2023-11-26,Insurance,9.5,Health Insurance ₹9.5
+2023-11-26,Fitness,10.0,Yoga Class ₹10.0
+2023-11-26,Shopping,10.0,Flipkart Order ₹10.0
+2023-11-26,Bills,10.0,Electricity Bill BSES ₹10.0
+2023-11-26,Dining,22.0,KFC Meal ₹22.0
+2023-11-26,Entertainment,5.5,YouTube Premium ₹5.5
+2023-11-26,Shopping,4.22,Amazon Purchase ₹4.22
+2023-11-27,Fitness,3.73,Yoga Class ₹3.73
+2023-11-27,Miscellaneous,9.0,Donation ₹9.0
+2023-11-27,Shopping,9.2,Flipkart Order ₹9.2
+2023-11-27,Healthcare,9.5,Diagnostic Center Payment ₹9.5
+2023-11-27,Transport,9.5,Uber Trip ₹9.5
+2023-11-27,Miscellaneous,10.32,Stationery Store ₹10.32
+2023-11-28,Groceries,4.0,Reliance Fresh ₹4.0
+2023-11-28,Education,14.0,Udemy Course ₹14.0
+2023-11-28,Shopping,9.5,Amazon Purchase ₹9.5
+2023-11-29,Miscellaneous,6.3,Gift Shop ₹6.3
+2023-11-29,Groceries,9.5,BigBasket Order ₹9.5
+2023-11-29,Investment,10.0,Mutual Fund SIP ₹10.0
+2023-11-29,Education,11.0,Coursera Subscription ₹11.0
+2023-11-30,Education,5.0,Coursera Subscription ₹5.0
+2023-11-30,Shopping,6.3,Flipkart Order ₹6.3
+2023-11-30,Dining,9.5,KFC Meal ₹9.5
+2023-11-30,Miscellaneous,4.0,Gift Shop ₹4.0
+2023-12-01,Shopping,1.7,Flipkart Order ₹1.7
+2023-12-01,Education,4.1,Udemy Course ₹4.1
+2023-12-01,Food,7.2,Zomato Order ₹7.2
+2023-12-01,Healthcare,2.68,MedPlus Bill ₹2.68
+2023-12-01,Investment,100.0,PPF Deposit ₹100.0
+2023-12-01,Education,7.21,Skillshare Membership ₹7.21
+2023-12-02,Food,80.0,Cafe Coffee Day ₹80.0
+2023-12-02,Education,9.5,Skillshare Membership ₹9.5
+2023-12-02,Shopping,5.5,TataCliq Payment ₹5.5
+2023-12-02,Travel,23.0,OYO Rooms Booking ₹23.0
+2023-12-03,Travel,20.0,MakeMyTrip Payment ₹20.0
+2023-12-03,Shopping,1.0,Myntra Order ₹1.0
+2023-12-03,Investment,8.0,PPF Deposit ₹8.0
+2023-12-03,Transport,17.0,Delhi Metro Recharge ₹17.0
+2023-12-03,Shopping,9.0,TataCliq Payment ₹9.0
+2023-12-03,Shopping,90.0,Flipkart Order ₹90.0
+2023-12-04,Shopping,2.0,Ajio Shopping ₹2.0
+2023-12-04,Dining,6.3,Subway Sandwich ₹6.3
+2023-12-04,Travel,9.5,IRCTC Train Ticket ₹9.5
+2023-12-04,Dining,44.0,KFC Meal ₹44.0
+2023-12-05,Fitness,7.0,Yoga Class ₹7.0
+2023-12-05,Transport,10.0,Ola Ride ₹10.0
+2023-12-05,Healthcare,15.0,MedPlus Bill ₹15.0
+2023-12-06,Miscellaneous,11.0,Petrol Pump ₹11.0
+2023-12-06,Transport,10.0,Ola Ride ₹10.0
+2023-12-06,Insurance,6.55,LIC Premium ₹6.55
+2023-12-06,Shopping,5.0,Ajio Shopping ₹5.0
+2023-12-07,Education,6.7,Unacademy Plan ₹6.7
+2023-12-07,Groceries,6.3,DMart Purchase ₹6.3
+2023-12-08,Investment,15.0,Crypto Investment ₹15.0
+2023-12-08,Education,2.0,Byjus Payment ₹2.0
+2023-12-09,Travel,5.8,IRCTC Train Ticket ₹5.8
+2023-12-09,Entertainment,13.2,Spotify Payment ₹13.2
+2023-12-09,Entertainment,7.4,Netflix Subscription ₹7.4
+2023-12-09,Transport,5.0,Delhi Metro Recharge ₹5.0
+2023-12-09,Dining,5.75,McDonalds Bill ₹5.75
+2023-12-10,Travel,9.5,Air India Flight ₹9.5
+2023-12-10,Healthcare,10.0,Diagnostic Center Payment ₹10.0
+2023-12-10,Fitness,0.5,Yoga Class ₹0.5
+2023-12-10,Investment,114.0,PPF Deposit ₹114.0
+2023-12-10,Education,200.0,Skillshare Membership ₹200.0
+2023-12-11,Healthcare,6.0,Apollo Pharmacy ₹6.0
+2023-12-11,Travel,60.0,MakeMyTrip Payment ₹60.0
+2023-12-12,Insurance,5.0,LIC Premium ₹5.0
+2023-12-12,Healthcare,14.0,Apollo Pharmacy ₹14.0
+2023-12-12,Bills,21.0,Jio Fiber Recharge ₹21.0
+2023-12-13,Travel,6.0,MakeMyTrip Payment ₹6.0
+2023-12-13,Travel,11.0,Air India Flight ₹11.0
+2023-12-13,Healthcare,5.0,Doctor Visit ₹5.0
+2023-12-13,Transport,5.0,Cab Fare ₹5.0
+2023-12-14,Education,13.3,Byjus Payment ₹13.3
+2023-12-14,Fitness,14.0,CultFit Subscription ₹14.0
+2023-12-14,Healthcare,9.5,Apollo Pharmacy ₹9.5
+2023-12-14,Entertainment,8.21,Netflix Subscription ₹8.21
+2023-12-15,Bills,8.0,Water Bill ₹8.0
+2023-12-15,Shopping,5.9,Flipkart Order ₹5.9
+2023-12-15,Healthcare,100.0,Doctor Visit ₹100.0
+2023-12-15,Insurance,9.5,LIC Premium ₹9.5
+2023-12-15,Fitness,9.5,CultFit Subscription ₹9.5
+2023-12-15,Transport,12.13,Ola Ride ₹12.13
+2023-12-16,Investment,6.5,Mutual Fund SIP ₹6.5
+2023-12-16,Investment,18.6,Crypto Investment ₹18.6
+2023-12-16,Investment,12.0,Crypto Investment ₹12.0
+2023-12-17,Dining,0.85,McDonalds Bill ₹0.85
+2023-12-17,Bills,5.0,Water Bill ₹5.0
+2023-12-18,Transport,6.0,Cab Fare ₹6.0
+2023-12-18,Healthcare,25.0,Doctor Visit ₹25.0
+2023-12-18,Dining,8.6,McDonalds Bill ₹8.6
+2023-12-19,Insurance,10.0,LIC Premium ₹10.0
+2023-12-19,Groceries,2.71,DMart Purchase ₹2.71
+2023-12-19,Shopping,11.5,Flipkart Order ₹11.5
+2023-12-19,Groceries,8.4,DMart Purchase ₹8.4
+2023-12-20,Investment,1.5,Mutual Fund SIP ₹1.5
+2023-12-20,Groceries,3.0,Reliance Fresh ₹3.0
+2023-12-20,Investment,10.7,Crypto Investment ₹10.7
+2023-12-20,Investment,42.0,Stock Purchase ₹42.0
+2023-12-21,Investment,9.5,Crypto Investment ₹9.5
+2023-12-21,Investment,6.6,Stock Purchase ₹6.6
+2023-12-22,Education,9.5,Byjus Payment ₹9.5
+2023-12-22,Travel,18.0,MakeMyTrip Payment ₹18.0
+2023-12-23,Investment,10.0,Crypto Investment ₹10.0
+2023-12-23,Fitness,1.0,Gym Membership ₹1.0
+2023-12-23,Food,9.5,Dominos Order ₹9.5
+2023-12-24,Entertainment,9.5,Spotify Payment ₹9.5
+2023-12-24,Travel,16.0,Air India Flight ₹16.0
+2023-12-24,Fitness,40.0,Protein Supplement ₹40.0
+2023-12-25,Bills,25.0,Water Bill ₹25.0
+2023-12-25,Entertainment,9.5,Spotify Payment ₹9.5
+2023-12-26,Entertainment,9.5,Spotify Payment ₹9.5
+2023-12-26,Groceries,19.4,DMart Purchase ₹19.4
+2023-12-26,Fitness,1.0,Gym Membership ₹1.0
+2023-12-26,Fitness,8.4,CultFit Subscription ₹8.4
+2023-12-26,Miscellaneous,2.45,Charity ₹2.45
+2023-12-27,Healthcare,5.0,Diagnostic Center Payment ₹5.0
+2023-12-27,Travel,4.8,OYO Rooms Booking ₹4.8
+2023-12-27,Insurance,6.0,LIC Premium ₹6.0
+2023-12-27,Travel,4.0,OYO Rooms Booking ₹4.0
+2023-12-28,Groceries,3.1,Reliance Fresh ₹3.1
+2023-12-28,Travel,21.0,IRCTC Train Ticket ₹21.0
+2023-12-29,Miscellaneous,6.6,Gift Shop ₹6.6
+2023-12-29,Fitness,3.0,Protein Supplement ₹3.0
+2023-12-29,Education,3.7,Byjus Payment ₹3.7
+2023-12-29,Insurance,100.0,Health Insurance ₹100.0
+2023-12-30,Investment,10.0,Crypto Investment ₹10.0
+2023-12-30,Food,0.5,Swiggy Payment ₹0.5
+2023-12-30,Entertainment,0.2,Hotstar Renewal ₹0.2
+2023-12-30,Dining,3.5,Barbeque Nation ₹3.5
+2023-12-30,Shopping,15.4,Flipkart Order ₹15.4
+2023-12-31,Bills,5.5,Electricity Bill BSES ₹5.5
+2023-12-31,Food,4.5,Burger King Payment ₹4.5
+2024-01-01,Travel,10.0,Air India Flight ₹10.0
+2024-01-01,Groceries,3.22,BigBasket Order ₹3.22
+2024-01-02,Fitness,0.5,Protein Supplement ₹0.5
+2024-01-02,Transport,3.0,Ola Ride ₹3.0
+2024-01-02,Healthcare,9.5,Doctor Visit ₹9.5
+2024-01-02,Healthcare,8.77,Doctor Visit ₹8.77
+2024-01-03,Healthcare,9.5,Diagnostic Center Payment ₹9.5
+2024-01-03,Food,21.0,Zomato Order ₹21.0
+2024-01-03,Education,35.0,Udemy Course ₹35.0
+2024-01-04,Fitness,2.5,CultFit Subscription ₹2.5
+2024-01-04,Shopping,9.5,Ajio Shopping ₹9.5
+2024-01-04,Shopping,15.8,TataCliq Payment ₹15.8
+2024-01-05,Insurance,0.5,Car Insurance ₹0.5
+2024-01-05,Insurance,9.5,Car Insurance ₹9.5
+2024-01-05,Miscellaneous,10.0,Gift Shop ₹10.0
+2024-01-05,Fitness,16.0,Yoga Class ₹16.0
+2024-01-05,Entertainment,7.1,YouTube Premium ₹7.1
+2024-01-05,Fitness,4.8,CultFit Subscription ₹4.8
+2024-01-05,Shopping,80.0,TataCliq Payment ₹80.0
+2024-01-06,Groceries,26.0,DMart Purchase ₹26.0
+2024-01-06,Dining,9.5,Barbeque Nation ₹9.5
+2024-01-06,Education,5.6,Coursera Subscription ₹5.6
+2024-01-06,Healthcare,0.75,MedPlus Bill ₹0.75
+2024-01-07,Investment,17.0,Crypto Investment ₹17.0
+2024-01-07,Food,3.4,Swiggy Payment ₹3.4
+2024-01-08,Miscellaneous,10.0,Charity ₹10.0
+2024-01-08,Food,10.0,Dominos Order ₹10.0
+2024-01-09,Miscellaneous,11.0,Charity ₹11.0
+2024-01-09,Healthcare,1.7,Diagnostic Center Payment ₹1.7
+2024-01-09,Miscellaneous,25.0,Charity ₹25.0
+2024-01-09,Education,15.0,Byjus Payment ₹15.0
+2024-01-10,Miscellaneous,14.0,Stationery Store ₹14.0
+2024-01-10,Entertainment,5.0,Hotstar Renewal ₹5.0
+2024-01-10,Travel,10.0,OYO Rooms Booking ₹10.0
+2024-01-11,Insurance,9.52,LIC Premium ₹9.52
+2024-01-12,Insurance,7.0,Car Insurance ₹7.0
+2024-01-14,Transport,9.5,Ola Ride ₹9.5
+2024-01-15,Miscellaneous,6.5,Petrol Pump ₹6.5
+2024-01-15,Bills,7.0,Internet Bill ₹7.0
+2024-01-15,Shopping,7.0,Flipkart Order ₹7.0
+2024-01-16,Education,100.0,Byjus Payment ₹100.0
+2024-01-16,Entertainment,200.0,Spotify Payment ₹200.0
+2024-01-16,Entertainment,11.0,Hotstar Renewal ₹11.0
+2024-01-16,Food,36.0,Swiggy Payment ₹36.0
+2024-01-17,Insurance,12.0,Car Insurance ₹12.0
+2024-01-17,Insurance,8.0,LIC Premium ₹8.0
+2024-01-17,Transport,6.0,Train Ticket ₹6.0
+2024-01-17,Education,12.44,Udemy Course ₹12.44
+2024-01-18,Bills,8.0,Electricity Bill BSES ₹8.0
+2024-01-18,Groceries,7.41,DMart Purchase ₹7.41
+2024-01-19,Education,5.4,Udemy Course ₹5.4
+2024-01-19,Fitness,9.52,Protein Supplement ₹9.52
+2024-01-19,Healthcare,6.1,Doctor Visit ₹6.1
+2024-01-19,Miscellaneous,3.0,Donation ₹3.0
+2024-01-19,Dining,19.0,KFC Meal ₹19.0
+2024-01-19,Insurance,50.0,Health Insurance ₹50.0
+2024-01-20,Healthcare,7.1,MedPlus Bill ₹7.1
+2024-01-20,Entertainment,10.0,Spotify Payment ₹10.0
+2024-01-20,Food,7.1,Cafe Coffee Day ₹7.1
+2024-01-20,Travel,20.0,OYO Rooms Booking ₹20.0
+2024-01-20,Investment,7.0,Mutual Fund SIP ₹7.0
+2024-01-21,Fitness,10.0,Protein Supplement ₹10.0
+2024-01-21,Fitness,18.0,Gym Membership ₹18.0
+2024-01-21,Shopping,8.6,Ajio Shopping ₹8.6
+2024-01-21,Groceries,3.2,More Supermarket ₹3.2
+2024-01-21,Bills,20.0,Jio Fiber Recharge ₹20.0
+2024-01-22,Groceries,9.52,Reliance Fresh ₹9.52
+2024-01-22,Shopping,7.0,TataCliq Payment ₹7.0
+2024-01-22,Transport,9.0,Train Ticket ₹9.0
+2024-01-22,Healthcare,50.0,Diagnostic Center Payment ₹50.0
+2024-01-22,Insurance,25.0,LIC Premium ₹25.0
+2024-01-23,Dining,15.0,McDonalds Bill ₹15.0
+2024-01-23,Groceries,9.5,Reliance Fresh ₹9.5
+2024-01-23,Education,12.0,Byjus Payment ₹12.0
+2024-01-24,Dining,6.0,Barbeque Nation ₹6.0
+2024-01-24,Groceries,11.0,BigBasket Order ₹11.0
+2024-01-24,Entertainment,30.0,Hotstar Renewal ₹30.0
+2024-01-25,Groceries,5.5,BigBasket Order ₹5.5
+2024-01-25,Food,100.0,Zomato Order ₹100.0
+2024-01-25,Dining,13.0,McDonalds Bill ₹13.0
+2024-01-26,Miscellaneous,12.0,Donation ₹12.0
+2024-01-26,Education,7.0,Byjus Payment ₹7.0
+2024-01-27,Shopping,90.0,Myntra Order ₹90.0
+2024-01-28,Fitness,17.0,CultFit Subscription ₹17.0
+2024-01-28,Shopping,3.0,Myntra Order ₹3.0
+2024-01-28,Miscellaneous,30.0,Donation ₹30.0
+2024-01-29,Miscellaneous,11.0,Petrol Pump ₹11.0
+2024-01-29,Fitness,13.0,CultFit Subscription ₹13.0
+2024-01-30,Healthcare,4.23,Apollo Pharmacy ₹4.23
+2024-01-30,Fitness,2450.0,Protein Supplement ₹2450.0
+2024-01-30,Fitness,29.0,Gym Membership ₹29.0
+2024-01-31,Investment,10.0,Mutual Fund SIP ₹10.0
+2024-01-31,Groceries,17.0,Reliance Fresh ₹17.0
+2024-01-31,Shopping,1.65,Flipkart Order ₹1.65
+2024-02-01,Insurance,3.3,Car Insurance ₹3.3
+2024-02-02,Investment,8.7,Mutual Fund SIP ₹8.7
+2024-02-02,Shopping,11.0,Flipkart Order ₹11.0
+2024-02-03,Fitness,7.1,Protein Supplement ₹7.1
+2024-02-03,Healthcare,7.2,Doctor Visit ₹7.2
+2024-02-03,Dining,3.0,McDonalds Bill ₹3.0
+2024-02-03,Education,70.0,Unacademy Plan ₹70.0
+2024-02-04,Dining,20.0,Barbeque Nation ₹20.0
+2024-02-04,Education,18.6,Udemy Course ₹18.6
+2024-02-04,Transport,8.7,Cab Fare ₹8.7
+2024-02-04,Food,6.4,Dominos Order ₹6.4
+2024-02-05,Groceries,10.0,BigBasket Order ₹10.0
+2024-02-05,Entertainment,4.0,BookMyShow Ticket ₹4.0
+2024-02-05,Bills,19.0,Airtel Postpaid ₹19.0
+2024-02-06,Food,8.1,Swiggy Payment ₹8.1
+2024-02-06,Bills,10.0,Water Bill ₹10.0
+2024-02-06,Food,8.7,Pizza Hut Bill ₹8.7
+2024-02-06,Healthcare,10.0,Diagnostic Center Payment ₹10.0
+2024-02-07,Miscellaneous,0.5,Petrol Pump ₹0.5
+2024-02-07,Healthcare,8.7,MedPlus Bill ₹8.7
+2024-02-07,Travel,19.0,IRCTC Train Ticket ₹19.0
+2024-02-08,Miscellaneous,10.0,Stationery Store ₹10.0
+2024-02-09,Healthcare,3.05,Apollo Pharmacy ₹3.05
+2024-02-09,Healthcare,2.0,Doctor Visit ₹2.0
+2024-02-09,Insurance,10.0,Health Insurance ₹10.0
+2024-02-10,Groceries,10.0,BigBasket Order ₹10.0
+2024-02-10,Fitness,20.0,CultFit Subscription ₹20.0
+2024-02-10,Shopping,8.7,Myntra Order ₹8.7
+2024-02-10,Insurance,13.0,Car Insurance ₹13.0
+2024-02-10,Entertainment,11.0,Hotstar Renewal ₹11.0
+2024-02-11,Investment,6.0,Mutual Fund SIP ₹6.0
+2024-02-11,Insurance,8.0,Health Insurance ₹8.0
+2024-02-11,Healthcare,4.0,Apollo Pharmacy ₹4.0
+2024-02-11,Groceries,3.0,Reliance Fresh ₹3.0
+2024-02-11,Shopping,8.7,Ajio Shopping ₹8.7
+2024-02-12,Insurance,159.0,Car Insurance ₹159.0
+2024-02-12,Insurance,5.0,Car Insurance ₹5.0
+2024-02-12,Fitness,8.7,Gym Membership ₹8.7
+2024-02-13,Dining,2.15,Subway Sandwich ₹2.15
+2024-02-13,Entertainment,25.2,YouTube Premium ₹25.2
+2024-02-13,Fitness,1.0,CultFit Subscription ₹1.0
+2024-02-13,Entertainment,7.3,Spotify Payment ₹7.3
+2024-02-13,Dining,3.28,Subway Sandwich ₹3.28
+2024-02-14,Dining,4.5,McDonalds Bill ₹4.5
+2024-02-14,Miscellaneous,8.0,Charity ₹8.0
+2024-02-14,Dining,17.2,KFC Meal ₹17.2
+2024-02-15,Miscellaneous,5.63,Gift Shop ₹5.63
+2024-02-15,Investment,8.7,Crypto Investment ₹8.7
+2024-02-15,Food,6.5,Zomato Order ₹6.5
+2024-02-15,Investment,10.0,Crypto Investment ₹10.0
+2024-02-15,Fitness,4.4,Protein Supplement ₹4.4
+2024-02-16,Shopping,25.0,Myntra Order ₹25.0
+2024-02-16,Bills,4.8,Jio Fiber Recharge ₹4.8
+2024-02-17,Groceries,10.0,BigBasket Order ₹10.0
+2024-02-17,Dining,2.6,Barbeque Nation ₹2.6
+2024-02-17,Insurance,15.3,Car Insurance ₹15.3
+2024-02-17,Entertainment,50.0,YouTube Premium ₹50.0
+2024-02-17,Insurance,45.0,Car Insurance ₹45.0
+2024-02-17,Entertainment,7.3,Hotstar Renewal ₹7.3
+2024-02-18,Dining,7.52,McDonalds Bill ₹7.52
+2024-02-18,Fitness,10.0,CultFit Subscription ₹10.0
+2024-02-18,Healthcare,4.3,Apollo Pharmacy ₹4.3
+2024-02-18,Fitness,7.3,CultFit Subscription ₹7.3
+2024-02-18,Investment,3.0,Crypto Investment ₹3.0
+2024-02-18,Education,2.6,Udemy Course ₹2.6
+2024-02-18,Travel,8.0,Air India Flight ₹8.0
+2024-02-18,Food,12.5,Dominos Order ₹12.5
+2024-02-19,Food,5.13,Swiggy Payment ₹5.13
+2024-02-19,Miscellaneous,10.0,Charity ₹10.0
+2024-02-19,Bills,7.3,Jio Fiber Recharge ₹7.3
+2024-02-19,Insurance,10.0,LIC Premium ₹10.0
+2024-02-20,Investment,10.0,Stock Purchase ₹10.0
+2024-02-20,Dining,3.7,KFC Meal ₹3.7
+2024-02-21,Investment,6.7,PPF Deposit ₹6.7
+2024-02-21,Miscellaneous,21.0,Petrol Pump ₹21.0
+2024-02-22,Insurance,8.0,LIC Premium ₹8.0
+2024-02-22,Dining,12.0,KFC Meal ₹12.0
+2024-02-23,Fitness,10.0,Yoga Class ₹10.0
+2024-02-23,Travel,10.0,OYO Rooms Booking ₹10.0
+2024-02-23,Food,9.0,Cafe Coffee Day ₹9.0
+2024-02-23,Food,15.0,Swiggy Payment ₹15.0
+2024-02-24,Transport,8.7,Rapido Ride ₹8.7
+2024-02-24,Healthcare,10.0,Doctor Visit ₹10.0
+2024-02-25,Travel,7.5,OYO Rooms Booking ₹7.5
+2024-02-25,Miscellaneous,6.0,Gift Shop ₹6.0
+2024-02-26,Entertainment,9.5,Netflix Subscription ₹9.5
+2024-02-26,Miscellaneous,21.0,Charity ₹21.0
+2024-02-27,Transport,5.0,Uber Trip ₹5.0
+2024-02-27,Healthcare,6.0,Doctor Visit ₹6.0
+2024-02-27,Fitness,24.0,Yoga Class ₹24.0
+2024-02-27,Bills,20.0,Jio Fiber Recharge ₹20.0
+2024-02-27,Bills,30.0,Internet Bill ₹30.0
+2024-02-28,Travel,2.1,MakeMyTrip Payment ₹2.1
+2024-02-28,Bills,12.5,Airtel Postpaid ₹12.5
+2024-02-28,Fitness,24.0,CultFit Subscription ₹24.0
+2024-02-28,Bills,20.0,Water Bill ₹20.0
+2024-02-29,Food,15.0,Swiggy Payment ₹15.0
+2024-02-29,Food,2.1,Pizza Hut Bill ₹2.1
+2024-02-29,Miscellaneous,15.0,Charity ₹15.0
+2024-02-29,Miscellaneous,2.2,Gift Shop ₹2.2
+2024-02-29,Fitness,1.0,Gym Membership ₹1.0
+2024-03-01,Miscellaneous,24.15,Gift Shop ₹24.15
+2024-03-01,Travel,13.0,Air India Flight ₹13.0
+2024-03-01,Dining,10.0,Subway Sandwich ₹10.0
+2024-03-01,Fitness,38.0,CultFit Subscription ₹38.0
+2024-03-02,Bills,10.0,Airtel Postpaid ₹10.0
+2024-03-02,Education,8.7,Coursera Subscription ₹8.7
+2024-03-02,Investment,5.6,Mutual Fund SIP ₹5.6
+2024-03-02,Bills,20.0,Jio Fiber Recharge ₹20.0
+2024-03-02,Transport,9.0,Uber Trip ₹9.0
+2024-03-03,Insurance,10.0,Health Insurance ₹10.0
+2024-03-03,Miscellaneous,8.7,Donation ₹8.7
+2024-03-03,Dining,7.2,Subway Sandwich ₹7.2
+2024-03-03,Transport,11.0,Uber Trip ₹11.0
+2024-03-04,Travel,5.4,OYO Rooms Booking ₹5.4
+2024-03-04,Investment,6.28,Crypto Investment ₹6.28
+2024-03-04,Education,3.0,Udemy Course ₹3.0
+2024-03-04,Bills,30.0,Internet Bill ₹30.0
+2024-03-04,Entertainment,102.0,Spotify Payment ₹102.0
+2024-03-04,Investment,19.0,PPF Deposit ₹19.0
+2024-03-05,Fitness,11.0,Yoga Class ₹11.0
+2024-03-05,Entertainment,8.0,Spotify Payment ₹8.0
+2024-03-05,Dining,3.0,McDonalds Bill ₹3.0
+2024-03-06,Bills,14.0,Airtel Postpaid ₹14.0
+2024-03-06,Fitness,13.0,Protein Supplement ₹13.0
+2024-03-06,Transport,2.0,Ola Ride ₹2.0
+2024-03-06,Fitness,84.0,CultFit Subscription ₹84.0
+2024-03-07,Dining,20.0,Barbeque Nation ₹20.0
+2024-03-07,Investment,17.0,Stock Purchase ₹17.0
+2024-03-07,Food,10.0,Burger King Payment ₹10.0
+2024-03-07,Food,5.44,Pizza Hut Bill ₹5.44
+2024-03-06,Healthcare,7.0,Apollo Pharmacy ₹7.0
+2024-03-06,Dining,33.0,Subway Sandwich ₹33.0
+2024-03-08,Transport,8.7,Ola Ride ₹8.7
+2024-03-08,Shopping,11.0,Flipkart Order ₹11.0
+2024-03-08,Investment,5.0,Crypto Investment ₹5.0
+2024-03-09,Healthcare,8.7,MedPlus Bill ₹8.7
+2024-03-09,Food,29.0,Cafe Coffee Day ₹29.0
+2024-03-08,Healthcare,15.0,Apollo Pharmacy ₹15.0
+2024-03-10,Fitness,150.0,CultFit Subscription ₹150.0
+2024-03-10,Entertainment,10.0,Hotstar Renewal ₹10.0
+2024-03-10,Groceries,23.0,Reliance Fresh ₹23.0
+2024-03-10,Miscellaneous,1.3,Charity ₹1.3
+2024-03-11,Education,11.0,Byjus Payment ₹11.0
+2024-03-11,Insurance,6.0,Health Insurance ₹6.0
+2024-03-12,Insurance,8.0,Health Insurance ₹8.0
+2024-03-12,Groceries,13.0,DMart Purchase ₹13.0
+2024-03-13,Groceries,16.0,More Supermarket ₹16.0
+2024-03-13,Bills,2.6,Airtel Postpaid ₹2.6
+2024-03-13,Groceries,4.5,More Supermarket ₹4.5
+2024-03-13,Transport,55.0,Ola Ride ₹55.0
+2024-03-14,Investment,14.0,PPF Deposit ₹14.0
+2024-03-15,Education,16.0,Skillshare Membership ₹16.0
+2024-03-15,Dining,12.0,McDonalds Bill ₹12.0
+2024-03-16,Transport,10.0,Rapido Ride ₹10.0
+2024-03-16,Groceries,3.2,Reliance Fresh ₹3.2
+2024-03-16,Dining,8.7,Barbeque Nation ₹8.7
+2024-03-16,Food,16.0,Pizza Hut Bill ₹16.0
+2024-03-16,Groceries,1.8,More Supermarket ₹1.8
+2024-03-17,Fitness,17.0,CultFit Subscription ₹17.0
+2024-03-17,Transport,2.0,Cab Fare ₹2.0
+2024-03-17,Investment,4.5,Mutual Fund SIP ₹4.5
+2024-03-18,Fitness,10.0,Yoga Class ₹10.0
+2024-03-19,Entertainment,46.0,Hotstar Renewal ₹46.0
+2024-03-20,Travel,5.0,IRCTC Train Ticket ₹5.0
+2024-03-20,Bills,13.0,Water Bill ₹13.0
+2024-03-22,Fitness,8.7,Gym Membership ₹8.7
+2024-03-22,Healthcare,11.0,MedPlus Bill ₹11.0
+2024-03-22,Bills,3.5,Water Bill ₹3.5
+2024-03-23,Transport,18.0,Ola Ride ₹18.0
+2024-03-23,Dining,5.0,Barbeque Nation ₹5.0
+2024-03-24,Shopping,10.0,Flipkart Order ₹10.0
+2024-03-24,Healthcare,10.7,MedPlus Bill ₹10.7
+2024-03-24,Entertainment,6.31,BookMyShow Ticket ₹6.31
+2024-03-27,Healthcare,6.5,Doctor Visit ₹6.5
+2024-03-28,Education,3.0,Skillshare Membership ₹3.0
+2024-03-29,Dining,10.0,Subway Sandwich ₹10.0
+2024-03-29,Entertainment,50.0,Netflix Subscription ₹50.0
+2024-03-29,Entertainment,6.5,Spotify Payment ₹6.5
+2024-03-30,Fitness,45.0,CultFit Subscription ₹45.0
+2024-03-30,Investment,33.0,Crypto Investment ₹33.0
+2024-03-30,Groceries,20.0,DMart Purchase ₹20.0
+2024-03-31,Transport,50.0,Uber Trip ₹50.0
+2024-03-31,Bills,10.0,Internet Bill ₹10.0
+2024-03-31,Groceries,10.0,Reliance Fresh ₹10.0
+2024-03-31,Investment,20.0,PPF Deposit ₹20.0
+2024-03-31,Healthcare,30.0,Diagnostic Center Payment ₹30.0
+2024-03-31,Bills,20.0,Airtel Postpaid ₹20.0
+2024-03-31,Bills,0.5,Jio Fiber Recharge ₹0.5
+2024-03-31,Food,18.0,Burger King Payment ₹18.0
+2024-03-31,Fitness,3.0,Protein Supplement ₹3.0
+2024-03-31,Investment,15.0,Mutual Fund SIP ₹15.0
+2024-03-31,Shopping,10.0,TataCliq Payment ₹10.0
+2024-04-01,Shopping,200.0,Amazon Purchase ₹200.0
+2024-04-02,Education,3.0,Coursera Subscription ₹3.0
+2024-04-02,Entertainment,15.65,Hotstar Renewal ₹15.65
+2024-04-03,Fitness,10.7,CultFit Subscription ₹10.7
+2024-04-03,Shopping,9.52,Myntra Order ₹9.52
+2024-04-04,Food,11.0,Burger King Payment ₹11.0
+2024-04-04,Miscellaneous,3.2,Gift Shop ₹3.2
+2024-04-05,Groceries,22.0,Reliance Fresh ₹22.0
+2024-04-06,Entertainment,6.7,YouTube Premium ₹6.7
+2024-04-06,Insurance,10.7,Car Insurance ₹10.7
+2024-04-06,Bills,3.0,Jio Fiber Recharge ₹3.0
+2024-04-06,Food,30.0,Pizza Hut Bill ₹30.0
+2024-04-07,Transport,10.0,Uber Trip ₹10.0
+2024-04-07,Miscellaneous,7.0,Stationery Store ₹7.0
+2024-04-07,Groceries,5.5,Reliance Fresh ₹5.5
+2024-04-07,Fitness,5.5,Protein Supplement ₹5.5
+2024-04-07,Bills,116.0,Electricity Bill BSES ₹116.0
+2024-04-08,Fitness,8.6,Protein Supplement ₹8.6
+2024-04-08,Bills,1.0,Internet Bill ₹1.0
+2024-04-08,Investment,6.4,Crypto Investment ₹6.4
+2024-04-09,Miscellaneous,5.0,Stationery Store ₹5.0
+2024-04-09,Entertainment,2.5,BookMyShow Ticket ₹2.5
+2024-04-10,Groceries,2.5,BigBasket Order ₹2.5
+2024-04-10,Investment,20.0,Mutual Fund SIP ₹20.0
+2024-04-11,Food,18.0,Zomato Order ₹18.0
+2024-04-11,Dining,7.1,KFC Meal ₹7.1
+2024-04-11,Insurance,10.0,Car Insurance ₹10.0
+2024-04-11,Insurance,31.0,LIC Premium ₹31.0
+2024-04-11,Education,13.0,Udemy Course ₹13.0
+2024-04-12,Travel,11.5,IRCTC Train Ticket ₹11.5
+2024-04-13,Investment,12.0,Crypto Investment ₹12.0
+2024-04-13,Healthcare,10.7,Apollo Pharmacy ₹10.7
+2024-04-13,Travel,20.0,IRCTC Train Ticket ₹20.0
+2024-04-14,Transport,10.7,Rapido Ride ₹10.7
+2024-04-14,Education,10.7,Coursera Subscription ₹10.7
+2024-04-15,Investment,12.0,Crypto Investment ₹12.0
+2024-04-15,Dining,7.0,McDonalds Bill ₹7.0
+2024-04-15,Fitness,3.3,Yoga Class ₹3.3
+2024-04-16,Miscellaneous,12.0,Donation ₹12.0
+2024-04-16,Entertainment,12.0,BookMyShow Ticket ₹12.0
+2024-04-16,Education,10.7,Udemy Course ₹10.7
+2024-04-17,Shopping,4.08,Myntra Order ₹4.08
+2024-04-17,Dining,10.0,Barbeque Nation ₹10.0
+2024-04-17,Education,17.0,Coursera Subscription ₹17.0
+2024-04-17,Miscellaneous,11.5,Stationery Store ₹11.5
+2024-04-17,Miscellaneous,3.0,Charity ₹3.0
+2024-04-17,Transport,15.0,Cab Fare ₹15.0
+2024-04-18,Groceries,7.3,BigBasket Order ₹7.3
+2024-04-18,Fitness,11.5,Gym Membership ₹11.5
+2024-04-19,Insurance,5.6,Health Insurance ₹5.6
+2024-04-19,Healthcare,10.0,Apollo Pharmacy ₹10.0
+2024-04-19,Food,39.0,Burger King Payment ₹39.0
+2024-04-19,Investment,6.0,Crypto Investment ₹6.0
+2024-04-19,Dining,8.2,McDonalds Bill ₹8.2
+2024-04-19,Healthcare,4.3,Apollo Pharmacy ₹4.3
+2024-04-19,Education,7.0,Skillshare Membership ₹7.0
+2024-04-20,Investment,18.0,Mutual Fund SIP ₹18.0
+2024-04-20,Travel,11.0,MakeMyTrip Payment ₹11.0
+2024-04-21,Groceries,3.0,BigBasket Order ₹3.0
+2024-04-21,Education,19.0,Unacademy Plan ₹19.0
+2024-04-21,Fitness,11.5,Protein Supplement ₹11.5
+2024-04-21,Transport,10.0,Rapido Ride ₹10.0
+2024-04-21,Investment,52.0,PPF Deposit ₹52.0
+2024-04-21,Miscellaneous,100.0,Donation ₹100.0
+2024-04-22,Shopping,10.0,Ajio Shopping ₹10.0
+2024-04-22,Food,0.5,Burger King Payment ₹0.5
+2024-04-23,Entertainment,10.0,BookMyShow Ticket ₹10.0
+2024-04-23,Shopping,5.6,Flipkart Order ₹5.6
+2024-04-23,Education,7.14,Unacademy Plan ₹7.14
+2024-04-23,Miscellaneous,2.5,Charity ₹2.5
+2024-04-23,Groceries,13.2,More Supermarket ₹13.2
+2024-04-23,Food,11.0,Zomato Order ₹11.0
+2024-04-23,Travel,11.5,OYO Rooms Booking ₹11.5
+2024-04-23,Insurance,8.5,LIC Premium ₹8.5
+2024-04-24,Investment,9.0,Stock Purchase ₹9.0
+2024-04-24,Bills,10.0,Water Bill ₹10.0
+2024-04-24,Bills,26.0,Water Bill ₹26.0
+2024-04-24,Shopping,11.5,TataCliq Payment ₹11.5
+2024-04-24,Fitness,5.0,Yoga Class ₹5.0
+2024-04-25,Fitness,2.4,Gym Membership ₹2.4
+2024-04-25,Education,8.3,Unacademy Plan ₹8.3
+2024-04-25,Healthcare,4.8,Doctor Visit ₹4.8
+2024-04-26,Entertainment,4.5,BookMyShow Ticket ₹4.5
+2024-04-26,Food,6.0,Burger King Payment ₹6.0
+2024-04-26,Healthcare,1.0,Apollo Pharmacy ₹1.0
+2024-04-26,Food,1.0,Zomato Order ₹1.0
+2024-04-26,Food,3.0,Burger King Payment ₹3.0
+2024-04-27,Education,8.4,Udemy Course ₹8.4
+2024-04-27,Dining,50.0,McDonalds Bill ₹50.0
+2024-04-27,Dining,8.4,KFC Meal ₹8.4
+2024-04-27,Groceries,1.0,More Supermarket ₹1.0
+2024-04-27,Groceries,2.0,BigBasket Order ₹2.0
+2024-04-27,Fitness,20.0,Gym Membership ₹20.0
+2024-04-27,Bills,3.59,Internet Bill ₹3.59
+2024-04-28,Healthcare,0.5,Apollo Pharmacy ₹0.5
+2024-04-28,Food,8.6,Pizza Hut Bill ₹8.6
+2024-04-28,Fitness,10.6,Protein Supplement ₹10.6
+2024-04-28,Healthcare,10.0,Apollo Pharmacy ₹10.0
+2024-04-28,Miscellaneous,6.0,Gift Shop ₹6.0
+2024-04-28,Healthcare,50.0,Apollo Pharmacy ₹50.0
+2024-04-29,Transport,5.6,Rapido Ride ₹5.6
+2024-04-29,Insurance,8.26,Health Insurance ₹8.26
+2024-04-29,Groceries,10.0,Reliance Fresh ₹10.0
+2024-04-29,Food,10.0,Burger King Payment ₹10.0
+2024-04-29,Entertainment,100.0,Netflix Subscription ₹100.0
+2024-04-29,Investment,1.0,Stock Purchase ₹1.0
+2024-04-29,Bills,3.0,Water Bill ₹3.0
+2024-04-29,Entertainment,5.5,Netflix Subscription ₹5.5
+2024-04-28,Shopping,11.0,Amazon Purchase ₹11.0
+2024-04-28,Insurance,18.0,Car Insurance ₹18.0
+2024-04-30,Fitness,8.26,CultFit Subscription ₹8.26
+2024-04-30,Miscellaneous,63.0,Charity ₹63.0
+2024-05-01,Investment,8.26,Stock Purchase ₹8.26
+2024-05-01,Healthcare,14.0,Apollo Pharmacy ₹14.0
+2024-05-01,Education,8.4,Coursera Subscription ₹8.4
+2024-05-02,Insurance,8.26,LIC Premium ₹8.26
+2024-05-02,Education,103.0,Udemy Course ₹103.0
+2024-05-02,Bills,9.28,Airtel Postpaid ₹9.28
+2024-05-02,Investment,8.0,Stock Purchase ₹8.0
+2024-05-02,Entertainment,4.0,Netflix Subscription ₹4.0
+2024-05-02,Investment,35.0,Stock Purchase ₹35.0
+2024-05-03,Healthcare,5.0,Doctor Visit ₹5.0
+2024-05-03,Investment,3.3,Stock Purchase ₹3.3
+2024-05-03,Insurance,4.0,LIC Premium ₹4.0
+2024-05-03,Miscellaneous,5.8,Petrol Pump ₹5.8
+2024-05-03,Dining,5.6,Barbeque Nation ₹5.6
+2024-05-03,Travel,7.6,OYO Rooms Booking ₹7.6
+2024-05-03,Food,17.0,Zomato Order ₹17.0
+2024-05-03,Entertainment,6.4,BookMyShow Ticket ₹6.4
+2024-05-03,Bills,2100.0,Airtel Postpaid ₹2100.0
+2024-05-03,Miscellaneous,3.3,Charity ₹3.3
+2024-05-04,Education,7.6,Unacademy Plan ₹7.6
+2024-05-04,Shopping,7.6,Ajio Shopping ₹7.6
+2024-05-04,Bills,29.0,Electricity Bill BSES ₹29.0
+2024-05-04,Healthcare,3.0,Apollo Pharmacy ₹3.0
+2024-05-04,Bills,5.0,Electricity Bill BSES ₹5.0
+2024-05-03,Entertainment,14.0,Hotstar Renewal ₹14.0
+2024-05-05,Travel,7.6,MakeMyTrip Payment ₹7.6
+2024-05-05,Healthcare,4.0,Doctor Visit ₹4.0
+2024-05-05,Groceries,9.8,DMart Purchase ₹9.8
+2024-05-05,Shopping,5.0,Amazon Purchase ₹5.0
+2024-05-06,Bills,6.3,Electricity Bill BSES ₹6.3
+2024-05-06,Dining,10.0,KFC Meal ₹10.0
+2024-05-06,Bills,5.0,Internet Bill ₹5.0
+2024-05-06,Bills,3.5,Jio Fiber Recharge ₹3.5
+2024-05-06,Travel,62.0,IRCTC Train Ticket ₹62.0
+2024-05-07,Fitness,6.2,CultFit Subscription ₹6.2
+2024-05-07,Fitness,14.1,CultFit Subscription ₹14.1
+2024-05-07,Dining,6.8,KFC Meal ₹6.8
+2024-05-07,Groceries,7.6,BigBasket Order ₹7.6
+2024-05-08,Food,6.52,Pizza Hut Bill ₹6.52
+2024-05-08,Education,10.0,Udemy Course ₹10.0
+2024-05-08,Groceries,7.6,Reliance Fresh ₹7.6
+2024-05-08,Education,36.0,Coursera Subscription ₹36.0
+2024-05-08,Groceries,6.0,DMart Purchase ₹6.0
+2024-05-09,Groceries,7.1,BigBasket Order ₹7.1
+2024-05-09,Transport,31.0,Ola Ride ₹31.0
+2024-05-09,Transport,11.0,Train Ticket ₹11.0
+2024-05-09,Travel,9.9,Air India Flight ₹9.9
+2024-05-10,Fitness,6.6,Protein Supplement ₹6.6
+2024-05-10,Healthcare,5.4,Apollo Pharmacy ₹5.4
+2024-05-10,Food,6.0,Burger King Payment ₹6.0
+2024-05-10,Investment,10.0,Crypto Investment ₹10.0
+2024-05-10,Bills,3.5,Airtel Postpaid ₹3.5
+2024-05-11,Bills,150.0,Airtel Postpaid ₹150.0
+2024-05-11,Miscellaneous,3.9,Gift Shop ₹3.9
+2024-05-11,Groceries,7.1,Reliance Fresh ₹7.1
+2024-05-10,Investment,35.0,Crypto Investment ₹35.0
+2024-05-11,Food,5.6,Zomato Order ₹5.6
+2024-05-11,Healthcare,10.0,Diagnostic Center Payment ₹10.0
+2024-05-12,Miscellaneous,20.0,Gift Shop ₹20.0
+2024-05-12,Fitness,7.1,Protein Supplement ₹7.1
+2024-05-12,Food,44.0,Zomato Order ₹44.0
+2024-05-12,Insurance,22.0,LIC Premium ₹22.0
+2024-05-12,Dining,5.0,KFC Meal ₹5.0
+2024-05-12,Groceries,16.0,DMart Purchase ₹16.0
+2024-05-13,Fitness,4.4,Yoga Class ₹4.4
+2024-05-13,Education,70.0,Coursera Subscription ₹70.0
+2024-05-13,Insurance,10.0,LIC Premium ₹10.0
+2024-05-13,Insurance,5.0,LIC Premium ₹5.0
+2024-05-13,Food,6.18,Dominos Order ₹6.18
+2024-05-13,Entertainment,2.5,YouTube Premium ₹2.5
+2024-05-13,Insurance,31.0,Health Insurance ₹31.0
+2024-05-14,Bills,8.55,Jio Fiber Recharge ₹8.55
+2024-05-14,Investment,11.0,Mutual Fund SIP ₹11.0
+2024-05-15,Groceries,4.8,DMart Purchase ₹4.8
+2024-05-15,Transport,5.4,Cab Fare ₹5.4
+2024-05-15,Travel,10.0,MakeMyTrip Payment ₹10.0
+2024-05-15,Fitness,7.6,Yoga Class ₹7.6
+2024-05-15,Healthcare,6.5,MedPlus Bill ₹6.5
+2024-05-16,Miscellaneous,5.27,Gift Shop ₹5.27
+2024-05-16,Entertainment,9.0,BookMyShow Ticket ₹9.0
+2024-05-16,Shopping,9.5,TataCliq Payment ₹9.5
+2024-05-16,Dining,7.6,Subway Sandwich ₹7.6
+2024-05-16,Dining,100.0,KFC Meal ₹100.0
+2024-05-16,Investment,3.14,Stock Purchase ₹3.14
+2024-05-17,Healthcare,7.35,Doctor Visit ₹7.35
+2024-05-17,Dining,11.0,KFC Meal ₹11.0
+2024-05-17,Dining,5.0,KFC Meal ₹5.0
+2024-05-17,Healthcare,6.3,Doctor Visit ₹6.3
+2024-05-18,Travel,0.8,Air India Flight ₹0.8
+2024-05-18,Insurance,7.6,Car Insurance ₹7.6
+2024-05-18,Investment,7.2,PPF Deposit ₹7.2
+2024-05-18,Healthcare,8.4,Apollo Pharmacy ₹8.4
+2024-05-19,Travel,48.0,MakeMyTrip Payment ₹48.0
+2024-05-19,Healthcare,7.6,MedPlus Bill ₹7.6
+2024-05-19,Fitness,25.0,Yoga Class ₹25.0
+2024-05-19,Bills,5.6,Jio Fiber Recharge ₹5.6
+2024-05-19,Education,19.0,Byjus Payment ₹19.0
+2024-05-19,Entertainment,3.8,BookMyShow Ticket ₹3.8
+2024-05-19,Fitness,10.0,Gym Membership ₹10.0
+2024-05-19,Groceries,11.0,BigBasket Order ₹11.0
+2024-05-19,Healthcare,7.35,Diagnostic Center Payment ₹7.35
+2024-05-19,Fitness,2.0,Gym Membership ₹2.0
+2024-05-20,Education,2.6,Byjus Payment ₹2.6
+2024-05-20,Insurance,5.6,Health Insurance ₹5.6
+2024-05-20,Insurance,7.6,LIC Premium ₹7.6
+2024-05-20,Investment,7.6,Mutual Fund SIP ₹7.6
+2024-05-20,Transport,100.0,Uber Trip ₹100.0
+2024-05-21,Groceries,10.0,More Supermarket ₹10.0
+2024-05-21,Groceries,1.8,More Supermarket ₹1.8
+2024-05-21,Insurance,3.0,Car Insurance ₹3.0
+2024-05-21,Healthcare,7.2,Apollo Pharmacy ₹7.2
+2024-05-21,Investment,10.0,PPF Deposit ₹10.0
+2024-05-22,Dining,2.5,Subway Sandwich ₹2.5
+2024-05-22,Food,7.6,Dominos Order ₹7.6
+2024-05-22,Bills,10.0,Jio Fiber Recharge ₹10.0
+2024-05-22,Food,7.6,Cafe Coffee Day ₹7.6
+2024-05-22,Bills,1.8,Airtel Postpaid ₹1.8
+2024-05-22,Entertainment,9.6,Spotify Payment ₹9.6
+2024-05-23,Fitness,7.6,Yoga Class ₹7.6
+2024-05-23,Food,2.5,Zomato Order ₹2.5
+2024-05-23,Food,22.0,Zomato Order ₹22.0
+2024-05-24,Transport,7.2,Train Ticket ₹7.2
+2024-05-24,Fitness,12.9,Yoga Class ₹12.9
+2024-05-24,Healthcare,14.0,Diagnostic Center Payment ₹14.0
+2024-05-24,Food,3.5,Swiggy Payment ₹3.5
+2024-05-24,Dining,7.6,Subway Sandwich ₹7.6
+2024-05-24,Insurance,31.0,Car Insurance ₹31.0
+2024-05-25,Investment,7.6,Crypto Investment ₹7.6
+2024-05-25,Entertainment,4.0,BookMyShow Ticket ₹4.0
+2024-05-26,Education,0.5,Skillshare Membership ₹0.5
+2024-05-26,Shopping,7.6,Ajio Shopping ₹7.6
+2024-05-26,Dining,4.5,Subway Sandwich ₹4.5
+2024-05-27,Bills,0.55,Internet Bill ₹0.55
+2024-05-27,Healthcare,2.5,MedPlus Bill ₹2.5
+2024-05-27,Shopping,18.0,Amazon Purchase ₹18.0
+2024-05-27,Education,4.3,Coursera Subscription ₹4.3
+2024-05-27,Entertainment,4.4,Netflix Subscription ₹4.4
+2024-05-27,Entertainment,4.25,Spotify Payment ₹4.25
+2024-05-27,Groceries,2.8,Reliance Fresh ₹2.8
+2024-05-28,Groceries,12.0,More Supermarket ₹12.0
+2024-05-28,Miscellaneous,5.0,Petrol Pump ₹5.0
+2024-05-28,Shopping,7.0,TataCliq Payment ₹7.0
+2024-05-29,Education,2.5,Skillshare Membership ₹2.5
+2024-05-29,Entertainment,6.0,BookMyShow Ticket ₹6.0
+2024-05-29,Travel,11.0,MakeMyTrip Payment ₹11.0
+2024-05-29,Food,5.6,Burger King Payment ₹5.6
+2024-05-29,Transport,3.0,Rapido Ride ₹3.0
+2024-05-29,Investment,10.0,Mutual Fund SIP ₹10.0
+2024-05-30,Miscellaneous,0.5,Donation ₹0.5
+2024-05-30,Travel,13.0,OYO Rooms Booking ₹13.0
+2024-05-31,Dining,4.5,McDonalds Bill ₹4.5
+2024-05-31,Healthcare,7.7,Doctor Visit ₹7.7
+2024-05-31,Entertainment,6.8,YouTube Premium ₹6.8
+2024-06-01,Entertainment,4.8,Netflix Subscription ₹4.8
+2024-06-01,Education,0.5,Unacademy Plan ₹0.5
+2024-06-01,Healthcare,44.0,Apollo Pharmacy ₹44.0
+2024-06-01,Transport,4.8,Delhi Metro Recharge ₹4.8
+2024-06-01,Transport,5.6,Rapido Ride ₹5.6
+2024-06-01,Insurance,4.8,LIC Premium ₹4.8
+2024-06-01,Education,20.0,Byjus Payment ₹20.0
+2024-06-02,Travel,10.0,OYO Rooms Booking ₹10.0
+2024-06-02,Shopping,4.8,TataCliq Payment ₹4.8
+2024-06-02,Education,35.0,Unacademy Plan ₹35.0
+2024-06-02,Shopping,7.6,Myntra Order ₹7.6
+2024-06-02,Transport,26.0,Uber Trip ₹26.0
+2024-06-02,Entertainment,1.4,Hotstar Renewal ₹1.4
+2024-06-02,Dining,35.0,Barbeque Nation ₹35.0
+2024-06-03,Dining,5.3,Subway Sandwich ₹5.3
+2024-06-03,Bills,10.9,Water Bill ₹10.9
+2024-06-03,Shopping,7.6,Ajio Shopping ₹7.6
+2024-06-03,Groceries,6.6,DMart Purchase ₹6.6
+2024-06-03,Fitness,50.0,Protein Supplement ₹50.0
+2024-06-03,Investment,5.6,Crypto Investment ₹5.6
+2024-06-03,Travel,1.3,MakeMyTrip Payment ₹1.3
+2024-06-04,Entertainment,10.0,Netflix Subscription ₹10.0
+2024-06-04,Insurance,4.8,Car Insurance ₹4.8
+2024-06-04,Travel,3.0,OYO Rooms Booking ₹3.0
+2024-06-04,Food,12.0,Pizza Hut Bill ₹12.0
+2024-06-04,Transport,4.8,Rapido Ride ₹4.8
+2024-06-04,Bills,8.0,Internet Bill ₹8.0
+2024-06-05,Fitness,7.0,Protein Supplement ₹7.0
+2024-06-05,Entertainment,23.0,Spotify Payment ₹23.0
+2024-06-05,Insurance,4.8,Car Insurance ₹4.8
+2024-06-05,Miscellaneous,4.8,Donation ₹4.8
+2024-06-05,Food,3.0,Burger King Payment ₹3.0
+2024-06-06,Investment,7.6,PPF Deposit ₹7.6
+2024-06-06,Shopping,5.9,Amazon Purchase ₹5.9
+2024-06-06,Travel,150.0,IRCTC Train Ticket ₹150.0
+2024-06-06,Insurance,5.8,Health Insurance ₹5.8
+2024-06-07,Education,2.0,Udemy Course ₹2.0
+2024-06-07,Miscellaneous,6.5,Gift Shop ₹6.5
+2024-06-07,Education,6.5,Coursera Subscription ₹6.5
+2024-06-07,Investment,15.0,Stock Purchase ₹15.0
+2024-06-07,Fitness,3.0,Yoga Class ₹3.0
+2024-06-07,Healthcare,15.0,Doctor Visit ₹15.0
+2024-06-08,Healthcare,10.0,Diagnostic Center Payment ₹10.0
+2024-06-08,Education,6.5,Unacademy Plan ₹6.5
+2024-06-08,Miscellaneous,7.6,Donation ₹7.6
+2024-06-08,Shopping,31.0,Amazon Purchase ₹31.0
+2024-06-08,Food,4.8,Cafe Coffee Day ₹4.8
+2024-06-08,Transport,27.0,Train Ticket ₹27.0
+2024-06-08,Transport,2.3,Delhi Metro Recharge ₹2.3
+2024-06-09,Groceries,3.0,Reliance Fresh ₹3.0
+2024-06-09,Healthcare,8.4,Apollo Pharmacy ₹8.4
+2024-06-09,Dining,40.0,Barbeque Nation ₹40.0
+2024-06-09,Fitness,123.0,Protein Supplement ₹123.0
+2024-06-09,Transport,88.0,Ola Ride ₹88.0
+2024-06-09,Groceries,11.0,More Supermarket ₹11.0
+2024-06-09,Healthcare,5.55,MedPlus Bill ₹5.55
+2024-06-10,Fitness,10.0,CultFit Subscription ₹10.0
+2024-06-10,Fitness,8.0,CultFit Subscription ₹8.0
+2024-06-10,Transport,5.0,Cab Fare ₹5.0
+2024-06-10,Groceries,1.0,DMart Purchase ₹1.0
+2024-06-11,Investment,21.0,Mutual Fund SIP ₹21.0
+2024-06-11,Miscellaneous,10.0,Gift Shop ₹10.0
+2024-06-11,Entertainment,7.0,Hotstar Renewal ₹7.0
+2024-06-11,Insurance,250.0,Health Insurance ₹250.0
+2024-06-11,Food,10.0,Cafe Coffee Day ₹10.0
+2024-06-12,Dining,3.2,Subway Sandwich ₹3.2
+2024-06-12,Healthcare,7.6,Diagnostic Center Payment ₹7.6
+2024-06-12,Transport,6.3,Rapido Ride ₹6.3
+2024-06-12,Insurance,5.2,Health Insurance ₹5.2
+2024-06-12,Entertainment,200.0,YouTube Premium ₹200.0
+2024-06-12,Insurance,402.0,LIC Premium ₹402.0
+2024-06-12,Bills,5.5,Water Bill ₹5.5
+2024-06-13,Bills,8.5,Jio Fiber Recharge ₹8.5
+2024-06-13,Investment,8.0,Crypto Investment ₹8.0
+2024-06-13,Fitness,24.0,CultFit Subscription ₹24.0
+2024-06-14,Entertainment,3.3,Netflix Subscription ₹3.3
+2024-06-14,Education,3.0,Unacademy Plan ₹3.0
+2024-06-14,Entertainment,8.0,Hotstar Renewal ₹8.0
+2024-06-14,Shopping,43.0,Flipkart Order ₹43.0
+2024-06-15,Healthcare,5.7,Diagnostic Center Payment ₹5.7
+2024-06-15,Insurance,5.6,LIC Premium ₹5.6
+2024-06-15,Food,8.4,Swiggy Payment ₹8.4
+2024-06-15,Bills,6.6,Airtel Postpaid ₹6.6
+2024-06-15,Dining,5.7,Subway Sandwich ₹5.7
+2024-06-16,Healthcare,7.6,Diagnostic Center Payment ₹7.6
+2024-06-16,Transport,5.7,Uber Trip ₹5.7
+2024-06-16,Food,4.55,Dominos Order ₹4.55
+2024-06-17,Education,6.1,Udemy Course ₹6.1
+2024-06-17,Investment,16.0,Stock Purchase ₹16.0
+2024-06-17,Transport,22.0,Rapido Ride ₹22.0
+2024-06-17,Education,4.1,Skillshare Membership ₹4.1
+2024-06-17,Fitness,13.0,Protein Supplement ₹13.0
+2024-06-18,Shopping,8.0,TataCliq Payment ₹8.0
+2024-06-18,Fitness,5.7,CultFit Subscription ₹5.7
+2024-06-18,Travel,9.2,OYO Rooms Booking ₹9.2
+2024-06-19,Investment,17.0,Crypto Investment ₹17.0
+2024-06-19,Healthcare,6.6,Doctor Visit ₹6.6
+2024-06-19,Investment,0.8,Stock Purchase ₹0.8
+2024-06-19,Fitness,5.3,Protein Supplement ₹5.3
+2024-06-19,Shopping,20.0,Flipkart Order ₹20.0
+2024-06-19,Investment,10.0,Stock Purchase ₹10.0
+2024-06-20,Shopping,10.0,Myntra Order ₹10.0
+2024-06-20,Groceries,8.6,More Supermarket ₹8.6
+2024-06-20,Fitness,5.8,Gym Membership ₹5.8
+2024-06-20,Food,18.0,Swiggy Payment ₹18.0
+2024-06-21,Miscellaneous,0.4,Gift Shop ₹0.4
+2024-06-21,Fitness,2.0,Gym Membership ₹2.0
+2024-06-21,Shopping,4.8,TataCliq Payment ₹4.8
+2024-06-21,Groceries,2.0,DMart Purchase ₹2.0
+2024-06-22,Bills,0.8,Electricity Bill BSES ₹0.8
+2024-06-22,Shopping,8.4,Myntra Order ₹8.4
+2024-06-22,Healthcare,5.7,Apollo Pharmacy ₹5.7
+2024-06-22,Fitness,3.0,Yoga Class ₹3.0
+2024-06-22,Food,1.85,Zomato Order ₹1.85
+2024-06-23,Insurance,8.4,Health Insurance ₹8.4
+2024-06-23,Food,1.0,Cafe Coffee Day ₹1.0
+2024-06-24,Education,1.7,Coursera Subscription ₹1.7
+2024-06-24,Travel,8.5,IRCTC Train Ticket ₹8.5
+2024-06-24,Insurance,6.0,Car Insurance ₹6.0
+2024-06-24,Fitness,3.2,Gym Membership ₹3.2
+2024-06-24,Transport,3.0,Rapido Ride ₹3.0
+2024-06-25,Education,5.4,Byjus Payment ₹5.4
+2024-06-25,Food,8.3,Cafe Coffee Day ₹8.3
+2024-06-25,Transport,5.7,Ola Ride ₹5.7
+2024-06-25,Fitness,5.9,Gym Membership ₹5.9
+2024-06-26,Education,1.5,Udemy Course ₹1.5
+2024-06-26,Shopping,6.0,Flipkart Order ₹6.0
+2024-06-26,Miscellaneous,40.0,Charity ₹40.0
+2024-06-26,Miscellaneous,20.0,Petrol Pump ₹20.0
+2024-06-26,Education,5.9,Byjus Payment ₹5.9
+2024-06-26,Education,3.0,Udemy Course ₹3.0
+2024-06-26,Insurance,19.0,Health Insurance ₹19.0
+2024-06-26,Investment,25.0,Crypto Investment ₹25.0
+2024-06-27,Healthcare,3.0,MedPlus Bill ₹3.0
+2024-06-27,Fitness,2.27,Yoga Class ₹2.27
+2024-06-28,Groceries,3.3,BigBasket Order ₹3.3
+2024-06-28,Food,5.4,Cafe Coffee Day ₹5.4
+2024-06-28,Fitness,8.3,Yoga Class ₹8.3
+2024-06-29,Food,10.0,Cafe Coffee Day ₹10.0
+2024-06-29,Entertainment,5.9,Hotstar Renewal ₹5.9
+2024-06-29,Insurance,19.0,Health Insurance ₹19.0
+2024-06-29,Healthcare,13.0,Diagnostic Center Payment ₹13.0
+2024-06-29,Shopping,5.6,TataCliq Payment ₹5.6
+2024-06-29,Education,20.0,Udemy Course ₹20.0
+2024-06-30,Food,10.0,Cafe Coffee Day ₹10.0
+2024-06-29,Travel,20.0,OYO Rooms Booking ₹20.0
+2024-06-30,Insurance,6.0,Car Insurance ₹6.0
+2024-06-30,Miscellaneous,5.7,Stationery Store ₹5.7
+2024-06-30,Healthcare,5.0,Apollo Pharmacy ₹5.0
+2024-06-30,Healthcare,6.0,MedPlus Bill ₹6.0
+2024-06-30,Groceries,10.0,BigBasket Order ₹10.0
+2024-06-30,Travel,2.2,Air India Flight ₹2.2
+2024-06-30,Education,29.0,Unacademy Plan ₹29.0
+2024-07-01,Fitness,7.2,Gym Membership ₹7.2
+2024-07-01,Entertainment,11.0,YouTube Premium ₹11.0
+2024-07-01,Dining,213.0,McDonalds Bill ₹213.0
+2024-07-01,Healthcare,8.7,Apollo Pharmacy ₹8.7
+2024-07-02,Insurance,5.25,Health Insurance ₹5.25
+2024-07-02,Food,5.5,Pizza Hut Bill ₹5.5
+2024-07-02,Bills,8.0,Internet Bill ₹8.0
+2024-07-02,Entertainment,8.7,Netflix Subscription ₹8.7
+2024-07-02,Education,7.0,Skillshare Membership ₹7.0
+2024-07-03,Groceries,12.0,Reliance Fresh ₹12.0
+2024-07-03,Education,7.35,Byjus Payment ₹7.35
+2024-07-03,Insurance,16.0,LIC Premium ₹16.0
+2024-07-03,Food,8.7,Dominos Order ₹8.7
+2024-07-03,Travel,8.0,OYO Rooms Booking ₹8.0
+2024-07-04,Transport,5.4,Rapido Ride ₹5.4
+2024-07-04,Investment,7.35,Stock Purchase ₹7.35
+2024-07-04,Bills,7.0,Airtel Postpaid ₹7.0
+2024-07-04,Transport,14.0,Cab Fare ₹14.0
+2024-07-04,Bills,8.0,Internet Bill ₹8.0
+2024-07-04,Insurance,204.0,Car Insurance ₹204.0
+2024-07-05,Transport,5.0,Train Ticket ₹5.0
+2024-07-05,Bills,4.3,Electricity Bill BSES ₹4.3
+2024-07-05,Food,10.0,Zomato Order ₹10.0
+2024-07-05,Food,1.3,Pizza Hut Bill ₹1.3
+2024-07-05,Entertainment,8.0,Netflix Subscription ₹8.0
+2024-07-05,Entertainment,6.0,BookMyShow Ticket ₹6.0
+2024-07-05,Entertainment,4.5,Spotify Payment ₹4.5
+2024-07-05,Entertainment,42.0,Hotstar Renewal ₹42.0
+2024-07-06,Fitness,20.0,Gym Membership ₹20.0
+2024-07-06,Fitness,500.0,Protein Supplement ₹500.0
+2024-07-06,Healthcare,21.0,MedPlus Bill ₹21.0
+2024-07-06,Shopping,12.0,Myntra Order ₹12.0
+2024-07-05,Groceries,5.0,More Supermarket ₹5.0
+2024-07-06,Travel,3.0,MakeMyTrip Payment ₹3.0
+2024-07-07,Travel,6.0,OYO Rooms Booking ₹6.0
+2024-07-07,Education,8.0,Udemy Course ₹8.0
+2024-07-07,Shopping,13.0,Myntra Order ₹13.0
+2024-07-08,Shopping,5.2,TataCliq Payment ₹5.2
+2024-07-08,Shopping,10.0,Flipkart Order ₹10.0
+2024-07-08,Travel,10.0,Air India Flight ₹10.0
+2024-07-09,Groceries,12.0,BigBasket Order ₹12.0
+2024-07-09,Healthcare,8.3,MedPlus Bill ₹8.3
+2024-07-09,Miscellaneous,8.0,Donation ₹8.0
+2024-07-10,Travel,3.2,MakeMyTrip Payment ₹3.2
+2024-07-10,Education,50.0,Udemy Course ₹50.0
+2024-07-10,Education,1.0,Unacademy Plan ₹1.0
+2024-07-10,Transport,20.0,Train Ticket ₹20.0
+2024-07-10,Groceries,5.8,BigBasket Order ₹5.8
+2024-07-10,Healthcare,5.0,Diagnostic Center Payment ₹5.0
+2024-07-10,Fitness,4.0,CultFit Subscription ₹4.0
+2024-07-11,Travel,1.6,IRCTC Train Ticket ₹1.6
+2024-07-11,Entertainment,200.0,YouTube Premium ₹200.0
+2024-07-11,Education,10.0,Skillshare Membership ₹10.0
+2024-07-11,Entertainment,15.0,Hotstar Renewal ₹15.0
+2024-07-11,Insurance,7.0,Health Insurance ₹7.0
+2024-07-11,Travel,8.0,Air India Flight ₹8.0
+2024-07-11,Education,0.85,Unacademy Plan ₹0.85
+2024-07-12,Investment,11.0,Crypto Investment ₹11.0
+2024-07-12,Dining,7.2,Subway Sandwich ₹7.2
+2024-07-12,Fitness,55.0,CultFit Subscription ₹55.0
+2024-07-12,Miscellaneous,5.0,Donation ₹5.0
+2024-07-13,Food,8.0,Cafe Coffee Day ₹8.0
+2024-07-13,Entertainment,7.0,Spotify Payment ₹7.0
+2024-07-13,Bills,5.7,Water Bill ₹5.7
+2024-07-13,Groceries,8.0,DMart Purchase ₹8.0
+2024-07-13,Groceries,1.0,Reliance Fresh ₹1.0
+2024-07-14,Entertainment,8.0,Netflix Subscription ₹8.0
+2024-07-14,Healthcare,6.0,Doctor Visit ₹6.0
+2024-07-14,Travel,8.0,Air India Flight ₹8.0
+2024-07-14,Bills,13.0,Airtel Postpaid ₹13.0
+2024-07-14,Shopping,5.0,TataCliq Payment ₹5.0
+2024-07-14,Groceries,120.0,Reliance Fresh ₹120.0
+2024-07-14,Transport,10.0,Ola Ride ₹10.0
+2024-07-15,Groceries,6.0,More Supermarket ₹6.0
+2024-07-15,Dining,10.0,KFC Meal ₹10.0
+2024-07-15,Shopping,9.0,Flipkart Order ₹9.0
+2024-07-15,Shopping,9.0,Ajio Shopping ₹9.0
+2024-07-15,Insurance,12.0,LIC Premium ₹12.0
+2024-07-16,Food,6.24,Cafe Coffee Day ₹6.24
+2024-07-16,Entertainment,8.0,YouTube Premium ₹8.0
+2024-07-17,Miscellaneous,7.0,Charity ₹7.0
+2024-07-17,Insurance,5.0,LIC Premium ₹5.0
+2024-07-17,Insurance,2222.0,LIC Premium ₹2222.0
+2024-07-17,Transport,5.0,Uber Trip ₹5.0
+2024-07-17,Healthcare,10.0,Diagnostic Center Payment ₹10.0
+2024-07-17,Groceries,88.0,Reliance Fresh ₹88.0
+2024-07-17,Dining,2.5,McDonalds Bill ₹2.5
+2024-07-17,Travel,18.0,IRCTC Train Ticket ₹18.0
+2024-07-17,Entertainment,5.1,BookMyShow Ticket ₹5.1
+2024-07-18,Insurance,5.6,Health Insurance ₹5.6
+2024-07-18,Bills,9.0,Water Bill ₹9.0
+2024-07-18,Transport,7.0,Delhi Metro Recharge ₹7.0
+2024-07-19,Groceries,8.0,DMart Purchase ₹8.0
+2024-07-19,Education,5.7,Skillshare Membership ₹5.7
+2024-07-18,Shopping,23.0,Flipkart Order ₹23.0
+2024-07-19,Entertainment,5.0,Spotify Payment ₹5.0
+2024-07-20,Healthcare,8.0,Diagnostic Center Payment ₹8.0
+2024-07-20,Shopping,150.0,TataCliq Payment ₹150.0
+2024-07-20,Dining,50.0,KFC Meal ₹50.0
+2024-07-21,Shopping,5.7,Ajio Shopping ₹5.7
+2024-07-21,Entertainment,8.7,Netflix Subscription ₹8.7
+2024-07-21,Bills,40.0,Jio Fiber Recharge ₹40.0
+2024-07-22,Investment,19.0,Crypto Investment ₹19.0
+2024-07-22,Miscellaneous,7.1,Donation ₹7.1
+2024-07-22,Travel,60.0,Air India Flight ₹60.0
+2024-07-23,Shopping,2.0,Myntra Order ₹2.0
+2024-07-23,Travel,1.0,OYO Rooms Booking ₹1.0
+2024-07-23,Healthcare,5.7,Doctor Visit ₹5.7
+2024-07-23,Miscellaneous,8.0,Petrol Pump ₹8.0
+2024-07-23,Education,5.0,Unacademy Plan ₹5.0
+2024-07-23,Food,15.0,Dominos Order ₹15.0
+2024-07-24,Miscellaneous,1.0,Petrol Pump ₹1.0
+2024-07-24,Investment,18.1,Mutual Fund SIP ₹18.1
+2024-07-24,Shopping,6.0,Flipkart Order ₹6.0
+2024-07-24,Entertainment,0.5,Spotify Payment ₹0.5
+2024-07-25,Education,9.0,Byjus Payment ₹9.0
+2024-07-25,Dining,20.0,Barbeque Nation ₹20.0
+2024-07-25,Education,15.0,Coursera Subscription ₹15.0
+2024-07-25,Education,90.0,Unacademy Plan ₹90.0
+2024-07-25,Shopping,0.5,TataCliq Payment ₹0.5
+2024-07-25,Entertainment,2.25,Netflix Subscription ₹2.25
+2024-07-25,Miscellaneous,19.0,Petrol Pump ₹19.0
+2024-07-26,Education,8.7,Coursera Subscription ₹8.7
+2024-07-26,Investment,2.5,Crypto Investment ₹2.5
+2024-07-26,Entertainment,5.9,BookMyShow Ticket ₹5.9
+2024-07-26,Fitness,2.5,Protein Supplement ₹2.5
+2024-07-26,Miscellaneous,8.0,Donation ₹8.0
+2024-07-26,Insurance,8.0,Car Insurance ₹8.0
+2024-07-26,Travel,8.0,Air India Flight ₹8.0
+2024-07-27,Food,8.0,Pizza Hut Bill ₹8.0
+2024-07-27,Groceries,15.0,BigBasket Order ₹15.0
+2024-07-27,Insurance,5.7,LIC Premium ₹5.7
+2024-07-27,Insurance,26.0,LIC Premium ₹26.0
+2024-07-28,Shopping,8.7,Myntra Order ₹8.7
+2024-07-28,Education,11.0,Byjus Payment ₹11.0
+2024-07-28,Miscellaneous,5.7,Donation ₹5.7
+2024-07-28,Shopping,2.0,Amazon Purchase ₹2.0
+2024-07-28,Insurance,16.0,Car Insurance ₹16.0
+2024-07-29,Education,8.0,Coursera Subscription ₹8.0
+2024-07-29,Healthcare,100.0,Diagnostic Center Payment ₹100.0
+2024-07-29,Transport,8.0,Cab Fare ₹8.0
+2024-07-29,Entertainment,10.0,Netflix Subscription ₹10.0
+2024-07-29,Fitness,5.0,CultFit Subscription ₹5.0
+2024-07-30,Dining,16.0,Barbeque Nation ₹16.0
+2024-07-30,Bills,15.0,Airtel Postpaid ₹15.0
+2024-07-30,Transport,72.0,Train Ticket ₹72.0
+2024-07-31,Miscellaneous,89.0,Gift Shop ₹89.0
+2024-07-31,Investment,16.0,Crypto Investment ₹16.0
+2024-07-31,Shopping,35.0,Ajio Shopping ₹35.0
+2024-07-31,Miscellaneous,3.0,Charity ₹3.0
+2024-07-31,Dining,11.0,Barbeque Nation ₹11.0
+2024-07-31,Entertainment,10.0,Netflix Subscription ₹10.0
+2024-07-31,Bills,5.0,Jio Fiber Recharge ₹5.0
+2024-07-31,Food,8.0,Swiggy Payment ₹8.0
+2024-08-01,Dining,20.0,McDonalds Bill ₹20.0
+2024-08-01,Fitness,2.4,Yoga Class ₹2.4
+2024-08-01,Travel,2.5,OYO Rooms Booking ₹2.5
+2024-08-01,Dining,6.75,McDonalds Bill ₹6.75
+2024-08-01,Miscellaneous,10.0,Donation ₹10.0
+2024-08-01,Shopping,8.0,TataCliq Payment ₹8.0
+2024-08-02,Groceries,18.0,DMart Purchase ₹18.0
+2024-08-02,Education,9.0,Udemy Course ₹9.0
+2024-08-02,Insurance,12.0,Health Insurance ₹12.0
+2024-08-02,Fitness,8.0,Gym Membership ₹8.0
+2024-08-02,Entertainment,1.0,BookMyShow Ticket ₹1.0
+2024-08-03,Transport,5.0,Train Ticket ₹5.0
+2024-08-03,Transport,25.0,Delhi Metro Recharge ₹25.0
+2024-08-03,Investment,14.0,PPF Deposit ₹14.0
+2024-08-03,Fitness,8.0,CultFit Subscription ₹8.0
+2024-08-04,Entertainment,15.0,BookMyShow Ticket ₹15.0
+2024-08-04,Transport,8.0,Cab Fare ₹8.0
+2024-08-04,Fitness,15.2,Yoga Class ₹15.2
+2024-08-04,Fitness,16.0,Yoga Class ₹16.0
+2024-08-05,Dining,5.4,Subway Sandwich ₹5.4
+2024-08-05,Travel,12.0,Air India Flight ₹12.0
+2024-08-05,Fitness,8.0,Protein Supplement ₹8.0
+2024-08-05,Groceries,5.0,Reliance Fresh ₹5.0
+2024-08-05,Entertainment,120.0,Spotify Payment ₹120.0
+2024-08-05,Miscellaneous,7.2,Petrol Pump ₹7.2
+2024-08-06,Fitness,15.23,CultFit Subscription ₹15.23
+2024-08-06,Education,27.0,Skillshare Membership ₹27.0
+2024-08-06,Investment,51.0,PPF Deposit ₹51.0
+2024-08-06,Miscellaneous,8.2,Charity ₹8.2
+2024-08-06,Groceries,0.5,More Supermarket ₹0.5
+2024-08-06,Education,10.0,Skillshare Membership ₹10.0
+2024-08-07,Investment,7.2,Crypto Investment ₹7.2
+2024-08-07,Groceries,5.4,BigBasket Order ₹5.4
+2024-08-07,Dining,50.0,KFC Meal ₹50.0
+2024-08-07,Entertainment,8.7,BookMyShow Ticket ₹8.7
+2024-08-07,Fitness,15.0,Gym Membership ₹15.0
+2024-08-08,Investment,7.2,Stock Purchase ₹7.2
+2024-08-08,Food,15.23,Pizza Hut Bill ₹15.23
+2024-08-08,Entertainment,8.7,BookMyShow Ticket ₹8.7
+2024-08-08,Groceries,5.32,More Supermarket ₹5.32
+2024-08-09,Miscellaneous,5.4,Gift Shop ₹5.4
+2024-08-09,Fitness,15.0,Protein Supplement ₹15.0
+2024-08-09,Education,4.2,Coursera Subscription ₹4.2
+2024-08-09,Groceries,15.2,DMart Purchase ₹15.2
+2024-08-09,Shopping,61.0,TataCliq Payment ₹61.0
+2024-08-09,Transport,3.0,Cab Fare ₹3.0
+2024-08-10,Food,50.0,Zomato Order ₹50.0
+2024-08-10,Food,3.21,Cafe Coffee Day ₹3.21
+2024-08-10,Fitness,8.0,Gym Membership ₹8.0
+2024-08-10,Transport,15.2,Uber Trip ₹15.2
+2024-08-10,Miscellaneous,1.0,Petrol Pump ₹1.0
+2024-08-10,Food,7.0,Swiggy Payment ₹7.0
+2024-08-10,Miscellaneous,150.0,Petrol Pump ₹150.0
+2024-08-11,Transport,15.2,Ola Ride ₹15.2
+2024-08-11,Bills,1.0,Electricity Bill BSES ₹1.0
+2024-08-11,Dining,8.0,KFC Meal ₹8.0
+2024-08-11,Healthcare,8.52,Doctor Visit ₹8.52
+2024-08-11,Transport,0.5,Ola Ride ₹0.5
+2024-08-12,Fitness,15.23,Protein Supplement ₹15.23
+2024-08-12,Food,3.33,Dominos Order ₹3.33
+2024-08-12,Transport,9.0,Delhi Metro Recharge ₹9.0
+2024-08-12,Entertainment,7.53,Hotstar Renewal ₹7.53
+2024-08-12,Transport,10.0,Cab Fare ₹10.0
+2024-08-13,Entertainment,2.0,Hotstar Renewal ₹2.0
+2024-08-13,Insurance,19.0,Car Insurance ₹19.0
+2024-08-13,Fitness,11.0,Gym Membership ₹11.0
+2024-08-13,Groceries,5.0,More Supermarket ₹5.0
+2024-08-13,Entertainment,70.0,Spotify Payment ₹70.0
+2024-08-13,Entertainment,18.0,BookMyShow Ticket ₹18.0
+2024-08-14,Insurance,1.5,LIC Premium ₹1.5
+2024-08-14,Miscellaneous,12.0,Gift Shop ₹12.0
+2024-08-14,Groceries,8.0,BigBasket Order ₹8.0
+2024-08-14,Investment,16.0,PPF Deposit ₹16.0
+2024-08-15,Education,1.0,Unacademy Plan ₹1.0
+2024-08-15,Groceries,15.23,DMart Purchase ₹15.23
+2024-08-15,Miscellaneous,10.0,Stationery Store ₹10.0
+2024-08-15,Investment,39.0,Mutual Fund SIP ₹39.0
+2024-08-15,Travel,8.0,Air India Flight ₹8.0
+2024-08-15,Fitness,8.0,Gym Membership ₹8.0
+2024-08-16,Healthcare,1.0,Diagnostic Center Payment ₹1.0
+2024-08-16,Entertainment,2.5,Spotify Payment ₹2.5
+2024-08-16,Healthcare,6.75,Apollo Pharmacy ₹6.75
+2024-08-16,Healthcare,11.3,Diagnostic Center Payment ₹11.3
+2024-08-16,Healthcare,8.0,Apollo Pharmacy ₹8.0
+2024-08-16,Dining,83.0,Barbeque Nation ₹83.0
+2024-08-17,Miscellaneous,15.2,Donation ₹15.2
+2024-08-17,Food,8.0,Zomato Order ₹8.0
+2024-08-17,Miscellaneous,18.0,Gift Shop ₹18.0
+2024-08-17,Entertainment,1.0,Hotstar Renewal ₹1.0
+2024-08-17,Entertainment,7.0,BookMyShow Ticket ₹7.0
+2024-08-18,Miscellaneous,15.2,Gift Shop ₹15.2
+2024-08-18,Healthcare,8.0,MedPlus Bill ₹8.0
+2024-08-18,Shopping,0.5,TataCliq Payment ₹0.5
+2024-08-18,Healthcare,2.0,Apollo Pharmacy ₹2.0
+2024-08-18,Dining,13.13,McDonalds Bill ₹13.13
+2024-08-19,Insurance,2.5,Health Insurance ₹2.5
+2024-08-19,Entertainment,12.0,Hotstar Renewal ₹12.0
+2024-08-19,Entertainment,8.0,Spotify Payment ₹8.0
+2024-08-19,Entertainment,2.45,Netflix Subscription ₹2.45
+2024-08-19,Groceries,2.5,Reliance Fresh ₹2.5
+2024-08-20,Entertainment,1.0,Netflix Subscription ₹1.0
+2024-08-20,Insurance,2.5,Health Insurance ₹2.5
+2024-08-20,Travel,8.0,IRCTC Train Ticket ₹8.0
+2024-08-20,Investment,3.55,Mutual Fund SIP ₹3.55
+2024-08-21,Shopping,2.5,Flipkart Order ₹2.5
+2024-08-21,Food,6.75,Burger King Payment ₹6.75
+2024-08-21,Insurance,10.0,Car Insurance ₹10.0
+2024-08-21,Groceries,2.0,More Supermarket ₹2.0
+2024-08-21,Investment,3.0,PPF Deposit ₹3.0
+2024-08-22,Bills,2.0,Airtel Postpaid ₹2.0
+2024-08-22,Education,15.23,Skillshare Membership ₹15.23
+2024-08-22,Miscellaneous,8.0,Donation ₹8.0
+2024-08-23,Dining,2.5,KFC Meal ₹2.5
+2024-08-23,Miscellaneous,6.75,Stationery Store ₹6.75
+2024-08-23,Shopping,9.0,Amazon Purchase ₹9.0
+2024-08-24,Education,0.5,Udemy Course ₹0.5
+2024-08-24,Transport,0.5,Rapido Ride ₹0.5
+2024-08-24,Food,15.0,Pizza Hut Bill ₹15.0
+2024-08-24,Miscellaneous,8.0,Donation ₹8.0
+2024-08-24,Shopping,10.0,Myntra Order ₹10.0
+2024-08-24,Food,0.5,Burger King Payment ₹0.5
+2024-08-25,Shopping,1.0,Myntra Order ₹1.0
+2024-08-25,Investment,9.0,Crypto Investment ₹9.0
+2024-08-25,Healthcare,2.5,MedPlus Bill ₹2.5
+2024-08-25,Bills,8.0,Jio Fiber Recharge ₹8.0
+2024-08-25,Travel,40.0,Air India Flight ₹40.0
+2024-08-25,Healthcare,17.0,Doctor Visit ₹17.0
+2024-08-25,Investment,5.0,PPF Deposit ₹5.0
+2024-08-25,Bills,5.0,Water Bill ₹5.0
+2024-08-25,Shopping,15.0,Amazon Purchase ₹15.0
+2024-08-26,Shopping,0.5,Myntra Order ₹0.5
+2024-08-26,Miscellaneous,5.0,Charity ₹5.0
+2024-08-26,Entertainment,0.55,Hotstar Renewal ₹0.55
+2024-08-26,Groceries,2.5,BigBasket Order ₹2.5
+2024-08-26,Education,10.0,Coursera Subscription ₹10.0
+2024-08-26,Bills,8.0,Internet Bill ₹8.0
+2024-08-26,Education,8.0,Skillshare Membership ₹8.0
+2024-08-26,Miscellaneous,13.0,Petrol Pump ₹13.0
+2024-08-27,Bills,1.0,Electricity Bill BSES ₹1.0
+2024-08-27,Food,11.0,Zomato Order ₹11.0
+2024-08-27,Healthcare,2.5,Diagnostic Center Payment ₹2.5
+2024-08-27,Transport,29.0,Cab Fare ₹29.0
+2024-08-27,Healthcare,15.0,Diagnostic Center Payment ₹15.0
+2024-08-27,Travel,90.0,MakeMyTrip Payment ₹90.0
+2024-08-27,Dining,2.5,KFC Meal ₹2.5
+2024-08-27,Dining,5.0,McDonalds Bill ₹5.0
+2024-08-27,Bills,8.2,Internet Bill ₹8.2
+2024-08-27,Insurance,70.0,LIC Premium ₹70.0
+2024-08-27,Transport,15.0,Rapido Ride ₹15.0
+2024-08-28,Bills,0.5,Electricity Bill BSES ₹0.5
+2024-08-28,Insurance,0.5,Health Insurance ₹0.5
+2024-08-28,Education,0.5,Skillshare Membership ₹0.5
+2024-08-28,Education,7.4,Unacademy Plan ₹7.4
+2024-08-28,Education,2.6,Coursera Subscription ₹2.6
+2024-08-28,Groceries,8.0,More Supermarket ₹8.0
+2024-08-28,Groceries,7.4,BigBasket Order ₹7.4
+2024-08-28,Insurance,11.0,Car Insurance ₹11.0
+2024-08-29,Healthcare,25.0,Diagnostic Center Payment ₹25.0
+2024-08-29,Shopping,1.5,Myntra Order ₹1.5
+2024-08-29,Shopping,8.0,Flipkart Order ₹8.0
+2024-08-29,Entertainment,2.6,Hotstar Renewal ₹2.6
+2024-08-29,Entertainment,9.4,Netflix Subscription ₹9.4
+2024-08-29,Miscellaneous,18.2,Gift Shop ₹18.2
+2024-08-29,Bills,6.0,Water Bill ₹6.0
+2024-08-29,Miscellaneous,5.0,Stationery Store ₹5.0
+2024-08-30,Healthcare,1.0,Diagnostic Center Payment ₹1.0
+2024-08-30,Healthcare,8.0,Apollo Pharmacy ₹8.0
+2024-08-30,Bills,22.0,Internet Bill ₹22.0
+2024-08-30,Fitness,7.0,Yoga Class ₹7.0
+2024-08-30,Food,16.0,Pizza Hut Bill ₹16.0
+2024-08-31,Transport,16.0,Ola Ride ₹16.0
+2024-08-31,Transport,2.0,Uber Trip ₹2.0
+2024-08-31,Entertainment,8.0,YouTube Premium ₹8.0
+2024-09-01,Dining,89.0,Subway Sandwich ₹89.0
+2024-09-01,Groceries,1.0,More Supermarket ₹1.0
+2024-09-01,Food,20.0,Burger King Payment ₹20.0
+2024-09-01,Healthcare,0.45,Apollo Pharmacy ₹0.45
+2024-09-01,Shopping,2.5,TataCliq Payment ₹2.5
+2024-09-01,Travel,8.0,OYO Rooms Booking ₹8.0
+2024-09-01,Groceries,112.0,BigBasket Order ₹112.0
+2024-09-01,Bills,3.0,Airtel Postpaid ₹3.0
+2024-09-01,Bills,8.0,Electricity Bill BSES ₹8.0
+2024-09-01,Fitness,11.0,Gym Membership ₹11.0
+2024-09-01,Entertainment,3.0,YouTube Premium ₹3.0
+2024-09-01,Groceries,16.0,DMart Purchase ₹16.0
+2024-09-01,Fitness,12.0,CultFit Subscription ₹12.0
+2024-09-01,Travel,0.5,OYO Rooms Booking ₹0.5
+2024-09-01,Food,15.2,Pizza Hut Bill ₹15.2
+2024-09-02,Food,0.5,Zomato Order ₹0.5
+2024-09-02,Bills,4.57,Airtel Postpaid ₹4.57
+2024-09-02,Investment,7.35,PPF Deposit ₹7.35
+2024-09-02,Healthcare,2.0,Apollo Pharmacy ₹2.0
+2024-09-02,Fitness,8.1,Protein Supplement ₹8.1
+2024-09-02,Miscellaneous,8.0,Petrol Pump ₹8.0
+2024-09-02,Groceries,170.0,Reliance Fresh ₹170.0
+2024-09-02,Food,0.5,Swiggy Payment ₹0.5
+2024-09-03,Food,16.0,Cafe Coffee Day ₹16.0
+2024-09-03,Transport,3.25,Cab Fare ₹3.25
+2024-09-03,Transport,1.0,Cab Fare ₹1.0
+2024-09-03,Food,16.0,Cafe Coffee Day ₹16.0
+2024-09-03,Groceries,38.0,Reliance Fresh ₹38.0
+2024-09-04,Groceries,16.0,Reliance Fresh ₹16.0
+2024-09-04,Bills,3.25,Electricity Bill BSES ₹3.25
+2024-09-04,Fitness,10.0,Yoga Class ₹10.0
+2024-09-04,Groceries,7.4,DMart Purchase ₹7.4
+2024-09-04,Shopping,95.0,Amazon Purchase ₹95.0
+2024-09-04,Education,3.27,Udemy Course ₹3.27
+2024-09-05,Investment,2.0,Mutual Fund SIP ₹2.0
+2024-09-05,Healthcare,8.1,Diagnostic Center Payment ₹8.1
+2024-09-05,Groceries,7.4,BigBasket Order ₹7.4
+2024-09-05,Food,16.0,Burger King Payment ₹16.0
+2024-09-05,Food,3.5,Zomato Order ₹3.5
+2024-09-05,Insurance,0.5,LIC Premium ₹0.5
+2024-09-06,Investment,7.0,Crypto Investment ₹7.0
+2024-09-06,Healthcare,16.0,Doctor Visit ₹16.0
+2024-09-06,Food,3.5,Dominos Order ₹3.5
+2024-09-06,Education,4.8,Coursera Subscription ₹4.8
+2024-09-06,Healthcare,6.0,Diagnostic Center Payment ₹6.0
+2024-09-07,Education,1.0,Skillshare Membership ₹1.0
+2024-09-07,Healthcare,7.4,Apollo Pharmacy ₹7.4
+2024-09-07,Healthcare,2.6,MedPlus Bill ₹2.6
+2024-09-07,Food,7.4,Dominos Order ₹7.4
+2024-09-07,Entertainment,17.3,BookMyShow Ticket ₹17.3
+2024-09-07,Investment,0.5,Stock Purchase ₹0.5
+2024-09-07,Investment,18.0,Crypto Investment ₹18.0
+2024-09-08,Transport,0.5,Train Ticket ₹0.5
+2024-09-08,Insurance,15.0,Car Insurance ₹15.0
+2024-09-08,Bills,2.0,Water Bill ₹2.0
+2024-09-08,Travel,52.0,MakeMyTrip Payment ₹52.0
+2024-09-08,Travel,0.5,MakeMyTrip Payment ₹0.5
+2024-09-08,Groceries,4.0,DMart Purchase ₹4.0
+2024-09-09,Miscellaneous,0.5,Stationery Store ₹0.5
+2024-09-09,Transport,16.0,Rapido Ride ₹16.0
+2024-09-09,Entertainment,7.0,BookMyShow Ticket ₹7.0
+2024-09-09,Bills,3.25,Electricity Bill BSES ₹3.25
+2024-09-09,Healthcare,57.0,MedPlus Bill ₹57.0
+2024-09-09,Healthcare,1.0,Diagnostic Center Payment ₹1.0
+2024-09-10,Fitness,0.5,Protein Supplement ₹0.5
+2024-09-10,Food,8.0,Zomato Order ₹8.0
+2024-09-10,Investment,5.25,Mutual Fund SIP ₹5.25
+2024-09-10,Insurance,50.0,LIC Premium ₹50.0
+2024-09-10,Shopping,7.8,Amazon Purchase ₹7.8
+2024-09-10,Healthcare,0.5,Diagnostic Center Payment ₹0.5
+2024-09-10,Healthcare,16.0,MedPlus Bill ₹16.0
+2024-09-11,Fitness,3.0,Protein Supplement ₹3.0
+2024-09-11,Food,0.5,Burger King Payment ₹0.5
+2024-09-11,Food,14.0,Dominos Order ₹14.0
+2024-09-11,Bills,50.0,Electricity Bill BSES ₹50.0
+2024-09-11,Shopping,6.0,TataCliq Payment ₹6.0
+2024-09-11,Fitness,12.0,Protein Supplement ₹12.0
+2024-09-11,Miscellaneous,6.0,Gift Shop ₹6.0
+2024-09-11,Insurance,8.0,Car Insurance ₹8.0
+2024-09-11,Healthcare,0.5,Apollo Pharmacy ₹0.5
+2024-09-11,Insurance,180.0,LIC Premium ₹180.0
+2024-09-12,Insurance,0.5,Car Insurance ₹0.5
+2024-09-12,Entertainment,4.1,Spotify Payment ₹4.1
+2024-09-12,Groceries,8.1,DMart Purchase ₹8.1
+2024-09-12,Dining,7.2,Barbeque Nation ₹7.2
+2024-09-12,Miscellaneous,6.0,Stationery Store ₹6.0
+2024-09-12,Dining,5.6,KFC Meal ₹5.6
+2024-09-12,Food,0.5,Zomato Order ₹0.5
+2024-09-12,Miscellaneous,4.0,Charity ₹4.0
+2024-09-13,Fitness,21.0,Yoga Class ₹21.0
+2024-09-13,Groceries,4.0,Reliance Fresh ₹4.0
+2024-09-13,Investment,0.5,PPF Deposit ₹0.5
+2024-09-13,Entertainment,12.0,Spotify Payment ₹12.0
+2024-09-13,Fitness,7.4,Gym Membership ₹7.4
+2024-09-14,Bills,0.5,Electricity Bill BSES ₹0.5
+2024-09-14,Bills,12.1,Airtel Postpaid ₹12.1
+2024-09-14,Investment,2.5,Crypto Investment ₹2.5
+2024-09-14,Entertainment,10.0,Spotify Payment ₹10.0
+2024-09-14,Bills,1.0,Internet Bill ₹1.0
+2024-09-14,Insurance,118.0,LIC Premium ₹118.0
+2024-09-14,Investment,0.5,Stock Purchase ₹0.5
+2024-09-14,Entertainment,3.0,Spotify Payment ₹3.0
+2024-09-14,Bills,6.0,Water Bill ₹6.0
+2024-09-15,Insurance,2.6,LIC Premium ₹2.6
+2024-09-15,Bills,14.0,Internet Bill ₹14.0
+2024-09-15,Shopping,8.0,Myntra Order ₹8.0
+2024-09-15,Fitness,510.0,Gym Membership ₹510.0
+2024-09-15,Bills,178.0,Electricity Bill BSES ₹178.0
+2024-09-16,Travel,11.0,IRCTC Train Ticket ₹11.0
+2024-09-16,Education,8.0,Byjus Payment ₹8.0
+2024-09-16,Transport,9.0,Cab Fare ₹9.0
+2024-09-16,Food,6.23,Cafe Coffee Day ₹6.23
+2024-09-16,Dining,11.0,Barbeque Nation ₹11.0
+2024-09-16,Insurance,8.0,Health Insurance ₹8.0
+2024-09-16,Education,1.0,Unacademy Plan ₹1.0
+2024-09-16,Healthcare,4.0,Diagnostic Center Payment ₹4.0
+2024-09-16,Investment,14.0,Stock Purchase ₹14.0
+2024-09-17,Transport,1.0,Cab Fare ₹1.0
+2024-09-17,Food,8.0,Burger King Payment ₹8.0
+2024-09-17,Education,6.0,Byjus Payment ₹6.0
+2024-09-17,Miscellaneous,10.0,Gift Shop ₹10.0
+2024-09-17,Education,15.0,Udemy Course ₹15.0
+2024-09-17,Investment,8.0,PPF Deposit ₹8.0
+2024-09-17,Groceries,8.0,More Supermarket ₹8.0
+2024-09-17,Miscellaneous,40.0,Stationery Store ₹40.0
+2024-09-17,Bills,10.0,Water Bill ₹10.0
+2024-09-18,Transport,14.0,Train Ticket ₹14.0
+2024-09-18,Investment,10.0,Crypto Investment ₹10.0
+2024-09-18,Fitness,30.0,Protein Supplement ₹30.0
+2024-09-18,Education,1.0,Skillshare Membership ₹1.0
+2024-09-18,Travel,6.0,MakeMyTrip Payment ₹6.0
+2024-09-18,Shopping,17.0,TataCliq Payment ₹17.0
+2024-09-19,Insurance,0.5,Health Insurance ₹0.5
+2024-09-19,Entertainment,7.2,Netflix Subscription ₹7.2
+2024-09-19,Education,12.0,Skillshare Membership ₹12.0
+2024-09-19,Investment,24.0,Mutual Fund SIP ₹24.0
+2024-09-19,Bills,8.0,Water Bill ₹8.0
+2024-09-19,Healthcare,7.0,Doctor Visit ₹7.0
+2024-09-20,Investment,8.0,Stock Purchase ₹8.0
+2024-09-20,Fitness,1.0,CultFit Subscription ₹1.0
+2024-09-20,Bills,7.0,Internet Bill ₹7.0
+2024-09-20,Groceries,10.0,More Supermarket ₹10.0
+2024-09-20,Shopping,10.0,Amazon Purchase ₹10.0
+2024-09-20,Insurance,12.0,Health Insurance ₹12.0
+2024-09-21,Travel,7.4,MakeMyTrip Payment ₹7.4
+2024-09-21,Investment,3.0,Mutual Fund SIP ₹3.0
+2024-09-21,Bills,8.0,Jio Fiber Recharge ₹8.0
+2024-09-21,Dining,0.5,McDonalds Bill ₹0.5
+2024-09-21,Food,5.0,Pizza Hut Bill ₹5.0
+2024-09-22,Travel,7.0,Air India Flight ₹7.0
+2024-09-22,Dining,2.6,Subway Sandwich ₹2.6
+2024-09-22,Travel,48.0,MakeMyTrip Payment ₹48.0
+2024-09-22,Education,8.0,Unacademy Plan ₹8.0
+2024-09-22,Healthcare,7.0,MedPlus Bill ₹7.0
+2024-09-22,Healthcare,1.0,MedPlus Bill ₹1.0
+2024-09-23,Healthcare,0.5,Diagnostic Center Payment ₹0.5
+2024-09-23,Miscellaneous,16.0,Gift Shop ₹16.0
+2024-09-23,Entertainment,5.25,Spotify Payment ₹5.25
+2024-09-23,Healthcare,12.0,Diagnostic Center Payment ₹12.0
+2024-09-23,Fitness,5.0,Yoga Class ₹5.0
+2024-09-23,Bills,4.5,Airtel Postpaid ₹4.5
+2024-09-23,Entertainment,15.0,BookMyShow Ticket ₹15.0
+2024-09-23,Food,0.5,Dominos Order ₹0.5
+2024-09-23,Food,7.2,Dominos Order ₹7.2
+2024-09-24,Dining,7.0,Barbeque Nation ₹7.0
+2024-09-24,Healthcare,6.2,Diagnostic Center Payment ₹6.2
+2024-09-24,Food,7.4,Zomato Order ₹7.4
+2024-09-24,Entertainment,12.0,Netflix Subscription ₹12.0
+2024-09-24,Entertainment,0.5,Hotstar Renewal ₹0.5
+2024-09-25,Insurance,0.5,Health Insurance ₹0.5
+2024-09-25,Healthcare,8.5,Diagnostic Center Payment ₹8.5
+2024-09-25,Insurance,5.25,Car Insurance ₹5.25
+2024-09-25,Education,4.4,Coursera Subscription ₹4.4
+2024-09-25,Food,13.0,Dominos Order ₹13.0
+2024-09-25,Healthcare,0.5,Doctor Visit ₹0.5
+2024-09-26,Entertainment,0.5,Hotstar Renewal ₹0.5
+2024-09-26,Food,6.5,Zomato Order ₹6.5
+2024-09-26,Entertainment,7.2,YouTube Premium ₹7.2
+2024-09-26,Miscellaneous,8.4,Donation ₹8.4
+2024-09-26,Food,7.4,Swiggy Payment ₹7.4
+2024-09-26,Investment,0.5,Crypto Investment ₹0.5
+2024-09-26,Groceries,9.0,DMart Purchase ₹9.0
+2024-09-27,Bills,0.5,Water Bill ₹0.5
+2024-09-27,Education,7.0,Skillshare Membership ₹7.0
+2024-09-27,Transport,17.1,Cab Fare ₹17.1
+2024-09-27,Investment,8.0,Mutual Fund SIP ₹8.0
+2024-09-27,Bills,8.0,Airtel Postpaid ₹8.0
+2024-09-27,Bills,7.4,Internet Bill ₹7.4
+2024-09-27,Entertainment,0.5,BookMyShow Ticket ₹0.5
+2024-09-28,Food,0.5,Pizza Hut Bill ₹0.5
+2024-09-28,Healthcare,8.0,MedPlus Bill ₹8.0
+2024-09-28,Investment,13.0,Stock Purchase ₹13.0
+2024-09-28,Groceries,13.0,More Supermarket ₹13.0
+2024-09-28,Food,0.5,Zomato Order ₹0.5
+2024-09-28,Bills,8.0,Water Bill ₹8.0
+2024-09-29,Insurance,0.5,LIC Premium ₹0.5
+2024-09-29,Fitness,7.4,Gym Membership ₹7.4
+2024-09-29,Food,15.0,Pizza Hut Bill ₹15.0
+2024-09-29,Shopping,8.0,Flipkart Order ₹8.0
